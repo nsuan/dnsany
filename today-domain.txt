@@ -2,8 +2,9 @@
   67407 fkfkfkfa.com.
   54498 fkfkfkfa.com.
   50544 fkfkfkfa.com.
+  40496 fkfkfkfa.com.
+  15435 fkfkfkfa.com.
    7937 qww1.ru.
-   7350 fkfkfkfa.com.
    3442 qww1.ru.
    2362 isc.org.
     694 fkfkfkfa.com.
@@ -952,6 +953,7 @@
       9 qww1.ru.
       9 qww1.ru.
       9 qww1.ru.
+      9 fkfkfkfa.com.
       9 fkfkfkfa.com.
       9 fkfkfkfa.com.
       9 fkfkfkfa.com.
@@ -2195,6 +2197,7 @@
       3 isc.org.
       3 isc.org.
       3 isc.org.
+      3 fkfkfkfa.com.
       3 fkfkfkfa.com.
       3 fkfkfkfa.com.
       3 fkfkfkfa.com.
@@ -4525,4 +4528,13 @@
       1 fkfkfkfa.com.
       1 fkfkfkfa.com.
       1 fkfkfkfa.com.
+      1 fkfkfkfa.com.
+      1 fkfkfkfa.com.
+      1 fkfkfkfa.com.
       1 dong.zong.co.ua.
+      1 (63)
+      1 (63)
+      1 (63)
+      1 (63)
+      1 (30)
+      1 (30)
