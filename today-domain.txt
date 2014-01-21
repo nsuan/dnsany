@@ -1,8 +1,2 @@
- 343450 1x1.cz.
- 217221 dong.zong.co.ua.
-  60868 isc.org.
-    224 (57)
-     86 (33)
-      1 kvfn.ru.
-      1 iri.so.
-      1 .
+   1462 isc.org.
+     32 dong.zong.co.ua.
