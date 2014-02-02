@@ -1,7 +1,2 @@
- 146969 pddos.com.
-  95681 isc.org.
-  82582 1x1.cz.
-     11 (57)
-     10 (24)
-      1 www.microsoft.com.
-      1 iri.so.
+  10839 pddos.com.
+   1098 1x1.cz.
