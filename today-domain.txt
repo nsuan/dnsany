@@ -1,4 +1,2 @@
- 710458 kvfn.ru.
- 460106 pddos.com.
-  38516 isc.org.
-  33812 1x1.cz.
+  32120 kvfn.ru.
+  11377 pddos.com.
