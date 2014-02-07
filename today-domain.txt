@@ -1,4 +1,5 @@
- 769836 pddos.com.
+ 814628 pddos.com.
   37295 isc.org.
-  29531 x.xipzersscc.com.
+  29532 x.xipzersscc.com.
       1 verisign.com.
+      1 .
