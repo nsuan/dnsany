@@ -1,2 +1,3 @@
-  90772 pddos.com.
-  89646 iri.so.
+ 131955 pddos.com.
+ 100006 iri.so.
+   6067 isc.org.
