@@ -1,8 +1,1 @@
- 945844 pddos.com.
- 100006 iri.so.
-  16157 hccforums.nl.
-   6085 x.xipzersscc.com.
-   6068 isc.org.
-    794 ietf.org.
-      1 nlhosting.nl.
-      1 .
+  25117 pddos.com.
