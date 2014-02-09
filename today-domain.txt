@@ -1,6 +1,6 @@
-1209642 pddos.com.
+1276432 pddos.com.
   40723 x.xipzersscc.com.
-   8895 iri.so.
+  17443 iri.so.
    3389 isc.org.
    2667 sandia.gov.
       1 ietf.org.
