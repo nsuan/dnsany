@@ -1,0 +1,146 @@
+95.254.0.96.in-addr.arpa domain name pointer 95.vps.opentransfer.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=96.0.254.95?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       96.0.0.0 - 96.0.255.255
+CIDR:           96.0.0.0/16
+OriginAS:       AS32392
+NetName:        ECOMMERCE-HOSTING-2009
+NetHandle:      NET-96-0-0-0-1
+Parent:         NET-96-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-03-26
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-96-0-0-0-1
+
+OrgName:        Ecommerce Corporation
+OrgId:          ECOMM-5
+Address:        1774 Dividend Dr
+City:           Columbus
+StateProv:      OH
+PostalCode:     43228
+Country:        US
+RegDate:        2006-11-06
+Updated:        2011-05-24
+Ref:            http://whois.arin.net/rest/org/ECOMM-5
+
+OrgTechHandle: HNI1-ARIN
+OrgTechName:   eCommerce NOC
+OrgTechPhone:  +1-614-534-1960 
+OrgTechEmail:  ipadmin@ecommerce.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+OrgAbuseHandle: ABUSE875-ARIN
+OrgAbuseName:   eCommerce Inc ABUSE Dept
+OrgAbusePhone:  +1-614-777-1699 
+OrgAbuseEmail:  abuse@ecommerce.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE875-ARIN
+
+OrgNOCHandle: HNI1-ARIN
+OrgNOCName:   eCommerce NOC
+OrgNOCPhone:  +1-614-534-1960 
+OrgNOCEmail:  ipadmin@ecommerce.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+RNOCHandle: HNI1-ARIN
+RNOCName:   eCommerce NOC
+RNOCPhone:  +1-614-534-1960 
+RNOCEmail:  ipadmin@ecommerce.com
+RNOCRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+RAbuseHandle: ABUSE875-ARIN
+RAbuseName:   eCommerce Inc ABUSE Dept
+RAbusePhone:  +1-614-777-1699 
+RAbuseEmail:  abuse@ecommerce.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE875-ARIN
+
+RTechHandle: HNI1-ARIN
+RTechName:   eCommerce NOC
+RTechPhone:  +1-614-534-1960 
+RTechEmail:  ipadmin@ecommerce.com
+RTechRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+# end
+
+
+# start
+
+NetRange:       96.0.254.0 - 96.0.255.255
+CIDR:           96.0.254.0/23
+OriginAS:       AS32392
+NetName:        DEDICATED-AND-VPS-NETWORK-1
+NetHandle:      NET-96-0-254-0-1
+Parent:         NET-96-0-0-0-1
+NetType:        Reassigned
+Comment:        This range hosts VPS servers
+RegDate:        2009-03-30
+Updated:        2011-11-14
+Ref:            http://whois.arin.net/rest/net/NET-96-0-254-0-1
+
+CustName:       YourServerAdmin (yourserveradmin.com)
+Address:        1774 Dividend Dr
+City:           Columbus
+StateProv:      OH
+PostalCode:     43228
+Country:        US
+RegDate:        2009-03-30
+Updated:        2012-05-09
+Ref:            http://whois.arin.net/rest/customer/C02194852
+
+OrgTechHandle: HNI1-ARIN
+OrgTechName:   eCommerce NOC
+OrgTechPhone:  +1-614-534-1960 
+OrgTechEmail:  ipadmin@ecommerce.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+OrgAbuseHandle: ABUSE875-ARIN
+OrgAbuseName:   eCommerce Inc ABUSE Dept
+OrgAbusePhone:  +1-614-777-1699 
+OrgAbuseEmail:  abuse@ecommerce.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE875-ARIN
+
+OrgNOCHandle: HNI1-ARIN
+OrgNOCName:   eCommerce NOC
+OrgNOCPhone:  +1-614-534-1960 
+OrgNOCEmail:  ipadmin@ecommerce.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+RNOCHandle: HNI1-ARIN
+RNOCName:   eCommerce NOC
+RNOCPhone:  +1-614-534-1960 
+RNOCEmail:  ipadmin@ecommerce.com
+RNOCRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+RAbuseHandle: ABUSE875-ARIN
+RAbuseName:   eCommerce Inc ABUSE Dept
+RAbusePhone:  +1-614-777-1699 
+RAbuseEmail:  abuse@ecommerce.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE875-ARIN
+
+RTechHandle: HNI1-ARIN
+RTechName:   eCommerce NOC
+RTechPhone:  +1-614-534-1960 
+RTechEmail:  ipadmin@ecommerce.com
+RTechRef:    http://whois.arin.net/rest/poc/HNI1-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

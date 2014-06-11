@@ -1,0 +1,53 @@
+Host 145.64.99.79.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '79.99.64.128 - 79.99.64.255'
+
+% Abuse contact for '79.99.64.128 - 79.99.64.255' is 'abuse@4d-dc.com'
+
+inetnum:        79.99.64.128 - 79.99.64.255
+netname:        RELIABLENETWORKS-4D
+descr:          Reliable Network -4D Sirius II
+country:        GB
+admin-c:        FD3548-RIPE
+tech-c:         FD3548-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-4DDATACENTRES
+mnt-routes:     MNT-4DDATACENTRES
+mnt-lower:      MNT-4DDATACENTRES
+source:         RIPE # Filtered
+
+role:           FOURD DC
+address:        122 Sirius II, Byfleet, KT14 7JU
+abuse-mailbox:  abuse@4d-dc.com
+admin-c:        CJ150-RIPE
+admin-c:        DB7980-RIPE
+admin-c:        MY590-RIPE
+admin-c:        RK4767-RIPE
+tech-c:         CJ150-RIPE
+tech-c:         DB7980-RIPE
+tech-c:         MY590-RIPE
+tech-c:         RK4767-RIPE
+nic-hdl:        FD3548-RIPE
+mnt-by:         MNT-4DDATACENTRES
+source:         RIPE # Filtered
+
+% Information related to '79.99.64.0/21AS31463'
+
+route:          79.99.64.0/21
+descr:          4D New IP Addresses
+origin:         AS31463
+mnt-by:         MNT-4DDATACENTRES
+mnt-routes:     MNT-4DDATACENTRES
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS3)
+
+

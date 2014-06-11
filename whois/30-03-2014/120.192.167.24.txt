@@ -1,0 +1,69 @@
+Host 24.167.192.120.in-addr.arpa not found: 1(FORMERR)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '120.192.0.0 - 120.255.255.255'
+
+inetnum:        120.192.0.0 - 120.255.255.255
+netname:        CMNET
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+admin-c:        JS686-AP
+tech-c:         HL1318-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CMCC
+mnt-routes:     MAINT-CN-CMCC
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20080414
+source:         APNIC
+
+person:         haijun li
+nic-hdl:        HL1318-AP
+e-mail:         hostmaster@chinamobile.com
+address:        29,Jinrong Ave, Xicheng district,beijing,100032
+phone:          +86 10 66006688
+fax-no:         +86 10 52616187
+country:        CN
+changed:        hostmaster@chinamobile.com 20110824
+mnt-by:         MAINT-CN-CMCC
+source:         APNIC
+
+person:         Jinxia Sun
+address:        China Mobile Communications Corporation
+address:        29, Jinrong Ave., Xicheng District, Beijing, 100032
+country:        CN
+phone:          +86-10-66006688-1755
+fax-no:         +86-10-66006012
+e-mail:         sunjinxia@chinamobile.com
+nic-hdl:        JS686-AP
+remarks:        ------------------------------
+remarks:        Please send abuse e-mail to
+remarks:        abuse@chinamobile.com
+remarks:        Please send probe e-mail to
+remarks:        security@chinamobile.com
+remarks:        -------------------------------
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20030130
+source:         APNIC
+
+% Information related to '120.192.0.0/11AS9808'
+
+route:          120.192.0.0/11
+descr:          China Mobile communications corporation
+origin:         AS9808
+mnt-by:         MAINT-CN-CMCC
+changed:        lihaijun@chinamobile.com 20081105
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

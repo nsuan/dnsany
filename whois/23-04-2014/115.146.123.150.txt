@@ -1,0 +1,62 @@
+Host 150.123.146.115.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '115.146.120.0 - 115.146.127.255'
+
+inetnum:        115.146.120.0 - 115.146.127.255
+netname:        CMCTELECOM-VNNIC-VN
+descr:          CMC Telecommunications Services Company
+descr:          273 Doi Can str, Ba Dinh, Ha Noi
+country:        VN
+admin-c:        NTH14-AP
+tech-c:         NNT20-AP
+status:         ALLOCATED PORTABLE
+remarks:        send spam and abuse report to thanh.nn@cmctelecom.vn
+mnt-by:         MAINT-VN-VNNIC
+mnt-lower:      MAINT-VN-VNNIC
+mnt-routes:     MAINT-VN-VNNIC
+changed:        hm-changed@apnic.net 20131029
+mnt-irt:        IRT-VNNIC-AP
+source:         APNIC
+
+irt:            IRT-VNNIC-AP
+address:        Ha Noi, VietNam
+phone:          +84-4-35564944
+fax-no:         +84-4-37821462
+e-mail:         hm-changed@vnnic.net.vn
+abuse-mailbox:  hm-changed@vnnic.net.vn
+admin-c:        PT174-AP
+tech-c:         NTTT1-AP
+auth:           # Filtered
+mnt-by:         MAINT-VN-VNNIC
+changed:        hm-changed@vnnic.net.vn 20101108
+source:         APNIC
+
+person:         Nguyen Nhu Thanh
+nic-hdl:        NNT20-AP
+e-mail:         thanh.nn@cmctelecom.vn
+address:        CMC Telecom Infrastructure Company
+address:        15 floor, CMC Tower, Duy Tan, Dich Vong Hau, Cau Giay, Hanoi
+phone:          +84-4-37674688
+fax-no:         +84-8-37674686
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20131023
+mnt-by:         MAINT-VN-VNNIC
+source:         APNIC
+
+person:         Ngo Trong Hieu
+nic-hdl:        NTH14-AP
+e-mail:         hieu.nt@cmctelecom.vn
+address:        CMC Telecom Service Company
+address:        15th floor, CMC Tower,Cluster Handicraft Production andSmall Industry, Cau Giay, Ha Noi
+phone:          +84-4-37226688
+fax-no:         +84-4-37226868
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20131029
+mnt-by:         MAINT-VN-VNNIC
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

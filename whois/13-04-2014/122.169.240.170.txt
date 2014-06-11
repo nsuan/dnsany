@@ -1,0 +1,77 @@
+170.240.169.122.in-addr.arpa domain name pointer ABTS-AP-Static-170.240.169.122.airtelbroadband.in.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.169.128.0 - 122.169.255.255'
+
+inetnum:        122.169.128.0 - 122.169.255.255
+netname:        ABTS-AP-DSL-9112-hyd
+descr:          ABTS (Hyderabad),
+descr:          Splendid Towers, 4 Floor Opp Begampet Police Stataion,
+descr:          HUDA Road,
+descr:          Hyderabad
+descr:          Andra pradesh
+descr:          India
+descr:          Contact Person:K R Narasimhan
+descr:          Email: dsl.noctn@in.airtel.com
+descr:          Phone:044 42100479
+descr:          Date of allocation:17-jul-07
+country:        IN
+admin-c:        KK828-AP
+tech-c:         KK828-AP
+mnt-by:         MAINT-IN-TELEMEDIA
+mnt-irt:        IRT-BHARTI-IN
+mnt-lower:      MAINT-IN-TELEMEDIA
+mnt-routes:     MAINT-IN-TELEMEDIA
+status:         ALLOCATED NON-PORTABLE
+changed:        dsl.noctn@in.airtel.com 20120321
+source:         APNIC
+
+irt:            IRT-BHARTI-IN
+address:        Bharti Airtel Ltd.
+address:        ISP Division - Transport Network Group
+address:        234 , Okhla Industrial Estate,
+address:        Phase III, New Delhi-110020, INDIA
+e-mail:         network.helpdesk@in.airtel.com
+abuse-mailbox:  network.helpdesk@in.airtel.com
+admin-c:        NA40-AP
+tech-c:         NA40-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-BBIL
+changed:        network.helpdesk@in.airtel.com 20101109
+source:         APNIC
+
+person:         Network Administrator for ABTS KK
+address:        ABTS
+address:        Bharti Airtel Limited 1106/10/11 Garvebhavipalaya, 7th Mile Hosur Rd,
+address:        Bangalore,Karnataka
+country:        IN
+phone:          +91-044-42100479
+e-mail:         dsl.noctn@in.airtel.com
+nic-hdl:        KK828-AP
+remarks:        -----------------------------
+remarks:        Send abuse reports to
+remarks:        dsl.noctn@in.airtel.com
+remarks:        -----------------------------
+mnt-by:         MAINT-IN-TELEMEDIA
+changed:        dsl.noctn@in.airtel.com 20120321
+source:         APNIC
+
+% Information related to '122.169.240.0/24AS24560'
+
+route:          122.169.240.0/24
+descr:          BHARTI-IN
+descr:          Bharti Tele-Ventures Limited
+descr:          Class A ISP in INDIA .
+descr:          234 , OKHLA PHASE III ,
+descr:          NEW DELHI
+descr:          INDIA
+country:        IN
+origin:         AS24560
+mnt-by:         MAINT-IN-BBIL
+changed:        dslnoc.ap@airtel.in 20080802
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

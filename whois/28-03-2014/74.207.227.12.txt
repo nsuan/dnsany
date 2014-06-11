@@ -1,0 +1,80 @@
+12.227.207.74.in-addr.arpa domain name pointer li69-12.members.linode.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=74.207.227.12?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       74.207.224.0 - 74.207.255.255
+CIDR:           74.207.224.0/19
+OriginAS:       
+NetName:        LINODE-US
+NetHandle:      NET-74-207-224-0-1
+Parent:         NET-74-0-0-0-0
+NetType:        Direct Allocation
+Comment:        This block is used for static customer allocations.
+RegDate:        2009-01-14
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-74-207-224-0-1
+
+OrgName:        Linode
+OrgId:          LINOD
+Address:        329 E. Jimmie Leeds Road
+Address:        Suite A
+City:           Galloway
+StateProv:      NJ
+PostalCode:     08205
+Country:        US
+RegDate:        2008-04-24
+Updated:        2010-08-31
+Comment:        http://www.linode.com
+Ref:            http://whois.arin.net/rest/org/LINOD
+
+OrgNOCHandle: LNO21-ARIN
+OrgNOCName:   Linode Network Operations
+OrgNOCPhone:  +1-609-593-7103 
+OrgNOCEmail:  support@linode.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/LNO21-ARIN
+
+OrgTechHandle: LNO21-ARIN
+OrgTechName:   Linode Network Operations
+OrgTechPhone:  +1-609-593-7103 
+OrgTechEmail:  support@linode.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LNO21-ARIN
+
+OrgAbuseHandle: LAS12-ARIN
+OrgAbuseName:   Linode Abuse Support
+OrgAbusePhone:  +1-609-593-7103 
+OrgAbuseEmail:  abuse@linode.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LAS12-ARIN
+
+RAbuseHandle: LAS12-ARIN
+RAbuseName:   Linode Abuse Support
+RAbusePhone:  +1-609-593-7103 
+RAbuseEmail:  abuse@linode.com
+RAbuseRef:    http://whois.arin.net/rest/poc/LAS12-ARIN
+
+RTechHandle: LNO21-ARIN
+RTechName:   Linode Network Operations
+RTechPhone:  +1-609-593-7103 
+RTechEmail:  support@linode.com
+RTechRef:    http://whois.arin.net/rest/poc/LNO21-ARIN
+
+RNOCHandle: LNO21-ARIN
+RNOCName:   Linode Network Operations
+RNOCPhone:  +1-609-593-7103 
+RNOCEmail:  support@linode.com
+RNOCRef:    http://whois.arin.net/rest/poc/LNO21-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

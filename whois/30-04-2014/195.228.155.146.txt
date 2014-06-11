@@ -1,0 +1,73 @@
+Host 146.155.228.195.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.228.155.0 - 195.228.155.255'
+
+% Abuse contact for '195.228.155.0 - 195.228.155.255' is 'abuse@t-online.hu'
+
+inetnum:        195.228.155.0 - 195.228.155.255
+netname:        SERVER-HOSTING
+descr:          Adatpark, DataCenter
+descr:          Budapest
+descr:          Magyar Telekom
+country:        HU
+admin-c:        MTRA-RIPE
+admin-c:        OE455-RIPE
+tech-c:         DN400-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS15555-MNT
+source:         RIPE # Filtered
+
+role:           Magyar Telekom RIPE administrator
+address:        Budapest, Hungary
+admin-c:        ISHO1-RIPE
+nic-hdl:        MTRA-RIPE
+abuse-mailbox:  abuse@t-online.hu
+mnt-by:         TCOM-MNT
+source:         RIPE # Filtered
+
+person:         Daniel Nagy
+remarks:        IT Specialist
+remarks:        Contact abuse@t-online.hu concerning
+remarks:        activities like spam, portscan and other
+address:        Magyar Telekom
+address:        H-1052 Budapest
+address:        Petofi Sandor str.17-19
+phone:          +36 1 4831582
+fax-no:         +36 1 4110550
+nic-hdl:        DN400-RIPE
+source:         RIPE # Filtered
+
+person:         Oliver Erdos
+remarks:        Contact abuse@t-online.hu concerning
+remarks:        activities like spam, portscan and other
+address:        Adatpark, DataCenter, Hungary
+address:        Magyar Telekom Nyrt.
+address:        1541 Budapest
+phone:          +36 1 1412
+fax-no:         +36 1 4110550
+nic-hdl:        OE455-RIPE
+mnt-by:         AS15555-MNT
+source:         RIPE # Filtered
+
+% Information related to '195.228.0.0/16AS5483'
+
+route:          195.228.0.0/16
+descr:          Magyar Telekom Plc.
+descr:          Public Internet Access Provider
+descr:          Budapest, Hungary
+descr:          HU
+origin:         AS5483
+mnt-by:         AS5483-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS4)
+
+

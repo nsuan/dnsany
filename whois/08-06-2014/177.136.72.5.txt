@@ -1,0 +1,49 @@
+Host 5.72.136.177.in-addr.arpa. not found: 3(NXDOMAIN)
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-06-08 01:02:42 (BRT -03:00)
+
+inetnum:     177.136.72/22
+aut-num:     AS263606
+abuse-c:     FIAME8
+owner:       COREIT - DATA CENTER, SERV GER E INFRA TI LTDA
+ownerid:     012.012.908/0001-02
+responsible: Giovani Cesar Rossi Mariotto
+country:     BR
+owner-c:     FIAME8
+tech-c:      FIAME8
+inetrev:     177.136.72/22
+nserver:     ns1.wirecorp.com.br 
+nsstat:      20140607 AA
+nslastaa:    20140607
+nserver:     ns2.wirecorp.com.br 
+nsstat:      20140607 AA
+nslastaa:    20140607
+created:     20130903
+changed:     20130903
+
+nic-hdl-br:  FIAME8
+person:      Filipe Abelha Melo
+e-mail:      filipeabelha@hotmail.com
+created:     20120711
+changed:     20121206
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

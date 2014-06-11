@@ -1,0 +1,96 @@
+Host 233.52.248.162.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=162.248.52.233?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       162.248.52.0 - 162.248.55.255
+CIDR:           162.248.52.0/22
+OriginAS:       AS27640
+NetName:        GIGASNET-2
+NetHandle:      NET-162-248-52-0-1
+Parent:         NET-162-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2013-11-06
+Updated:        2013-11-06
+Ref:            http://whois.arin.net/rest/net/NET-162-248-52-0-1
+
+OrgName:        GIGAS HOSTING USA, LLC
+OrgId:          GHUL
+Address:        ONE SE THIRD AVE. 25TH FLOOR
+Address:        C/O PEDRO FREYRE
+City:           Miami
+StateProv:      FL
+PostalCode:     33131
+Country:        US
+RegDate:        2012-12-27
+Updated:        2013-08-12
+Ref:            http://whois.arin.net/rest/org/GHUL
+
+OrgAbuseHandle: BECAR-ARIN
+OrgAbuseName:   Becares, Gonzalo 
+OrgAbusePhone:  +1-786-220-3245 
+OrgAbuseEmail:  arin@gigas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BECAR-ARIN
+
+OrgAbuseHandle: ARRIB-ARIN
+OrgAbuseName:   Arribas, Jose 
+OrgAbusePhone:  +1-786-220-3245 
+OrgAbuseEmail:  arin@gigas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ARRIB-ARIN
+
+OrgTechHandle: ARRIB-ARIN
+OrgTechName:   Arribas, Jose 
+OrgTechPhone:  +1-786-220-3245 
+OrgTechEmail:  arin@gigas.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ARRIB-ARIN
+
+OrgAbuseHandle: JUANJ-ARIN
+OrgAbuseName:   Juan, Javier 
+OrgAbusePhone:  +1-786-220-3245 
+OrgAbuseEmail:  arin@gigas.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JUANJ-ARIN
+
+OrgNOCHandle: JUANJ-ARIN
+OrgNOCName:   Juan, Javier 
+OrgNOCPhone:  +1-786-220-3245 
+OrgNOCEmail:  arin@gigas.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/JUANJ-ARIN
+
+OrgNOCHandle: ARRIB-ARIN
+OrgNOCName:   Arribas, Jose 
+OrgNOCPhone:  +1-786-220-3245 
+OrgNOCEmail:  arin@gigas.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ARRIB-ARIN
+
+OrgTechHandle: JUANJ-ARIN
+OrgTechName:   Juan, Javier 
+OrgTechPhone:  +1-786-220-3245 
+OrgTechEmail:  arin@gigas.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JUANJ-ARIN
+
+OrgTechHandle: BECAR-ARIN
+OrgTechName:   Becares, Gonzalo 
+OrgTechPhone:  +1-786-220-3245 
+OrgTechEmail:  arin@gigas.com
+OrgTechRef:    http://whois.arin.net/rest/poc/BECAR-ARIN
+
+OrgNOCHandle: BECAR-ARIN
+OrgNOCName:   Becares, Gonzalo 
+OrgNOCPhone:  +1-786-220-3245 
+OrgNOCEmail:  arin@gigas.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/BECAR-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

@@ -1,0 +1,44 @@
+Host 230.31.140.113.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.136.0.0 - 113.143.255.255'
+
+inetnum:        113.136.0.0 - 113.143.255.255
+netname:        CHINANET-SN
+descr:          CHINANET SHAANXI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.56,gaoxin street
+descr:          Beijing 100032
+country:        CN
+admin-c:        XC9-AP
+tech-c:         XC9-AP
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20081106
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SHAANXI
+mnt-routes:     MAINT-CHINANET-SHAANXI
+source:         APNIC
+
+person:         Xianghong Cao
+address:        Shanxi provice data communication Bureau
+address:        185# zhuque Road
+address:        Xi'an city, Shanxi provice 710061
+country:        CN
+phone:          +8629-523-3633
+fax-no:         +8629-522-8093
+e-mail:         sxic@public.xa.sn.cn
+nic-hdl:        XC9-AP
+mnt-by:         MAINT-NULL
+changed:        caoxianghong@263.net 19990409
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

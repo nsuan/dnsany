@@ -1,0 +1,27 @@
+36.155.252.210.in-addr.arpa domain name pointer 210252155036.cidr.odn.ne.jp.
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information:            
+a. [Network Number]             210.252.155.0/25
+b. [Network Name]               A-ONE-15
+g. [Organization]               A-ONE co.,Ltd
+m. [Administrative Contact]     YL1245JP
+n. [Technical Contact]          YL1245JP
+p. [Nameserver]
+[Assigned Date]                 2013/09/18
+[Return Date]                   
+[Last Update]                   2013/09/18 13:56:03(JST)
+                                
+Less Specific Info.
+----------
+SoftBank Telecom Corp.
+                     [Allocation]                             210.252.128.0/17
+Open Data Network
+        SUBA-931-038 [Sub Allocation]                         210.252.155.0/24
+
+More Specific Info.
+----------
+No match!!

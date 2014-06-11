@@ -1,0 +1,89 @@
+123.195.164.76.in-addr.arpa domain name pointer six16.waitinglines.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=76.164.195.123?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       76.164.192.0 - 76.164.239.255
+CIDR:           76.164.192.0/19, 76.164.224.0/20
+OriginAS:       AS36114
+NetName:        VWEB-76-164-192
+NetHandle:      NET-76-164-192-0-1
+Parent:         NET-76-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2006-09-27
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-76-164-192-0-1
+
+OrgName:        Versaweb, LLC
+OrgId:          VERSA14
+Address:        1110 Palms Airport Dr
+Address:        Suite 110
+City:           Las Vegas
+StateProv:      NV
+PostalCode:     89119
+Country:        US
+RegDate:        2010-07-29
+Updated:        2012-05-17
+Comment:        Please send all abuse reports to our listed Abuse POC.  Abuse reports sent to other contacts will not be processed.
+Ref:            http://whois.arin.net/rest/org/VERSA14
+
+ReferralServer: rwhois://rwhois.versaweb.com:4321
+
+OrgTechHandle: RTY1-ARIN
+OrgTechName:   Tyree, Robert 
+OrgTechPhone:  +1-702-487-3838 
+OrgTechEmail:  rob@fiberhub.com
+OrgTechRef:    http://whois.arin.net/rest/poc/RTY1-ARIN
+
+OrgAbuseHandle: VERSA-ARIN
+OrgAbuseName:   Versaweb Abuse
+OrgAbusePhone:  +1-702-518-9999 
+OrgAbuseEmail:  abusereports@versaweb.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/VERSA-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.versaweb.com:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 ubersmith.rdtg.net (Ubersmith RWhois Server V-2.3.0)
+autharea=76.164.192.0/22
+xautharea=76.164.192.0/22
+network:Class-Name:network
+network:Auth-Area:76.164.192.0/22
+network:ID:NET-3022.76.164.195.120/29
+network:Network-Name:76.164.195.120/29
+network:IP-Network:76.164.195.120/29
+network:IP-Network-Block:76.164.195.120 - 76.164.195.127
+network:Org-Name:Kamrat, Noah
+network:Street-Address:2852 Willamette Street
+network:City:Eugene
+network:State:OR
+network:Postal-Code:97405
+network:Country-Code:US
+network:Tech-Contact:MAINT-3022.76.164.195.120/29
+network:Created:20130911225446000
+network:Updated:20130911225446000
+network:Updated-By:ipadmin@versaweb.com
+contact:POC-Name:IP Administrator
+contact:POC-Email:ipadmin@versaweb.com
+contact:POC-Phone:+1-702-518-9999
+contact:Tech-Name:IP Administrator
+contact:Tech-Email:ipadmin@versaweb.com
+contact:Tech-Phone:+1-702-518-9999
+contact:Abuse-Name:Versaweb Abuse
+contact:Abuse-Email:abuse-reports@versaweb.com
+%ok

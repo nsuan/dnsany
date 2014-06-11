@@ -1,0 +1,106 @@
+Host 196.232.167.121.in-addr.arpa. not found: 3(NXDOMAIN)
+query : 121.167.232.196
+
+
+# KOREAN(UTF8)
+
+조회하신 IPv4주소는 한국인터넷진흥원으로부터 아래의 관리대행자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 121.160.0.0 - 121.191.255.255 (/11)
+서비스명           : KORNET
+기관명             : 주식회사 케이티
+기관고유번호       : ORG1600
+주소               : 경기도 성남시 분당구 불정로 90 (정자동)  한국통신 e-Biz본부 기획팀
+우편번호           : 463-711
+할당일자           : 20061106
+
+[ IPv4주소 책임자 정보 ]
+이름               : IP주소관리자
+전화번호           : +82-2-500-6630
+전자우편           : kornet_ip@kt.com
+
+[ IPv4주소 담당자 정보 ]
+이름               : IP주소담당자
+전화번호           : +82-2-500-6630
+전자우편           : kornet_ip@kt.com
+
+[ 스팸 해킹 담당자 정보 ]
+이름               : 스팸/해킹담당
+전화번호           : +82-2-100-0000
+전자우편           : abuse@kornet.net
+
+--------------------------------------------------------------------------------
+
+조회하신 IPv4주소는 위의 관리대행자로부터 아래의 사용자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 121.167.232.128 - 121.167.232.255 (/25)
+네트워크 이름      : KORNET-INFRA000001
+기관명             : 주식회사 케이티
+기관고유번호       : ORG1600
+주소               : 경기도 성남시 분당구 불정로
+우편번호           : 463-711
+할당내역 등록일    : 20090120
+공개여부           : N
+
+[ 네트워크 담당자 정보 ]
+기관명             : KORNET
+주소               : 경기도 성남시 분당구 불정로
+우편번호           : 463-711
+전자우편           : kornet_ip@kt.com
+
+
+# ENGLISH
+
+KRNIC is not an ISP but a National Internet Registry similar to APNIC.
+
+[ Network Information ]
+IPv4 Address       : 121.160.0.0 - 121.191.255.255 (/11)
+Service Name       : KORNET
+Organization Name  : Korea Telecom
+Organization ID    : ORG1600
+Address            : 206, Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro
+Zip Code           : 463-711
+Registration Date  : 20061106
+
+[ Admin Contact Information ]
+Name               : IP Administrator
+Phone              : +82-2-500-6630
+E-Mail             : kornet_ip@kt.com
+
+[ Tech Contact Information ]
+Name               : IP Manager
+Phone              : +82-2-500-6630
+E-Mail             : kornet_ip@kt.com
+
+[ Network Abuse Contact Information ]
+Name               : Network Abuse
+Phone              : +82-2-100-0000
+E-Mail             : abuse@kornet.net
+
+--------------------------------------------------------------------------------
+
+More specific assignment information is as follows.
+
+[ Network Information ]
+IPv4 Address       : 121.167.232.128 - 121.167.232.255 (/25)
+Network Name       : KORNET-INFRA000001
+Organization Name  : Korea Telecom
+Organization ID    : ORG1600
+Address            : Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro
+Zip Code           : 463-711
+Registration Date  : 20090120
+Publishes          : N
+
+[ Technical Contact Information ]
+Organization Name  : Korea Telecom
+Address            : Gyeonggi-do Bundang-gu, Seongnam-si Buljeong-ro
+Zip Code           : 463-711
+E-Mail             : kornet_ip@kt.com
+
+
+- KISA/KRNIC Whois Service -
+
+
+

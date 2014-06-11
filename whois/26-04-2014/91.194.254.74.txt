@@ -1,0 +1,73 @@
+74.254.194.91.in-addr.arpa domain name pointer hosted-by.dimline.org.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.194.254.0 - 91.194.255.255'
+
+% No abuse contact registered for 91.194.254.0 - 91.194.255.255
+
+inetnum:        91.194.254.0 - 91.194.255.255
+netname:        DIMLINE-NET
+descr:          Dimline Ltd.
+country:        AT
+org:            ORG-DL53-RIPE
+remarks:        ****************************************************************
+remarks:        Abuse messages please send to: abuse@dimline.org
+remarks:        ****************************************************************
+admin-c:        DNT22-RIPE
+tech-c:         DNT22-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         MNT-DIMLINE
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-routes:     MNT-DIMLINE
+mnt-domains:    MNT-DIMLINE
+source:         RIPE # Filtered
+
+organisation:   ORG-DL53-RIPE
+org-name:       DIMLINE Ltd.
+org-type:       OTHER
+abuse-mailbox:  abuse@dimline.org
+address:        Dimline Internetdienstleistungs
+address:        Gutenbergstrasse 20
+address:        Schwarzach
+address:        A-6870 , Austria
+address:        AT
+mnt-ref:        MNT-DIMLINE
+mnt-by:         MNT-DIMLINE
+source:         RIPE # Filtered
+
+role:           DimLine NOC Team
+remarks:        *********************************************
+remarks:        24/7/365 NON-STOP support by e-mail: info@dimline.org
+remarks:        Abuse/SPAM notifications: abuse@dimline.org
+remarks:        *********************************************
+address:        Dimline Internetdienstleistungs
+address:        Gutenbergstrasse 20
+address:        Schwarzach
+address:        A-6870 , Austria
+address:        AT
+abuse-mailbox:  abuse@dimline.org
+admin-c:        ATG10-RIPE
+tech-c:         ATG10-RIPE
+nic-hdl:        DNT22-RIPE
+mnt-by:         MNT-DIMLINE
+source:         RIPE # Filtered
+
+% Information related to '91.194.254.0/23AS43449'
+
+route:          91.194.254.0/23
+descr:          Dimline Ltd.
+origin:         AS43449
+mnt-by:         MNT-DIMLINE
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS1)
+
+

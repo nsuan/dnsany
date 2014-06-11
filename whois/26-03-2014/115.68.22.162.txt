@@ -1,0 +1,69 @@
+Host 162.22.68.115.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '115.68.0.0 - 115.68.255.255'
+
+inetnum:        115.68.0.0 - 115.68.255.255
+netname:        SMILESERV
+descr:          SMILESERV
+descr:          2F Daeryung Techno Tower 2-cha Gasan-dong Geumcheon-gu
+descr:          *************************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          "http://whois.nida.or.kr/english/index.html"
+descr:          *************************************
+country:        KR
+admin-c:        JL3429-AP
+tech-c:         JL3429-AP
+status:         Allocated Portable
+remarks:        www.1000dedi.net
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20080715
+source:         APNIC
+
+person:         JongHoon Lee
+nic-hdl:        JL3429-AP
+e-mail:         nuptwo@smileserv.com
+address:        2F, Daeryung Techno Tower 2-cha Gasan-dong Geumcheon-gu
+phone:          +82-2-1688-4879
+fax-no:         +82-31-701-9503
+country:        KR
+changed:        hostmaster@nida.or.kr 20070714
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+% Information related to '115.68.0.0 - 115.68.255.255'
+
+inetnum:        115.68.0.0 - 115.68.255.255
+netname:        SMILESERV-KR
+descr:          SMILESERV
+country:        KR
+admin-c:        LJ941-KR
+tech-c:         LJ941-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+person:         SEO SANG WOO
+address:        Seoul Geumcheon-gu Gasan digital 1-ro
+address:        2F
+country:        KR
+phone:          +82-70-7549-7062
+e-mail:         network@smileserv.com
+nic-hdl:        LJ941-KR
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

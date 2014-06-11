@@ -1,0 +1,51 @@
+Host 42.170.227.101.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '101.224.0.0 - 101.231.255.255'
+
+inetnum:        101.224.0.0 - 101.231.255.255
+netname:        CHINANET-SH
+descr:          CHINANET SHANGHAI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        WWQ4-AP
+tech-c:         WWQ4-AP
+status:         ALLOCATED PORTABLE
+notify:         ip-admin@mail.online.sh.cn
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SH
+mnt-routes:     MAINT-CHINANET-SH
+mnt-irt:        IRT-CHINANET-CN
+changed:        hm-changed@apnic.net 20110103
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+changed:        anti-spam@ns.chinanet.cn.net 20101115
+source:         APNIC
+
+person:         Weng Wen Qian
+address:        Room 2405,357 Songlin Road,Shanghai 200122
+country:        CN
+phone:          +86-21-68405784
+fax-no:         +86-21-50623458
+e-mail:         wengwq@online.sh.cn
+nic-hdl:        WWQ4-AP
+mnt-by:         MAINT-CHINANET-SH
+changed:        ip-admin@mail.online.sh.cn 20050403
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

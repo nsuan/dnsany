@@ -1,0 +1,47 @@
+Host 234.160.232.219.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.232.160.0 - 219.232.191.255'
+
+inetnum:        219.232.160.0 - 219.232.191.255
+netname:        Topway-Net
+country:        CN
+descr:          ShenZhen Topway Video Communication Co. Ltd.
+descr:          NO.6001 CaiTian Road,
+descr:          ShenZhen, GuangDong, China
+admin-c:        JY738-AP
+tech-c:         JZ421-AP
+status:         ALLOCATED PORTABLE
+changed:        ipas@cnnic.net.cn 20050329
+mnt-by:         MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+source:         APNIC
+
+person:         JianWei Yang
+nic-hdl:        JY738-AP
+e-mail:         ipadmin@topway.cn
+address:        NO.6001 CaiTian Road ShenZhen GuangDong
+address:        P.R.China 518036
+phone:          +86-755-83066888-3001
+fax-no:         +86-755-83066011
+country:        CN
+changed:        ipas@cnnic.net.cn 20050203
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+person:         Jie Zhang
+nic-hdl:        JZ421-AP
+e-mail:         ipadmin@topway.cn
+address:        NO.6001 CaiTian Road ShenZhen GuangDong
+address:        P.R.China 518036
+phone:          +86-755-83066888-3088
+fax-no:         +86-755-83066011
+country:        CN
+changed:        ipas@cnnic.net.cn 20050203
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

@@ -1,0 +1,78 @@
+151.241.5.149.in-addr.arpa domain name pointer vnode0141.pulsedmedia.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=149.5.241.151?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       149.5.0.0 - 149.5.255.255
+CIDR:           149.5.0.0/16
+OriginAS:       AS174
+NetName:        COGENT-149-5-16
+NetHandle:      NET-149-5-0-0-1
+Parent:         NET-149-0-0-0-0
+NetType:        Direct Assignment
+RegDate:        1992-01-28
+Updated:        2011-05-27
+Ref:            http://whois.arin.net/rest/net/NET-149-5-0-0-1
+
+OrgName:        PSINet, Inc.
+OrgId:          PSI-1
+Address:        1015 31st St NW
+City:           Washington
+StateProv:      DC
+PostalCode:     20007
+Country:        US
+RegDate:        1992-01-28
+Updated:        2009-01-26
+Ref:            http://whois.arin.net/rest/org/PSI-1
+
+ReferralServer: rwhois://rwhois.cogentco.com:4321/
+
+OrgNOCHandle: ZC108-ARIN
+OrgNOCName:   Cogent Communications
+OrgNOCPhone:  +1-877-875-4311 
+OrgNOCEmail:  noc@cogentco.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZC108-ARIN
+
+OrgTechHandle: IPALL-ARIN
+OrgTechName:   IP Allocation
+OrgTechPhone:  +1-877-875-4311 
+OrgTechEmail:  ipalloc@cogentco.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPALL-ARIN
+
+OrgAbuseHandle: COGEN-ARIN
+OrgAbuseName:   Cogent Abuse
+OrgAbusePhone:  +1-877-875-4311 
+OrgAbuseEmail:  abuse@cogentco.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COGEN-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.cogentco.com:4321.
+
+%rwhois V-1.5:0010b0:00 rwhois.cogentco.com
+network:ID:NET4-9505F10018
+network:Network-Name:NET4-9505F10018
+network:IP-Network:149.5.241.0/24
+network:Postal-Code:00940 Helsinki
+network:Country:FI
+network:City:Helsinki
+network:Street-Address:Humikkalanrinne 1 B 19
+network:Org-Name:NuCode
+network:Tech-Contact:ZC108-ARIN
+network:Updated:2013-09-05 11:12:13
+
+%ok

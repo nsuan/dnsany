@@ -1,0 +1,47 @@
+Host 120.223.172.124.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.172.192.0 - 124.172.255.255'
+
+inetnum:        124.172.192.0 - 124.172.255.255
+netname:        NGNNET
+descr:          World Crossing Telecom(GuangZhou) Ltd.
+descr:          17/FL,International Bank Center,
+descr:          191# DongFengXi Rd. Guangzhou, Guangdong
+country:        CN
+admin-c:        ZJ531-AP
+tech-c:         PL19-AP
+remarks:        Send abuse reports to spam@gzidc.com
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+changed:        ipas@cnnic.cn 20080428
+source:         APNIC
+
+person:         Peter Liu
+nic-hdl:        PL19-AP
+e-mail:         liucheng@gzidc.com
+address:        17/FL,International Bank Center,191# DongFengXi Rd. Guang Zhou,China
+phone:          +86-20-81351813
+fax-no:         +86-20-81351803
+country:        CN
+changed:        liucheng@gzidc.com 20030917
+mnt-by:         MAINT-CN-XYD
+source:         APNIC
+
+person:         zhi jiang
+nic-hdl:        ZJ531-AP
+e-mail:         jiangzhi@gzidc.com
+address:        17/FL,International Bank Center,191# DongFengXi Rd. Guang Zhou,China
+phone:          +86-20-81351813
+fax-no:         +86-20-81351803
+country:        CN
+changed:        jiangzhi@gzidc.com 20041009
+mnt-by:         MAINT-CN-XYD
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

@@ -1,0 +1,45 @@
+Host 53.34.152.211.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '211.152.32.0 - 211.152.63.255'
+
+inetnum:        211.152.32.0 - 211.152.63.255
+netname:        SH-21VIANET
+descr:          21vianet (shanghai), Inc.
+descr:          129 Yan An Rd(W.) Shanghai, China
+country:        CN
+admin-c:        XL442-AP
+tech-c:         YZ2222-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+changed:        ipas@cnnic.cn 20090927
+source:         APNIC
+
+person:         Xiaoqiu Liu
+nic-hdl:        XL442-AP
+e-mail:         chen.zhijiong@21viacloud.com
+address:        129 Yan An Rd(W.) Shanghai, China
+phone:          +86-13917279843
+fax-no:         +86-021-62499901
+country:        CN
+changed:        ipas@cnnic.net.cn 20090927
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+person:         Yu Zhou
+nic-hdl:        YZ2222-AP
+e-mail:         zhou.yu@21viacloud.com
+address:        129 Yan An Rd(W.) Shanghai, China
+phone:          +86-021-62499933-5199
+fax-no:         +86-021-62499901
+country:        CN
+changed:        ipas@cnnic.net.cn 20090927
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

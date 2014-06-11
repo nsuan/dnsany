@@ -1,0 +1,64 @@
+Host 80.171.17.113.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.16.0.0 - 113.17.255.255'
+
+inetnum:        113.16.0.0 - 113.17.255.255
+netname:        CHINANET-GX
+descr:          CHINANET GUANGXI PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CR766-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20080918
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GX
+source:         APNIC
+
+role:           CHINANET GUANGXI
+address:        No.35,Minzhu Road,Nanning 530015
+country:        CN
+phone:          +86-771-2815987
+fax-no:         +86-771-2839278
+e-mail:         hostmaster@gx163.net
+remarks:        send spam reports to hostmaster@gx163.net
+remarks:        send abuse reports to hostmaster@gx163.net
+remarks:        times in GMT+8
+admin-c:        CR76-AP
+tech-c:         BD37-AP
+nic-hdl:        CR766-AP
+remarks:        http://www.gx.cninfo.net
+notify:         hostmaster@gx163.net
+mnt-by:         MAINT-CHINANET-GX
+changed:        hostmaster@gx163.net 20021024
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

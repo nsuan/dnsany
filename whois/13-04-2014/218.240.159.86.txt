@@ -1,0 +1,62 @@
+;; connection timed out; no servers could be reached
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '218.240.128.0 - 218.240.255.255'
+
+inetnum:        218.240.128.0 - 218.240.255.255
+netname:        KUANCOM
+descr:          Beijing Kuancom Network Technology Co.,Ltd.
+descr:          A Building Haibo Masion, No.136 Xisihuan North Road,
+descr:          Beijing, china, 100089
+country:        CN
+admin-c:        ZC379-AP
+tech-c:         SZ345-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+mnt-routes:     MAINT-CNCGROUP-RR
+changed:        ipas@cnnic.net.cn 20071016
+status:         ASSIGNED NON-PORTABLE
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110428
+source:         APNIC
+
+person:         Shen Zheng
+nic-hdl:        SZ345-AP
+e-mail:         wangxl@kuancom.com
+address:        A Building Haibo Masion, No.136 Xisihuan North Road,
+address:        Beijing, China, 100089
+phone:          +86-010-88465327
+fax-no:         +86-10-88466667
+country:        CN
+changed:        ipas@cnnic.net.cn 20071122
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+person:         Zhang Chi
+nic-hdl:        ZC379-AP
+e-mail:         mailzhangchi@263.net
+address:        A Building Haibo Masion, No.136 Xisihuan North Road,
+address:        Beijing, China, 100089
+phone:          +86-010-88463335
+fax-no:         +86-010-88465327
+country:        CN
+changed:        ipas@cnnic.net.cn 20060207
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

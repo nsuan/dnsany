@@ -1,0 +1,59 @@
+237.112.167.211.in-addr.arpa domain name pointer reserve.cableplus.com.cn.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '211.167.112.1 - 211.167.112.255'
+
+inetnum:        211.167.112.1 - 211.167.112.255
+netname:        YANGPU1POPNET
+descr:          Cable OnLine Network YANGPU1 pop.
+descr:          Internet Service Provider
+descr:          Shanghai China
+country:        CN
+admin-c:        HL6-CN
+tech-c:         YM2-CN
+mnt-by:         MAINT-CNNIC-AP
+changed:        leion@cableplus.com.cn 20010615
+status:         ASSIGNED NON-PORTABLE
+source:         APNIC
+changed:        hm-changed@apnic.net  20020827
+
+person:         Huaiyu Li
+address:        Computer Center
+address:        Shanghai Cable TV Station
+address:        487#, East Luo Chuan Road, Shanghai 200072, China
+country:        CN
+phone:          +86 21 56729282
+e-mail:         fyma@shnet.edu.cn
+nic-hdl:        HL6-CN
+mnt-by:         MAINT-CN-CJJ
+changed:        cjj@cableplus.com.cn 20010609
+source:         APNIC
+
+person:         Yougang Min
+address:        Computer Center
+address:        Shanghai Cable TV Station
+address:        487#, East Luo Chuan Road, Shanghai 200072, China
+country:        CN
+phone:          +86 21 56729282
+e-mail:         fyma@shnet.edu.cn
+nic-hdl:        YM2-CN
+mnt-by:         MAINT-CN-CJJ
+changed:        cjj@cableplus.com.cn 20010611
+source:         APNIC
+changed:        hm-changed@apnic.net 20111122
+
+% Information related to '211.167.96.0/19AS4837'
+
+route:          211.167.96.0/19
+descr:          CNC Group CHINA169 Hubei Province network
+descr:          Addresses from CNNIC(COLNET)
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20081128
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

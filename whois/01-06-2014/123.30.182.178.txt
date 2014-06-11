@@ -1,0 +1,51 @@
+178.182.30.123.in-addr.arpa domain name pointer static.vdc.vn.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.30.0.0 - 123.31.255.255'
+
+inetnum:        123.30.0.0 - 123.31.255.255
+netname:        VDC-NET
+country:        vn
+descr:          VietNam Data Communication Company (VDC)
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+status:         ALLOCATED NON-PORTABLE
+changed:        hm-changed@vnnic.net.vn 20090325
+mnt-by:         MAINT-VN-VNPT
+source:         APNIC
+
+role:           VDC IPADMIN GROUP
+address:        Internet Building, Block II, Thang Long Inter Village
+address:        Nguyen Phong Sac str, Cau Giay Dist,  Ha Noi
+country:        VN
+phone:          +84-912-800008
+fax-no:         +84-4-9430427
+e-mail:         hathm@vdc.com.vn
+remarks:        send spam reports to abuse@vdc.com.vn
+remarks:        and abuse reports to abuse@vnn.vn
+admin-c:        THMH1-AP
+tech-c:         THMH1-AP
+nic-hdl:        VIG1-AP
+notify:         hm-changed@vnnic.net.vn
+mnt-by:         MAINT-VN-VNPT
+changed:        hm-changed@vnnic.net.vn 20090325
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+% Information related to '123.30.128.0/18AS7643'
+
+route:          123.30.128.0/18
+descr:          VietNam Post and Telecom Corporation (VNPT)
+descr:          VNPT-AS-AP
+country:        VN
+origin:         AS7643
+remarks:        mailto: noc@vnn.vn
+notify:         hm-changed@vnnic.net.vn
+mnt-by:         MAINT-VN-VNPT
+changed:        hm-changed@vnnic.net.vn 20100121
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

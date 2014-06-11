@@ -1,0 +1,46 @@
+Host 89.21.131.182.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '182.128.0.0 - 182.143.255.255'
+
+inetnum:        182.128.0.0 - 182.143.255.255
+netname:        CHINANET-SC
+descr:          CHINANET Sichuan province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        XS16-AP
+tech-c:         XS16-AP
+status:         ALLOCATED PORTABLE
+notify:         zhangys@sctel.com.cn
+remarks:        service provider
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20100302
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-SC
+mnt-routes:     MAINT-CHINANET-SC
+source:         APNIC
+
+person:         Xiaodong Shi
+nic-hdl:        XS16-AP
+e-mail:         scipadmin2013@189.cn
+address:        No.72,Wen Miao Qian Str.
+address:        Data Communication Bureau Of Sichuan Province
+address:        Chengdu
+address:        PR China
+phone:          +86-28-6190785
+fax-no:         +86-28-6190641
+country:        CN
+changed:        zhengzm@gsta.com 20131230
+mnt-by:         MAINT-CHINANET-SC
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

@@ -1,0 +1,61 @@
+Host 41.190.4.112.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '112.0.0.0 - 112.63.255.255'
+
+inetnum:        112.0.0.0 - 112.63.255.255
+netname:        CMNET
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+admin-c:        lcj-AP
+tech-c:         HL1318-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CMCC
+mnt-routes:     MAINT-CN-CMCC
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20081215
+source:         APNIC
+
+person:         haijun li
+nic-hdl:        HL1318-AP
+e-mail:         hostmaster@chinamobile.com
+address:        29,Jinrong Ave, Xicheng district,beijing,100032
+phone:          +86 10 66006688
+fax-no:         +86 10 52616187
+country:        CN
+changed:        hostmaster@chinamobile.com 20110824
+mnt-by:         MAINT-CN-CMCC
+source:         APNIC
+
+person:         li changjun
+address:        29 jinrong ave. xicheng district, beijing China
+country:        CN
+phone:          +86 52686688
+e-mail:         hostmaster@chinamobile.com
+nic-hdl:        lcj-ap
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20071010
+source:         APNIC
+
+% Information related to '112.0.0.0/13AS9808'
+
+route:          112.0.0.0/13
+descr:          China Mobile communications corporation
+origin:         AS9808
+mnt-by:         MAINT-CN-CMCC
+changed:        lihaijun@chinamobile.com 20091020
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

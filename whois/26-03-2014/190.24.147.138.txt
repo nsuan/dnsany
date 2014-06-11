@@ -1,0 +1,46 @@
+138.147.24.190.in-addr.arpa domain name pointer corporat190-024147138.sta.etb.net.co.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-03-26 01:00:17 (BRT -03:00)
+
+inetnum:     190.24.147.136/29
+status:      reallocated
+owner:       ASESORES DE SISTEMAS ESPECIALIZADOS EN SOFTWARE ASESOFTWARE BOGOT
+ownerid:     CO-ASEE-LACNIC
+responsible: Mario Viera
+address:     CLL 93 A, 12, 57 OF 407
+address:     9999 - Bogotá - Cu
+country:     CO
+phone:       +57 1 6407414 []
+owner-c:     MAV14
+tech-c:      MAV14
+abuse-c:     MAV14
+created:     20070209
+changed:     20070209
+inetnum-up:  190.24/16
+
+nic-hdl:     MAV14
+person:      Mario Viera
+e-mail:      mviera@ASESOFTWARE.COM
+address:     CLL 93 A, 12, 57 OF 407
+address:     9999 - Bogotá - Cu
+country:     CO
+phone:       +57 1 6407414 []
+created:     20070209
+changed:     20070209
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

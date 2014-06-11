@@ -1,0 +1,110 @@
+Host 203.100.234.211.in-addr.arpa. not found: 3(NXDOMAIN)
+query : 211.234.100.203
+
+
+# KOREAN(UTF8)
+
+조회하신 IPv4주소는 한국인터넷진흥원으로부터 아래의 관리대행자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 211.234.96.0 - 211.234.127.255 (/19)
+서비스명           : KIDC
+기관명             : 주식회사 엘지유플러스
+기관고유번호       : ORG137200
+주소               : 서울특별시 강남구 언주로 616 (논현동)
+우편번호           : 135-832
+할당일자           : 20020614
+
+[ IPv4주소 책임자 정보 ]
+이름               : IP주소 관리자
+전화번호           : +82-2-2086-2924
+전자우편           : support@kidc.net
+
+[ IPv4주소 담당자 정보 ]
+이름               : IP주소담당자
+전화번호           : +82-2-2086-2924
+전자우편           : ip@kidc.net
+
+[ 스팸 해킹 담당자 정보 ]
+이름               : Network Abuse 담당자
+전화번호           : +82-2-2086-2878
+전자우편           : security@kidc.net
+
+--------------------------------------------------------------------------------
+
+조회하신 IPv4주소는 위의 관리대행자로부터 아래의 사용자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 211.234.100.0 - 211.234.100.255 (/24)
+네트워크 이름      : KIDC-GABIA
+기관명             : 가비아
+기관고유번호       : ORG501621
+주소               : 서울 서초구 서초동 1423-1 KIDC B/D
+우편번호           : 137-070
+할당내역 등록일    : 20050728
+공개여부           : Y
+
+[ 네트워크 담당자 정보 ]
+이름               : 주소관리자
+기관명             : 가비아
+주소               : 서울 서초구 서초동 1423-1 KIDC B/D
+우편번호           : 137-070
+전화번호           : +82-2-3473-3901
+전자우편           : security@gabia.com
+
+
+# ENGLISH
+
+KRNIC is not an ISP but a National Internet Registry similar to APNIC.
+
+[ Network Information ]
+IPv4 Address       : 211.234.96.0 - 211.234.127.255 (/19)
+Service Name       : KIDC
+Organization Name  : LG DACOM KIDC
+Organization ID    : ORG137200
+Address            : KIDC, 261-1, Seoul Gangnam-gu Eonju-ro
+Zip Code           : 135-832
+Registration Date  : 20020614
+
+[ Admin Contact Information ]
+Name               : IP Administrator
+Phone              : +82-2-2086-2924
+E-Mail             : support@kidc.net
+
+[ Tech Contact Information ]
+Name               : IP manager
+Phone              : +82-2-2086-2924
+E-Mail             : ip@kidc.net
+
+[ Network Abuse Contact Information ]
+Name               : Network Abuse
+Phone              : +82-2-2086-2878
+E-Mail             : security@kidc.net
+
+--------------------------------------------------------------------------------
+
+More specific assignment information is as follows.
+
+[ Network Information ]
+IPv4 Address       : 211.234.100.0 - 211.234.100.255 (/24)
+Network Name       : KIDC-GABIA
+Organization Name  : GABIA
+Organization ID    : ORG501621
+Address            : 1423-1 KIDC B/D, Seocho-dong, Seocho-gu, SEOUL
+Zip Code           : 137-070
+Registration Date  : 20050728
+Publishes          : Y
+
+[ Technical Contact Information ]
+Name               : IP manager
+Organization Name  : GABIA Co., Ltd.
+Address            : 1423-1 KIDC B/D, Seocho-dong, Seocho-gu, SEOUL
+Zip Code           : 137-070
+Phone              : +82-2-3473-3901
+E-Mail             : security@gabia.com
+
+
+- KISA/KRNIC Whois Service -
+
+
+

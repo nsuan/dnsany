@@ -1,0 +1,42 @@
+Host 250.17.240.58.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '58.240.17.248 - 58.240.17.255'
+
+inetnum:        58.240.17.248 - 58.240.17.255
+netname:        ShengFenXinXiHuaBu
+country:        CN
+descr:          ShengFenXinXiHuaBu,NANJING,JIANGSU PROVINCE
+admin-c:        LL58-AP
+tech-c:         LL58-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        chenxy@chinaunicom.cn 20100126
+mnt-by:         MAINT-CNCGROUP-JS
+source:         APNIC
+
+person:         Lan Li
+nic-hdl:        LL58-AP
+e-mail:         js-cu-ipmanage@chinaunicom.cn
+address:        No. 65 Beijing West Road,Nanjing,China
+phone:          +86257900060
+fax-no:         +86252900280
+country:        CN
+changed:        js-cu-ipmanage@chinaunicom.cn 20130815
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+% Information related to '58.240.0.0/15AS4837'
+
+route:          58.240.0.0/15
+descr:          CNC Group Jiangsu province network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20050603
+changed:        hm-changed@apnic.net 20050622
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

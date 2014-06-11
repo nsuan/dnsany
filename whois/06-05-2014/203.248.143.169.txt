@@ -1,0 +1,106 @@
+Host 169.143.248.203.in-addr.arpa. not found: 3(NXDOMAIN)
+query : 203.248.143.169
+
+
+# KOREAN(UTF8)
+
+조회하신 IPv4주소는 한국인터넷진흥원으로부터 아래의 관리대행자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 203.248.128.0 - 203.248.255.255 (/17)
+서비스명           : BORANET
+기관명             : 주식회사 엘지유플러스
+기관고유번호       : ORG572
+주소               : 서울특별시 중구 소월로2길 30 (남대문로5가)
+우편번호           : 100-095
+할당일자           : 20030402
+
+[ IPv4주소 책임자 정보 ]
+이름               : IP주소관리자
+전화번호           : +82-2-6928-3087
+전자우편           : ipadm@lguplus.co.kr
+
+[ IPv4주소 담당자 정보 ]
+이름               : IP주소관리자
+전화번호           : +82-2-6928-3087
+전자우편           : ipadm@lguplus.co.kr
+
+[ 스팸 해킹 담당자 정보 ]
+이름               : Network Abuse 담당자
+전화번호           : +82-2-2089-0101
+전자우편           : security@bora.net
+
+--------------------------------------------------------------------------------
+
+조회하신 IPv4주소는 위의 관리대행자로부터 아래의 사용자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 203.248.142.0 - 203.248.143.255 (/23)
+네트워크 이름      : BORANET-INFRA
+기관명             : 주식회사 엘지유플러스
+기관고유번호       : ORG572
+주소               : 서울특별시 중구 소월로2길
+우편번호           : 100-095
+할당내역 등록일    : 20110309
+공개여부           : N
+
+[ 네트워크 담당자 정보 ]
+기관명             : 주식회사 엘지유플러스
+주소               : 서울특별시 중구 소월로2길
+우편번호           : 100-095
+전자우편           : ipadm@lguplus.co.kr
+
+
+# ENGLISH
+
+KRNIC is not an ISP but a National Internet Registry similar to APNIC.
+
+[ Network Information ]
+IPv4 Address       : 203.248.128.0 - 203.248.255.255 (/17)
+Service Name       : BORANET
+Organization Name  : LG DACOM Corporation
+Organization ID    : ORG572
+Address            : 827, Seoul Jung-gu Sowol-ro 2-gil
+Zip Code           : 100-095
+Registration Date  : 20030402
+
+[ Admin Contact Information ]
+Name               : IP Administrator
+Phone              : +82-2-6928-3087
+E-Mail             : ipadm@lguplus.co.kr
+
+[ Tech Contact Information ]
+Name               : IP ADMIN
+Phone              : +82-2-6928-3087
+E-Mail             : ipadm@lguplus.co.kr
+
+[ Network Abuse Contact Information ]
+Name               : Network Abuse
+Phone              : +82-2-2089-0101
+E-Mail             : security@bora.net
+
+--------------------------------------------------------------------------------
+
+More specific assignment information is as follows.
+
+[ Network Information ]
+IPv4 Address       : 203.248.142.0 - 203.248.143.255 (/23)
+Network Name       : BORANET-INFRA
+Organization Name  : LG DACOM Corporation
+Organization ID    : ORG572
+Address            : Seoul Jung-gu Sowol-ro 2-gil
+Zip Code           : 100-095
+Registration Date  : 20110309
+Publishes          : N
+
+[ Technical Contact Information ]
+Organization Name  : LG DACOM Corporation
+Address            : Seoul Jung-gu Sowol-ro 2-gil
+Zip Code           : 100-095
+E-Mail             : ipadm@lguplus.co.kr
+
+
+- KISA/KRNIC Whois Service -
+
+
+

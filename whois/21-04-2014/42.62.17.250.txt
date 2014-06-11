@@ -1,0 +1,61 @@
+Host 250.17.62.42.in-addr.arpa not found: 1(FORMERR)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '42.62.0.0 - 42.62.127.255'
+
+inetnum:        42.62.0.0 - 42.62.127.255
+netname:        Forest-Eternal
+descr:          Forest Eternal Communication Tech. co.ltd
+descr:          Rm.902,North Real Estate Building, Build. No.3,
+descr:          #81Yuan,Haidian District,Beijing
+country:        CN
+admin-c:        HL2233-AP
+tech-c:         GT483-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+changed:        ipas@cnnic.cn 20110629
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110428
+source:         APNIC
+
+person:         Guo Tao
+address:        Rm.902,North Real Estate Building, Build. No.3,
+address:        #81Yuan,Haidian District,Beijing
+country:        CN
+phone:          +86-010-51659311
+e-mail:         gt@lenet.com.cn
+nic-hdl:        GT483-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110628
+source:         APNIC
+
+person:         Hong Lei
+address:        Rm.902,North Real Estate Building, Build. No.3,
+address:        #81Yuan,Haidian District,Beijing
+country:        CN
+phone:          +86-010-51659311
+e-mail:         honglei@lenet.com.cn
+nic-hdl:        HL2233-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110628
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

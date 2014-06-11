@@ -1,0 +1,79 @@
+76.31.110.207.in-addr.arpa domain name pointer 207.110.31.76.ptr.us.xo.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=207.110.31.76?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       207.110.0.0 - 207.110.63.255
+CIDR:           207.110.0.0/18
+OriginAS:       
+NetName:        ALGX-SAN-BLK2
+NetHandle:      NET-207-110-0-0-1
+Parent:         NET-207-0-0-0-0
+NetType:        Direct Allocation
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Comment:        Please report spam and viruses to abuse@xo.net.
+Comment:        For better service, direct customers of XO may use
+Comment:        the web form at http://www.xo.com/contact/care/
+Comment:        for reverse DNS requests and other customer-specific
+Comment:        technical issues.  Thank you for your cooperation.
+RegDate:        1996-04-23
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-207-110-0-0-1
+
+OrgName:        XO Communications
+OrgId:          XOXO
+Address:        13865 Sunrise Valley Drive
+City:           Herdon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/XOXO
+
+ReferralServer: rwhois://rwhois.eng.xo.com:4321/
+
+OrgAbuseHandle: XCNV-ARIN
+OrgAbuseName:   XO Communications, Network Violations
+OrgAbusePhone:  +1-866-285-6208 
+OrgAbuseEmail:  abuse@xo.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/XCNV-ARIN
+
+OrgTechHandle: XCIA-ARIN
+OrgTechName:   XO Communications, IP Administrator
+OrgTechPhone:  +1-703-547-2881 
+OrgTechEmail:  ipadmin@eng.xo.com
+OrgTechRef:    http://whois.arin.net/rest/poc/XCIA-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.eng.xo.com:4321.
+
+%rwhois V-1.5:003fff:00 rwhois.eng.xo.com (by Network Solutions, Inc. V-1.5.9)
+network:Class-Name:network
+network:ID:NET-XO-NET-cf6e1f00
+network:Auth-Area:207.110.0.0/18
+network:Network-Name:XO-NET-cf6e1f00
+network:Organization;I:DAVIDS COMMUNICATIONS (326318-1)
+network:IP-Network:207.110.31.0/24
+network:Admin-Contact;I:XCIA-ARIN
+network:Tech-Contact;I:XCIA-ARIN
+network:Created:20120606
+network:Updated:20120629
+network:Updated-By:ipadmin@eng.xo.com
+
+%ok

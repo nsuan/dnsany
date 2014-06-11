@@ -1,0 +1,48 @@
+Host 226.248.191.60.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '60.191.248.128 - 60.191.248.255'
+
+inetnum:        60.191.248.128 - 60.191.248.255
+netname:        JINHUA-TELECOM-LTD
+country:        CN
+descr:          Jinhua Telecom Co.,ltd
+descr:
+admin-c:        LW1550-AP
+tech-c:         CJ54-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        auto-dbm@dcb.hz.zj.cn 20090819
+mnt-by:         MAINT-CN-CHINANET-ZJ-JH
+source:         APNIC
+
+role:           CHINANET-ZJ Jinhua
+address:        No.155 Xishi street,Jinhua,Zhejiang.321000
+country:        CN
+phone:          +86-579-2300779
+fax-no:         +86-579-2330035
+e-mail:         anti_spam@mail.jhptt.zj.cn
+remarks:        send spam reports to anti_spam@mail.jhptt.zj.cn
+remarks:        and abuse reports to anti_spam@mail.jhptt.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH55-AP
+tech-c:         CH55-AP
+nic-hdl:        CJ54-AP
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        master@dcb.hz.zj.cn 20031204
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Lujiang Wang
+nic-hdl:        LW1550-AP
+e-mail:         anti_spam@mail.jhptt.zj.cn
+address:        NO.155 Xishi Street,Jinhua,Zhejiang.Postcode:321000
+phone:          +86-579-83285460
+country:        CN
+changed:        auto-dbm@dcb.hz.zj.cn 20090225
+mnt-by:         MAINT-CN-CHINANET-ZJ-JH
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

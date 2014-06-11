@@ -1,0 +1,65 @@
+Host 56.145.103.91.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.103.144.0 - 91.103.151.255'
+
+% Abuse contact for '91.103.144.0 - 91.103.151.255' is 'noc@tawasulservices.com'
+
+inetnum:        91.103.144.0 - 91.103.151.255
+descr:          Tawasul Services
+netname:        KW-TAWASULSERVICES-20061128
+country:        KW
+org:            ORG-TS63-RIPE
+admin-c:        MSN21-RIPE
+tech-c:         MSN21-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-MSN21
+mnt-domains:    MNT-HHH69
+mnt-routes:     MNT-MSN21
+source:         RIPE # Filtered
+
+organisation:   ORG-TS63-RIPE
+org-name:       Tawasul Services
+org-type:       LIR
+address:        Tawasul Services Company
+address:        Abdul Rasheeth
+address:        SHUHADA'A ST 9TH FLOOR  KUWA
+address:        P  O  BOX 27800 13138 SAFAT
+address:        KUWAIT
+phone:          +96522452222
+fax-no:         +96522450022
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-MSN21
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        MSN21-RIPE
+abuse-c:        TA4437-RIPE
+source:         RIPE # Filtered
+
+person:         Mazen S. Nassar
+address:        Jerril Vergis Kurian
+address:        P O BOX 4175, SAFAT 13042  KW - Kuwait
+mnt-by:         MNT-MSN21
+phone:          +96590907092
+fax-no:         +9654732294
+nic-hdl:        MSN21-RIPE
+source:         RIPE # Filtered
+
+% Information related to '91.103.145.0/24AS42013'
+
+route:          91.103.145.0/24
+descr:          Tawasul Services
+origin:         AS42013
+mnt-by:         mnt-msn21
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS1)
+
+

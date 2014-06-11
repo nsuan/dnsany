@@ -1,0 +1,113 @@
+Host 223.55.175.139.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=139.175.55.223?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       139.175.0.0 - 139.175.255.255
+CIDR:           139.175.0.0/16
+OriginAS:       
+NetName:        APNIC-ERX-139-175-0-0
+NetHandle:      NET-139-175-0-0-1
+Parent:         NET-139-0-0-0-0
+NetType:        Early Registrations, Transferred to APNIC
+Comment:        This IP address range is not registered in the ARIN database.
+Comment:        This range was transferred to the APNIC Whois Database as
+Comment:        part of the ERX (Early Registration Transfer) project.
+Comment:        For details, refer to the APNIC Whois Database via
+Comment:        WHOIS.APNIC.NET or http://wq.apnic.net/apnic-bin/whois.pl
+Comment:        
+Comment:        ** IMPORTANT NOTE: APNIC is the Regional Internet Registry
+Comment:        for the Asia Pacific region.  APNIC does not operate networks
+Comment:        using this IP address range and is not able to investigate
+Comment:        spam or abuse reports relating to these addresses.  For more
+Comment:        help, refer to http://www.apnic.net/apnic-info/whois_search2/abuse-and-spamming
+RegDate:        2004-03-03
+Updated:        2009-10-08
+Ref:            http://whois.arin.net/rest/net/NET-139-175-0-0-1
+
+OrgName:        Asia Pacific Network Information Centre
+OrgId:          APNIC
+Address:        PO Box 3646
+City:           South Brisbane
+StateProv:      QLD
+PostalCode:     4101
+Country:        AU
+RegDate:        
+Updated:        2012-01-24
+Ref:            http://whois.arin.net/rest/org/APNIC
+
+ReferralServer: whois://whois.apnic.net
+
+OrgAbuseHandle: AWC12-ARIN
+OrgAbuseName:   APNIC Whois Contact
+OrgAbusePhone:  +61 7 3858 3188 
+OrgAbuseEmail:  search-apnic-not-arin@apnic.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/AWC12-ARIN
+
+OrgTechHandle: AWC12-ARIN
+OrgTechName:   APNIC Whois Contact
+OrgTechPhone:  +61 7 3858 3188 
+OrgTechEmail:  search-apnic-not-arin@apnic.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AWC12-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to whois.apnic.net.
+
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '139.175.0.0 - 139.175.255.255'
+
+inetnum:        139.175.0.0 - 139.175.255.255
+netname:        SEEDNET-NET
+country:        TW
+descr:          Digital United I
+descr:          7F,220,gangchi road
+descr:          Taipei Taiwan 114
+country:        TW
+admin-c:        sNA15-AP
+tech-c:         sNA15-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-TW-TWNIC
+mnt-lower:      MAINT-TW-TWNIC
+changed:        hostmaster@arin.net 20000119
+changed:        hm-changed@apnic.net 20040224
+changed:        hm-changed@apnic.net 20041214
+changed:        hm-changed@apnic.net 20050812
+source:         APNIC
+
+role:           seednet Network Administrator
+address:        7F,220,gangchi road
+address:        Taipei, Taiwan, 114, R.O.C
+country:        TW
+phone:          +886-2-2798-3463
+fax-no:         +886-2-2658-5758
+e-mail:         michaelc@du.net.tw
+admin-c:        MC37-AP
+tech-c:         MC37-AP
+nic-hdl:        sNA15-AP
+remarks:        The role object should be used when making
+remarks:        changes to admin-c or tech-c handle.
+notify:         hostmaster@twnic.net.tw
+mnt-by:         MAINT-TW-TWNIC
+changed:        hostmaster@twnic.net.tw 20050407
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

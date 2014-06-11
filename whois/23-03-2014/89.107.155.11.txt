@@ -1,0 +1,45 @@
+11.155.107.89.in-addr.arpa domain name pointer un-155-11.static.sitel.net.pl.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '89.107.155.0 - 89.107.155.127'
+
+% Abuse contact for '89.107.155.0 - 89.107.155.127' is 'abuse@sitel.net.pl'
+
+inetnum:        89.107.155.0 - 89.107.155.127
+netname:        FAFNET
+descr:          internet access
+country:        PL
+admin-c:        MK13444-RIPE
+tech-c:         MK13444-RIPE
+status:         ASSIGNED PA
+mnt-by:         sitelnetpl-mnt
+source:         RIPE # Filtered
+
+person:         Michal Kaps
+address:        ul. Plebiscytowa 28
+address:        Katowice
+address:        Polska
+phone:          +48 693314560
+nic-hdl:        MK13444-RIPE
+abuse-mailbox:  ripe@sitel.net.pl
+mnt-by:         sitelnetpl-mnt
+source:         RIPE # Filtered
+
+% Information related to '89.107.152.0/21AS39869'
+
+route:          89.107.152.0/21
+descr:          sitel
+origin:         AS39869
+mnt-by:         sitelnetpl-mnt
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS3)
+
+

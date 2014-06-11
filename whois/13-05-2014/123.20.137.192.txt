@@ -1,0 +1,58 @@
+Host 192.137.20.123.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '123.20.0.0 - 123.20.255.255'
+
+inetnum:        123.20.0.0 - 123.20.255.255
+netname:        VNPTinfrastructure-NET
+country:        vn
+descr:          Vietnam Posts and Telecommunications(VNPT)
+admin-c:        NXC1-AP
+tech-c:         KNH1-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        hm-changed@vnnic.net.vn20081016 20081016
+mnt-by:         MAINT-VN-VNPT
+source:         APNIC
+
+person:         Khanh Nguyen Hien
+nic-hdl:        KNH1-AP
+e-mail:         hathm@vdc.com.vn
+address:        Vietnam Datacommunications Company (VDC)
+address:        Lo IIA Lang Quoc te Thang Long, Cau Giay, Ha Noi
+phone:          +84-4-3793 0563
+fax-no:         +84-4-32811506
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20090227
+mnt-by:         VNPT
+source:         APNIC
+
+person:         Nguyen Xuan Cuong
+nic-hdl:        NXC1-AP
+e-mail:         cuongnx@vnpt.com.vn
+address:        Vietnam Posts and Telecommunications (VNPT)
+address:        57 Huynh Thuc Khang
+address:        Hanoi, Vietnam
+phone:          +84-4-37741236
+fax-no:         +84-4-37741205
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20090922
+mnt-by:         MAINT-VN-VNPT
+source:         APNIC
+
+% Information related to '123.20.128.0/18AS45899'
+
+route:          123.20.128.0/18
+descr:          VietNam Post and Telecom Corporation (VNPT)
+descr:          VNPT-AS-AP
+country:        VN
+origin:         AS45899
+remarks:        mailto: noc@vnn.vn
+notify:         hm-changed@vnnic.net.vn
+mnt-by:         MAINT-VN-VNPT
+changed:        hm-changed@vnnic.net.vn 20100810
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

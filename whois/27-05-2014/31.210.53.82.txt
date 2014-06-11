@@ -1,0 +1,56 @@
+82.53.210.31.in-addr.arpa domain name pointer static-82-53-210-31.sadecehosting.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.210.53.0 - 31.210.53.255'
+
+% Abuse contact for '31.210.53.0 - 31.210.53.255' is 'abuse@marsglobaldatacenter.com'
+
+inetnum:        31.210.53.0 - 31.210.53.255
+netname:        SADECEHOSTING-WEBHOSTINGC
+descr:          SADECEHOSTING-WEBHOSTINGC
+country:        TR
+org:            ORG-MGDS1-RIPE
+admin-c:        MN4961-RIPE
+tech-c:         MN4961-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-MARSNET
+source:         RIPE # Filtered
+
+organisation:   ORG-MGDS1-RIPE
+abuse-mailbox:  abuse@marsglobaldatacenter.com
+org-name:       Mars Global Datacenter Services LLC
+remarks:        www.marsglobaldatacenter.com
+org-type:       OTHER
+address:        Otakcilar Cad. No: 78, Kat:4, FlatOfis Eyup/Istanbul/ Turkiye
+abuse-c:        AR18620-RIPE
+mnt-ref:        MNT-MARSNET
+mnt-by:         MNT-MARSNET
+source:         RIPE # Filtered
+
+person:         Mars Noc
+abuse-mailbox:  abuse@marsglobaldatacenter.com
+address:        Otakcilar Cad. No: 78, Kat:4, FlatOfis Eyup/ Istanbul/ Turkiye
+remarks:        www.marsglobaldatacenter.com
+mnt-by:         MNT-MARSNET
+phone:          +90 212 437 87 87
+nic-hdl:        MN4961-RIPE
+source:         RIPE # Filtered
+
+% Information related to '31.210.53.0/24AS42910'
+
+route:          31.210.53.0/24
+descr:          MarsGlobal1-Net1
+origin:         AS42910
+mnt-by:         MNT-MARSNET
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS3)
+
+

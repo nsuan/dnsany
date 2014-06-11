@@ -1,0 +1,66 @@
+Host 226.149.99.109.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.96.0.0 - 109.103.255.255'
+
+% Abuse contact for '109.96.0.0 - 109.103.255.255' is 'abuse@romtelecom.ro'
+
+inetnum:        109.96.0.0 - 109.103.255.255
+netname:        RO-ARTELECOM-20090721
+descr:          ROMTelecom S.A.
+country:        RO
+org:            ORG-AA45-RIPE
+admin-c:        GPN4-RIPE
+tech-c:         GPN4-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-ARTELECOM-LIR
+mnt-routes:     MNT-ARTELECOM-LIR
+mnt-domains:    MNT-ARTELECOM-LIR
+source:         RIPE # Filtered
+
+organisation:   ORG-AA45-RIPE
+org-name:       ROMTelecom S.A.
+org-type:       LIR
+address:        Romtelecom
+address:        George Nicolae
+address:        City Gate North Tower, Piata Presei Libere 3 sector 1
+address:        013702 Bucuresti
+address:        ROMANIA
+phone:          +40214005682
+fax-no:         +40214005643
+descr:          Romtelecom Local Internet Registry
+mnt-ref:        MNT-ARTELECOM-LIR
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        GPN4-RIPE
+admin-c:        CD297-RIPE
+abuse-c:        RA6992-RIPE
+source:         RIPE # Filtered
+
+person:         George Puiu Nicolae
+address:        P-ta Presei Libere, nr. 3, City Gate, North Tower, Bucuresti, Romania
+abuse-mailbox:  abuse@romtelecom.ro
+phone:          +40-21-4005682
+nic-hdl:        GPN4-RIPE
+mnt-by:         GPN4-MNT
+source:         RIPE # Filtered
+
+% Information related to '109.99.0.0/16AS9050'
+
+route:          109.99.0.0/16
+descr:          Romtelecom
+origin:         AS9050
+mnt-by:         MNT-ARTELECOM-LIR
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS3)
+
+

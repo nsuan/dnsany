@@ -1,0 +1,59 @@
+134.79.148.198.in-addr.arpa domain name pointer moist.vrt.sourcefire.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=198.148.79.134?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       198.148.78.0 - 198.148.79.255
+CIDR:           198.148.78.0/23
+OriginAS:       AS55219
+NetName:        SOURCEFIRE-LABS
+NetHandle:      NET-198-148-78-0-1
+Parent:         NET-198-0-0-0-0
+NetType:        Direct Assignment
+RegDate:        2013-05-09
+Updated:        2013-05-09
+Ref:            http://whois.arin.net/rest/net/NET-198-148-78-0-1
+
+OrgName:        Sourcefire Labs
+OrgId:          SOURC-73
+Address:        9770 Patuxent Woods Drive
+City:           Columbia
+StateProv:      MD
+PostalCode:     21046
+Country:        US
+RegDate:        2013-02-12
+Updated:        2013-05-01
+Ref:            http://whois.arin.net/rest/org/SOURC-73
+
+OrgTechHandle: NETWO6021-ARIN
+OrgTechName:   Network Engineering
+OrgTechPhone:  +1-410-910-9588 
+OrgTechEmail:  labstech@sourcefire.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO6021-ARIN
+
+OrgAbuseHandle: ABUSE3752-ARIN
+OrgAbuseName:   Abuse Reporting
+OrgAbusePhone:  +1-410-910-9588 
+OrgAbuseEmail:  labsabuse@sourcefire.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3752-ARIN
+
+OrgNOCHandle: NETWO6021-ARIN
+OrgNOCName:   Network Engineering
+OrgNOCPhone:  +1-410-910-9588 
+OrgNOCEmail:  labstech@sourcefire.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO6021-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

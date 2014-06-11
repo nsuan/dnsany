@@ -1,0 +1,58 @@
+Host 101.83.236.191.in-addr.arpa. not found: 3(NXDOMAIN)
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-05-11 08:49:01 (BRT -03:00)
+
+inetnum:     191.236/14
+aut-num:     AS8075
+abuse-c:     BEORN2
+owner:       Microsoft Informatica Ltda
+ownerid:     060.316.817/0001-03
+responsible: Benjamin Orndorff
+country:     BR
+owner-c:     BEORN2
+tech-c:      BEORN2
+inetrev:     191.236/14
+nserver:     ns1.msft.net 
+nsstat:      20140430 AA
+nslastaa:    20140430
+nserver:     ns2.msft.net 
+nsstat:      20140430 AA
+nslastaa:    20140430
+nserver:     ns3.msft.net 
+nsstat:      20140430 AA
+nslastaa:    20140430
+nserver:     ns4.msft.net 
+nsstat:      20140430 AA
+nslastaa:    20140430
+nserver:     ns5.msft.net 
+nsstat:      20140430 AA
+nslastaa:    20140430
+created:     20130911
+changed:     20130911
+
+nic-hdl-br:  BEORN2
+person:      Benjamin Orndorff
+e-mail:      domains@microsoft.com
+created:     20110810
+changed:     20131212
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

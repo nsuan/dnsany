@@ -1,0 +1,35 @@
+Host 120.99.30.218.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '218.30.96.0 - 218.30.127.255'
+
+inetnum:        218.30.96.0 - 218.30.127.255
+netname:        CHINANET-IDC-BJ
+descr:          CHINANET IDC center
+descr:          China Telecom
+descr:          Beijing 100088
+country:        CN
+admin-c:        HC55-AP
+tech-c:         HC55-AP
+mnt-by:         MAINT-CHINANET
+mnt-lower:      MAINT-CHINATELECOM-BJ
+changed:        bjnic@bjtelecom.net 20040322
+status:         ALLOCATED NON-PORTABLE
+source:         APNIC
+
+person:         Hostmaster of Beijing Telecom corporation CHINA   TELECOM
+nic-hdl:        HC55-AP
+e-mail:         bjnic@bjtelecom.net
+address:        Beijing Telecom
+address:        No. 107 XiDan Beidajie, Xicheng District Beijing
+phone:          +86-010-58503461
+fax-no:         +86-010-58503054
+country:        cn
+changed:        bjnic@bjtelecom.net 20040115
+mnt-by:         MAINT-CHINATELECOM-BJ
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

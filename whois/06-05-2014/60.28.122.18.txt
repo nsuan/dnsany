@@ -1,0 +1,80 @@
+Host 18.122.28.60.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '60.24.0.0 - 60.30.255.255'
+
+inetnum:        60.24.0.0 - 60.30.255.255
+netname:        UNICOM-TJ
+country:        CN
+descr:          China Unicom Tianjin province network
+descr:          China Unicom
+admin-c:        CH1302-AP
+tech-c:         HZ19-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-TJ
+mnt-routes:     MAINT-CNCGROUP-RR
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-irt:        IRT-CU-CN
+changed:        hm-changed@apnic.net 20040416
+changed:        hm-changed@apnic.net 20060124
+changed:        hm-changed@apnic.net 20090508
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+person:         huang zheng
+nic-hdl:        HZ19-AP
+e-mail:         tj-ipaddr3@chinaunicom.cn
+address:        76 NO, ShiZiLin Street ,HeBei district of Tianjin,China
+phone:          +86-22-24459190
+fax-no:         +86-22-24454499
+country:        CN
+changed:        tj-ipaddr3@chinaunicom.cn  20120713
+mnt-by:         MAINT-CNCGROUP-TJ
+source:         APNIC
+
+% Information related to '60.28.0.0/15AS4837'
+
+route:          60.28.0.0/15
+descr:          CNC Group CHINA169 Tianjin Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20060118
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

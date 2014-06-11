@@ -1,0 +1,44 @@
+125.233.92.93.in-addr.arpa domain name pointer server-233-125.efor.es.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.92.232.0 - 93.92.235.255'
+
+% Abuse contact for '93.92.232.0 - 93.92.235.255' is 'gbernal@efor.es'
+
+inetnum:        93.92.232.0 - 93.92.235.255
+netname:        EFOR
+descr:          EFOR_NET1
+country:        ES
+admin-c:        EM254-RIPE
+tech-c:         EM254-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-EFOR
+mnt-domains:    MNT-EFOR
+source:         RIPE # Filtered
+
+role:           EFOR MNT
+address:        Zaragoza
+mnt-by:         MNT-EFOR
+nic-hdl:        EM254-RIPE
+source:         RIPE # Filtered
+admin-c:        EM254-RIPE
+tech-c:         EM254-RIPE
+
+% Information related to '93.92.233.0/24AS44585'
+
+route:          93.92.233.0/24
+descr:          EFOR-MADRID
+origin:         AS44585
+mnt-by:         MNT-EFOR
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS1)
+
+

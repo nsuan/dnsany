@@ -1,0 +1,44 @@
+Host 141.68.88.178.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.88.68.128 - 178.88.68.159'
+
+% Abuse contact for '178.88.68.128 - 178.88.68.159' is 'abuse.spam@telecom.kz'
+
+inetnum:        178.88.68.128 - 178.88.68.159
+netname:        TOLKYN
+descr:          LLP UK KSK "TOLKYN"
+descr:          in Almaty
+country:        KZ
+admin-c:        TK5610-RIPE
+tech-c:         TK5610-RIPE
+status:         ASSIGNED PA
+mnt-by:         KNIC-MNT
+source:         RIPE # Filtered
+
+person:         Timur Konakbaev
+address:        Almaty, Osipenko  str., 35/A
+address:        KZ
+phone:          +7 707 6755528
+nic-hdl:        TK5610-RIPE
+mnt-by:         KNIC-MNT
+source:         RIPE # Filtered
+
+% Information related to '178.88.0.0/16AS9198'
+
+route:          178.88.0.0/16
+descr:          Kazakhtelecom Data Network Administration
+origin:         AS9198
+mnt-by:         KNIC-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS2)
+
+

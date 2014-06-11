@@ -1,0 +1,71 @@
+Host 164.214.142.91.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.142.208.0 - 91.142.215.255'
+
+% Abuse contact for '91.142.208.0 - 91.142.215.255' is 'abuse@axarnet.es'
+
+inetnum:        91.142.208.0 - 91.142.215.255
+netname:        ES-AXARNET-NET
+descr:          AXARNET, Nodo en Madrid
+descr:          ES-AXARNET-NET-20070321
+country:        ES
+org:            ORG-ACS10-RIPE
+admin-c:        AHR10-RIPE
+tech-c:         AHR10-RIPE
+remarks:        rev-srv:        ns1.axarnet.net
+remarks:        rev-srv:        ns2.axarnet.net
+status:         ASSIGNED PA
+mnt-by:         AXARNET-MNT
+mnt-irt:        IRT-AXARNET
+source:         RIPE # Filtered
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+organisation:   ORG-ACS10-RIPE
+org-name:       Axarnet Comunicaciones SL
+org-type:       LIR
+address:        Axarnet Comunicaciones SL Avda. Andalucia 81, 2C 29740 Torre del Mar (Malaga) Spain
+phone:          +34902120769
+fax-no:         +34952546363
+abuse-c:        AR14880-RIPE
+abuse-mailbox:  abuse@axarnet.es
+admin-c:        IMP13-RIPE
+admin-c:        JPR102-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        AXARNET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+role:           AXARNET Hostmaster Role
+address:        Axarnet Comunicaciones SL
+address:        Avda. Andalucia 81, 2c
+address:        29740 Torre del Mar (Malaga)
+address:        Spain
+phone:          +34 952544342
+fax-no:         +34 952546363
+org:            ORG-ACS10-RIPE
+admin-c:        JPR102-RIPE
+tech-c:         JPR102-RIPE
+nic-hdl:        AHR10-RIPE
+abuse-mailbox:  abuse@axarnet.es
+mnt-by:         AXARNET-MNT
+source:         RIPE # Filtered
+
+% Information related to '91.142.208.0/20AS12860'
+
+route:          91.142.208.0/20
+descr:          AXARnet-Network
+origin:         AS12860
+mnt-by:         AXARNET-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS3)
+
+

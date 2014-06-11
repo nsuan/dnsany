@@ -1,0 +1,74 @@
+Host 32.41.100.151.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '151.100.0.0 - 151.100.255.255'
+
+% No abuse contact registered for 151.100.0.0 - 151.100.255.255
+
+inetnum:        151.100.0.0 - 151.100.255.255
+netname:        SAPIENZA-NET
+descr:          Università degli Studi di Roma  La Sapienza
+country:        IT
+admin-c:        LL3289-RIPE
+tech-c:         MP4201-RIPE
+tech-c:         PDA177-RIPE
+status:         ASSIGNED PI
+remarks:        This prefix is statically assigned
+remarks:        To notify abuse mailto: cert@garr.it
+remarks:        Multiple-Lan of University Departments
+remarks:        GARR - Italian academic and research network
+mnt-irt:        IRT-GARR-CERT
+mnt-by:         GARR-LIR
+source:         RIPE # Filtered
+
+person:         Luciano Longhi
+address:        Università di Roma La Sapienza
+address:        P.le A. Moro, 5
+address:        I-00185 ROMA
+address:        Italy
+phone:          +39 06 49910113
+fax-no:         +39 06 49910170
+nic-hdl:        LL3289-RIPE
+mnt-by:         GARR-LIR
+source:         RIPE # Filtered
+
+person:         Massimo Petrucci
+address:        C.I.T.I.Co.R.D. - Universita' di Roma "La Sapienza"
+address:        Piazzale Aldo Moro, 5
+address:        00185 Roma
+address:        Italy
+phone:          +39 06 49913111
+fax-no:         +39 06 49913837
+nic-hdl:        MP4201-RIPE
+mnt-by:         GARR-LIR
+source:         RIPE # Filtered
+
+person:         Paola De Angelis
+address:        Piazzale Aldo Moro, 2
+address:        I-00185  Roma
+address:        Italy
+phone:          +39 06 49910040
+fax-no:         +39 06 49910170
+nic-hdl:        PDA177-RIPE
+mnt-by:         GARR-LIR
+source:         RIPE # Filtered
+
+% Information related to '151.100.0.0/16AS137'
+
+route:          151.100.0.0/16
+descr:          SAPIENZA-NET
+origin:         AS137
+remarks:        Universita' di Roma "La Sapienza"
+mnt-by:         GARR-LIR
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS1)
+
+

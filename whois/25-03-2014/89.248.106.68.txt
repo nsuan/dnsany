@@ -1,0 +1,46 @@
+68.106.248.89.in-addr.arpa domain name pointer host2.resone.es.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '89.248.105.0 - 89.248.108.255'
+
+% Abuse contact for '89.248.105.0 - 89.248.108.255' is 'abuse@interdominios.com'
+
+inetnum:        89.248.105.0 - 89.248.108.255
+netname:        INTERDOMINIOS-1
+descr:          www.interdominios.com
+country:        ES
+admin-c:        BA4794-RIPE
+tech-c:         BA4794-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-BRodriguez01
+source:         RIPE # Filtered
+
+person:         Benito Rodriguez Alvarez
+address:        c./ Ana Mariscal 5
+address:        Pozuelo de Alarcon
+address:        Madrid
+phone:          +34 902199915
+nic-hdl:        BA4794-RIPE
+mnt-by:         MNT-BRodriguez01
+source:         RIPE # Filtered
+abuse-mailbox:  abuse@interdominios.com
+
+% Information related to '89.248.106.0/24AS42237'
+
+route:          89.248.106.0/24
+descr:          Internet Access Routes of Interdominios
+descr:          interdominios.com
+origin:         AS42237
+mnt-by:         MNT-BRodriguez01
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS1)
+
+

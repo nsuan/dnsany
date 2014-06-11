@@ -1,0 +1,10 @@
+166.51.20.211.in-addr.arpa domain name pointer 211-20-51-166.HINET-IP.hinet.net.
+
+   Netname: HINET-NET
+   Netblock: 211.20.51.0/24
+
+   Administrator contact:
+      network-adm@hinet.net
+
+   Technical contact:
+      network-adm@hinet.net

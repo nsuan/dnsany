@@ -1,0 +1,60 @@
+111.81.70.216.in-addr.arpa domain name pointer verdisgroup2.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=216.70.81.111?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       216.70.64.0 - 216.70.127.255
+CIDR:           216.70.64.0/18
+OriginAS:       
+NetName:        MEDIATEMPLE-102
+NetHandle:      NET-216-70-64-0-1
+Parent:         NET-216-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2005-06-22
+Updated:        2012-03-20
+Ref:            http://whois.arin.net/rest/net/NET-216-70-64-0-1
+
+OrgName:        Media Temple, Inc.
+OrgId:          MEDIAT-10
+Address:        8520 National Blvd.
+Address:        Building B
+City:           Culver City
+StateProv:      CA
+PostalCode:     90232
+Country:        US
+RegDate:        2001-05-15
+Updated:        2014-03-19
+Ref:            http://whois.arin.net/rest/org/MEDIAT-10
+
+OrgAbuseHandle: ABUSE418-ARIN
+OrgAbuseName:   Abuse Desk
+OrgAbusePhone:  +1-877-578-4000 
+OrgAbuseEmail:  abuse@mediatemple.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE418-ARIN
+
+OrgTechHandle: NA230-ARIN
+OrgTechName:   NOC Hosting Operations
+OrgTechPhone:  +1-877-578-4000 
+OrgTechEmail:  dnsadmin@mediatemple.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NA230-ARIN
+
+RTechHandle: NA230-ARIN
+RTechName:   NOC Hosting Operations
+RTechPhone:  +1-877-578-4000 
+RTechEmail:  dnsadmin@mediatemple.net
+RTechRef:    http://whois.arin.net/rest/poc/NA230-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

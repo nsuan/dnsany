@@ -1,0 +1,58 @@
+Host 147.244.45.110.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '110.45.128.0 - 110.45.255.255'
+
+inetnum:        110.45.128.0 - 110.45.255.255
+netname:        KIDC
+descr:          LG DACOM KIDC
+descr:          KIDC, 261-1 Nonhyun-dong, Kangnam-gu, Seoul
+descr:          **************************************************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          http://whois.nic.or.kr/english/index.htm
+descr:          **************************************************************
+country:        KR
+admin-c:        YL177-AP
+tech-c:         YL177-AP
+status:         ALLOCATED PORTABLE
+remarks:        www.kidc.net
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20090318
+source:         APNIC
+
+person:         Yunmi Lee
+nic-hdl:        YL177-AP
+e-mail:         ip@kidc.net
+address:        KIDC Bldg, 261-1, Nonhyun-dong, Kangnam-ku, Seoul
+phone:          +82-2-6440-2925
+fax-no:         +82-2-6440-2909
+country:        KR
+changed:        hostmaster@nic.or.kr 20040412
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+% Information related to '110.45.128.0 - 110.45.255.255'
+
+inetnum:        110.45.128.0 - 110.45.255.255
+netname:        KIDC-KR
+descr:          LG DACOM KIDC
+country:        KR
+admin-c:        IA115-KR
+tech-c:         IM115-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

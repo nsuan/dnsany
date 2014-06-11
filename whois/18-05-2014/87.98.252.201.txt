@@ -1,0 +1,72 @@
+201.252.98.87.in-addr.arpa domain name pointer batavi.achatpc.be.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '87.98.252.0 - 87.98.253.255'
+
+% Abuse contact for '87.98.252.0 - 87.98.253.255' is 'abuse@ovh.net'
+
+inetnum:        87.98.252.0 - 87.98.253.255
+netname:        BE-OVH
+descr:          OVH BE
+country:        BE
+org:            ORG-OB10-RIPE
+admin-c:        OK217-RIPE
+tech-c:         OTC2-RIPE
+status:         ASSIGNED PA
+mnt-by:         OVH-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-OB10-RIPE
+org-name:       OVH BE
+org-type:       OTHER
+address:        InterXion Belgium N.V.
+address:        Wezembeekstraat 2
+address:        1930 Zaventem
+address:        Belgium
+abuse-mailbox:  abuse@ovh.net
+mnt-ref:        OVH-MNT
+mnt-by:         OVH-MNT
+source:         RIPE # Filtered
+
+role:           OVH Technical Contact
+address:        OVH SAS
+address:        2 rue Kellermann
+address:        59100 Roubaix
+address:        France
+admin-c:        OK217-RIPE
+tech-c:         GM84-RIPE
+nic-hdl:        OTC2-RIPE
+abuse-mailbox:  abuse@ovh.net
+mnt-by:         OVH-MNT
+source:         RIPE # Filtered
+
+person:         Octave Klaba
+address:        OVH SAS
+address:        2 rue Kellermann
+address:        59100 Roubaix
+address:        France
+phone:          +33 9 74 53 13 23
+nic-hdl:        OK217-RIPE
+abuse-mailbox:  abuse@ovh.net
+mnt-by:         OVH-MNT
+source:         RIPE # Filtered
+
+% Information related to '87.98.128.0/17AS16276'
+
+route:          87.98.128.0/17
+descr:          OVH ISP
+descr:          Paris, France
+origin:         AS16276
+mnt-by:         OVH-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS4)
+
+

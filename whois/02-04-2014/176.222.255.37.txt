@@ -1,0 +1,41 @@
+37.255.222.176.in-addr.arpa domain name pointer host-176-222-255-37.ugmk-telecom.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '176.222.254.0 - 176.222.255.255'
+
+% Abuse contact for '176.222.254.0 - 176.222.255.255' is 'vs@ugmk-telecom.ru'
+
+inetnum:        176.222.254.0 - 176.222.255.255
+netname:        Ural-Reg-Net-7
+descr:          UGMK-Telecom network
+country:        RU
+admin-c:        LVS31-RIPE
+tech-c:         LVS31-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-UGMK_TELECOM
+source:         RIPE # Filtered
+
+person:         Vladimir Lanskikh
+address:        624091, Russia, V. Pyshma, Lenina 1
+phone:          +7 343 3794577
+nic-hdl:        LVS31-RIPE
+source:         RIPE # Filtered
+
+% Information related to '176.222.254.0/23AS41560'
+
+route:          176.222.254.0/23
+descr:          UGMK-Telecom network
+origin:         AS41560
+mnt-by:         MNT-UGMK_TELECOM
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS4)
+
+

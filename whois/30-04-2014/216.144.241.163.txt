@@ -1,0 +1,92 @@
+163.241.144.216.in-addr.arpa domain name pointer 163-241-144-216.static.reverse.lstn.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=216.144.241.163?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       216.144.240.0 - 216.144.255.255
+CIDR:           216.144.240.0/20
+OriginAS:       AS46475
+NetName:        LSN-DLLSTX-7
+NetHandle:      NET-216-144-240-0-1
+Parent:         NET-216-0-0-0-0
+NetType:        Direct Allocation
+Comment:        http://www.limestonenetworks.com
+RegDate:        2011-08-17
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-216-144-240-0-1
+
+OrgName:        Limestone Networks, Inc.
+OrgId:          LIMES-2
+Address:        400 S. Akard Street
+Address:        Suite 200
+City:           Dallas
+StateProv:      TX
+PostalCode:     75202
+Country:        US
+RegDate:        2007-12-04
+Updated:        2010-01-26
+Comment:        http://limestonenetworks.com/
+Ref:            http://whois.arin.net/rest/org/LIMES-2
+
+ReferralServer: rwhois://rwhois.limestonenetworks.com:4321
+
+OrgTechHandle: NOC2791-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-214-586-0555 
+OrgTechEmail:  noc@limestonenetworks.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC2791-ARIN
+
+OrgAbuseHandle: ABUSE1804-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-242-3600 
+OrgAbuseEmail:  abuse@limestonenetworks.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1804-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.limestonenetworks.com:4321.
+
+%rwhois V-1.5:003fff:00 rwhois.limestonenetworks.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:LSN-BLK-216.144.240.0/20
+network:Auth-Area:216.144.240.0/20
+network:Network-Name:LSN-216.144.240.0/20
+network:IP-Network:216.144.241.160/28
+network:IP-Network-Block:216.144.241.160 - 216.144.241.175
+network:Organization-Name:Antonio Wagner Arantes
+network:Organization-City:Cruzilia
+network:Organization-State:OT
+network:Organization-Zip:37445-000
+network:Organization-Country:BR
+network:Tech-Contact;I:abuse@limestonenetworks.com
+network:Admin-Contact;I:abuse@limestonenetworks.com
+network:Updated-By:admin@limestonenetworks.com
+
+network:Class-Name:network
+network:ID:LSN-BLK-216.144.240.0/20
+network:Auth-Area:216.144.240.0/20
+network:Network-Name:LSN-216.144.240.0/20
+network:IP-Network:216.144.240.0/20
+network:IP-Network-Block:216.144.240.0 - 216.144.255.255
+network:Organization;I:Limestone Networks
+network:Tech-Contact;I:ipadmin@limestonenetworks.com
+network:Admin-Contact;I:admin@limestonenetworks.com
+network:Created:20080129
+network:Updated:20080129
+network:Updated-By:admin@limestonenetworks.com
+
+%ok

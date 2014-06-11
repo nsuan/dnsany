@@ -1,0 +1,103 @@
+238.20.212.210.in-addr.arpa domain name pointer bckfirewall.mecon.co.in.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.212.20.224 - 210.212.20.255'
+
+inetnum:        210.212.20.224 - 210.212.20.255
+netname:        MECONNET
+descr:          MECON  LIMITED
+descr:          IT Section
+descr:          MECON LIMITED
+descr:          Doranda, Ranchi
+country:        IN
+admin-c:        GS6-AP
+admin-c:        NC83-AP
+tech-c:         BG47-AP
+tech-c:         CDN1-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20020524
+status:         ASSIGNED NON-PORTABLE
+source:         APNIC
+changed:        hm-changed@apnic.net  20020827
+
+role:           CGM Data Networks
+address:        CTS Compound
+address:        Netaji Nagar
+address:        New Delhi- 110 023
+country:        IN
+phone:          +91-11-24106782
+phone:          +91-11-24102119
+fax-no:         +91-11-26116783
+fax-no:         +91-11-26887888
+e-mail:         dnwplg@bsnl.in
+e-mail:         hostmaster@bsnl.in
+admin-c:        CGMD1-AP
+tech-c:         DT197-AP
+tech-c:         BH155-AP
+nic-hdl:        CDN1-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20030120
+changed:        hm-changed@apnic.net 20071227
+source:         APNIC
+
+role:           NS Cell
+address:        Internet Cell
+address:        Bharat Sanchar Nigam Limited
+address:        8th Floor,148-B Statesman House
+address:        Barakhamba Road, New Delhi - 110 001
+country:        IN
+phone:          +91-11-23734057
+phone:          +91-11-23710183
+fax-no:         +91-11-23734052
+e-mail:         hostmaster@bsnl.in
+e-mail:         abuse@bsnl.in
+admin-c:        CGMD1-AP
+tech-c:         DT197-AP
+nic-hdl:        NC83-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20030120
+changed:        hm-changed@apnic.net 20071227
+source:         APNIC
+
+person:         B Ghosh
+address:        IT Section
+address:        MECON LIMITED
+address:        Doranda, Ranchi
+country:        IN
+phone:          +91-651-502188
+fax-no:         +91-651-502214
+e-mail:         it@mecon.nic.in
+nic-hdl:        BG47-AP
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnwplg@sancharnet.in 20020522
+source:         APNIC
+
+person:         Gurudeo Sinha
+address:        IT Section
+address:        MECON LIMITED
+address:        Doranda, Ranchi
+country:        IN
+phone:          +91-651-502188
+fax-no:         +91-651-502214
+e-mail:         it@mecon.nic.in
+nic-hdl:        GS6-AP
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnwplg@sancharnet.in 20020522
+source:         APNIC
+
+% Information related to '210.212.16.0/20AS9829'
+
+route:          210.212.16.0/20
+descr:          BSNL Internet
+country:        IN
+origin:         AS9829
+mnt-lower:      MAINT-IN-DOT
+mnt-routes:     MAINT-IN-DOT
+mnt-by:         MAINT-IN-AS9829
+changed:        routemaster@sancharnet.in 20060404
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

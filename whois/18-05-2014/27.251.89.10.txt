@@ -1,0 +1,56 @@
+10.89.251.27.in-addr.arpa domain name pointer aircel-gprs-10.89.251.27.aircel.co.in.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '27.248.0.0 - 27.251.255.255'
+
+inetnum:        27.248.0.0 - 27.251.255.255
+netname:        DISHNET-IN
+descr:          Dishnet Wireless Limited
+country:        IN
+admin-c:        AC835-AP
+tech-c:         AC835-AP
+mnt-by:         MAINT-IN-IRINN
+mnt-lower:      MAINT-IN-DWL
+mnt-routes:     MAINT-IN-DWL
+mnt-irt:        IRT-DISHNET-IN
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20140306
+source:         APNIC
+
+irt:            IRT-DISHNET-IN
+address:        No: 769, Spencers 4th Floor
+address:        Anna Salai, Chennai, 600002
+e-mail:         abuse@aircel.co.in
+abuse-mailbox:  abuse@aircel.co.in
+admin-c:        AC835-AP
+tech-c:         AC835-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-DWL
+changed:        abuse@aircel.co.in 20101114
+source:         APNIC
+
+person:         Anant Chakole
+nic-hdl:        AC835-AP
+e-mail:         anant.chakole@dwl.co.in
+address:        19, Cathedral Garden Road
+address:        Nungambakkam, Chennai 600034
+phone:          +91-44-42280000
+fax-no:         +91-44-42280123
+country:        IN
+changed:        anant.chakole@dwl.co.in 20060130
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+% Information related to '27.251.89.0/24AS10201'
+
+route:          27.251.89.0/24
+descr:          Dishnet Wireless Limited
+origin:         AS10201
+mnt-by:         MAINT-IN-DWL
+changed:        ipadmin@aircel.co.in 20100329
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

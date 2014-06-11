@@ -1,0 +1,54 @@
+Host 22.146.234.61.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.234.146.0 - 61.234.146.255'
+
+inetnum:        61.234.146.0 - 61.234.146.255
+netname:        CRHbWhS
+country:        CN
+descr:          China Railcom Hubei Wuhan Subbranch
+descr:          Telecommunication Company
+descr:          Wuhan City,Hubei Province
+admin-c:        LQ112-AP
+tech-c:         LM273-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        wangpei@crc.net.cn 20030801
+mnt-by:         MAINT-CN-CRTC
+source:         APNIC
+
+person:         liu min
+nic-hdl:        LM273-AP
+e-mail:         crnet_mgr@chinatietong.com
+address:        22F Yuetan Mansion, Xicheng District, Beijing, P.R.China
+phone:          +86-10-51848796
+fax-no:         +86-10-51842426
+country:        CN
+changed:        ipas@cnnic.net.cn 20120320
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+person:         LV QIANG
+nic-hdl:        LQ112-AP
+e-mail:         crnet_mgr@chinatietong.com
+address:        22F Yuetan Mansion,Xicheng District,Beijing,P.R.China
+phone:          +86-10-51892111
+fax-no:         +86-10-51847845
+country:        CN
+changed:        ipas@cnnic.net.cn 20060911
+mnt-by:         MAINT-CNNIC-AP
+source:         APNIC
+
+% Information related to '61.232.0.0/14AS9394'
+
+route:          61.232.0.0/14
+descr:          CHINA RAILWAY TELECOMMUNICATIONS
+country:        CN
+origin:         AS9394
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20100528
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

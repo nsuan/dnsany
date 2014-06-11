@@ -1,0 +1,55 @@
+Host 109.77.199.198.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=198.199.77.109?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       198.199.64.0 - 198.199.127.255
+CIDR:           198.199.64.0/18
+OriginAS:       AS14061
+NetName:        DIGITALOCEAN-5
+NetHandle:      NET-198-199-64-0-1
+Parent:         NET-198-0-0-0-0
+NetType:        Direct Allocation
+Comment:        Simple Cloud Hosting
+RegDate:        2013-03-27
+Updated:        2013-03-27
+Ref:            http://whois.arin.net/rest/net/NET-198-199-64-0-1
+
+OrgName:        Digital Ocean, Inc.
+OrgId:          DO-13
+Address:        270 Lafayette St
+Address:        Suite 1105
+City:           New York
+StateProv:      NY
+PostalCode:     10012
+Country:        US
+RegDate:        2012-05-14
+Updated:        2013-12-12
+Ref:            http://whois.arin.net/rest/org/DO-13
+
+OrgTechHandle: URETS-ARIN
+OrgTechName:   Uretsky, Ben 
+OrgTechPhone:  +1-646-397-8051 
+OrgTechEmail:  abuse@digitalocean.com
+OrgTechRef:    http://whois.arin.net/rest/poc/URETS-ARIN
+
+OrgAbuseHandle: URETS-ARIN
+OrgAbuseName:   Uretsky, Ben 
+OrgAbusePhone:  +1-646-397-8051 
+OrgAbuseEmail:  abuse@digitalocean.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/URETS-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

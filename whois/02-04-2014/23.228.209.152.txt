@@ -1,0 +1,85 @@
+152.209.228.23.in-addr.arpa domain name pointer unassigned.psychz.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=23.228.209.152?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       23.228.192.0 - 23.228.255.255
+CIDR:           23.228.192.0/18
+OriginAS:       AS40676
+NetName:        PSYCHZ-NETWORKS
+NetHandle:      NET-23-228-192-0-1
+Parent:         NET-23-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2013-09-19
+Updated:        2013-09-19
+Ref:            http://whois.arin.net/rest/net/NET-23-228-192-0-1
+
+OrgName:        Psychz Networks
+OrgId:          PS-184
+Address:        20687-2 Amar Road #312
+City:           Walnut
+StateProv:      CA
+PostalCode:     91789
+Country:        US
+RegDate:        2013-04-17
+Updated:        2013-09-05
+Ref:            http://whois.arin.net/rest/org/PS-184
+
+ReferralServer: rwhois://rwhois.psychz.net:4321
+
+OrgTechHandle: NOC3077-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-626-549-2801 
+OrgTechEmail:  noc@psychz.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC3077-ARIN
+
+OrgAbuseHandle: NOC3077-ARIN
+OrgAbuseName:   NOC
+OrgAbusePhone:  +1-626-549-2801 
+OrgAbuseEmail:  noc@psychz.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC3077-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.psychz.net:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 portal.psychz.net (Ubersmith RWhois Server V-2.3.0)
+autharea=23.228.192.0/18
+xautharea=23.228.192.0/18
+network:Class-Name:network
+network:Auth-Area:23.228.192.0/18
+network:ID:NET-15813.23.228.209.0/24
+network:Network-Name:23.228.209.0/24
+network:IP-Network:23.228.209.0/24
+network:IP-Network-Block:23.228.209.0 - 23.228.209.255
+network:Org-Name:Profuse Solutions INC - VPS
+network:Street-Address:20687-2 Amar Rd. #312
+network:City:Walnut
+network:State:CA
+network:Postal-Code:91789
+network:Country-Code:US
+network:Tech-Contact:MAINT-15813.23.228.209.0/24
+network:Created:20130925002658000
+network:Updated:20130925002658000
+network:Updated-By:abuse@psychz.net
+contact:POC-Name:Network Administrator
+contact:POC-Email:abuse@psychz.net
+contact:POC-Phone:
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:abuse@psychz.net
+contact:Tech-Phone:
+%ok

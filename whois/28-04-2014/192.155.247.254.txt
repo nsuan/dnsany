@@ -1,0 +1,76 @@
+254.247.155.192.in-addr.arpa domain name pointer 192.155.247.254-static.reverse.softlayer.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=192.155.247.254?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       192.155.192.0 - 192.155.255.255
+CIDR:           192.155.192.0/18
+OriginAS:       AS36351
+NetName:        SOFTLAYER-4-13
+NetHandle:      NET-192-155-192-0-1
+Parent:         NET-192-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2013-01-16
+Updated:        2013-01-17
+Ref:            http://whois.arin.net/rest/net/NET-192-155-192-0-1
+
+OrgName:        SoftLayer Technologies Inc.
+OrgId:          SOFTL
+Address:        4849 Alpha Rd.
+City:           Dallas
+StateProv:      TX
+PostalCode:     75244
+Country:        US
+RegDate:        2005-10-26
+Updated:        2013-02-20
+Ref:            http://whois.arin.net/rest/org/SOFTL
+
+ReferralServer: rwhois://rwhois.softlayer.com:4321
+
+OrgAbuseHandle: ABUSE1025-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-214-442-0605 
+OrgAbuseEmail:  abuse@softlayer.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1025-ARIN
+
+OrgTechHandle: IPADM258-ARIN
+OrgTechName:   IP Admin
+OrgTechPhone:  +1-214-442-0600 
+OrgTechEmail:  ipadmin@softlayer.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM258-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.softlayer.com:4321.
+
+%rwhois V-1.5:003fff:00 rwhois.softlayer.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Auth-Area:192.155.240.0/20
+network:Class-Name:network
+network:Organization;I:IBM - SmartCloud Application Services - External
+network:Street-Address:IBM Building 136, Floor 10
+network:City:Montreal
+network:State:QC
+network:Postal-Code:00000
+network:Country-Code:CA
+network:Tech-Contact;I:sysadmins@softlayer.com
+network:Abuse-Contact;I:denisd@ca.ibm.com
+network:Admin-Contact;I:IPADM258-ARIN
+network:Created:2013-07-22 17:16:36
+network:Updated:2014-04-03 13:41:03
+network:Updated-By:ipadmin@softlayer.com
+
+%ok

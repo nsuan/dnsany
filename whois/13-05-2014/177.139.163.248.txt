@@ -1,0 +1,55 @@
+248.163.139.177.in-addr.arpa domain name pointer 177-139-163-248.dsl.telesp.net.br.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-05-13 01:04:51 (BRT -03:00)
+
+inetnum:     177.138/15
+aut-num:     AS27699
+abuse-c:     ENRED4
+owner:       TELEFÔNICA BRASIL S.A
+ownerid:     002.558.157/0001-62
+responsible: Diretoria de Planejamento e Tecnologia
+country:     BR
+owner-c:     ARITE
+tech-c:      ARITE
+inetrev:     177.138/15
+nserver:     dnsqipbr1.telesp.net.br 
+nsstat:      20140426 AA
+nslastaa:    20140426
+nserver:     dnsqipbr2.telesp.net.br 
+nsstat:      20140426 AA
+nslastaa:    20140426
+created:     20120323
+changed:     20120323
+
+nic-hdl-br:  ARITE
+person:      Administração Rede IP Telesp
+e-mail:      dominios-vivo.br@telefonica.com
+created:     20080407
+changed:     20140417
+
+nic-hdl-br:  ENRED4
+person:      Engenharia de Redes
+e-mail:      security@telesp.net.br
+created:     20110824
+changed:     20110824
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

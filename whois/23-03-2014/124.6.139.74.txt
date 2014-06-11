@@ -1,0 +1,47 @@
+74.139.6.124.in-addr.arpa domain name pointer mail.eei.com.ph.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.6.139.72 - 124.6.139.79'
+
+inetnum:        124.6.139.72 - 124.6.139.79
+netname:        GLOBE-EEI-PH
+country:        PH
+descr:          EEI GLOBE
+descr:          Makati
+descr:          Philippines
+admin-c:        AA400-AP
+tech-c:         JV60-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        jmv81144@globenet.com.ph 20080130
+mnt-by:         MAINT-MGR-AP
+source:         APNIC
+
+person:         Allan Abarquez
+nic-hdl:        AA400-AP
+e-mail:         aaa81020@globenet.com.ph
+address:        12/F Valero Telepark
+address:        Valero St.,
+address:        Makati City
+phone:          +63-2-797-8332
+fax-no:         +63-2-797-7177
+country:        PH
+changed:        jonjon@globenet.com.ph 20041206
+mnt-by:         MAINT-MGR-AP
+source:         APNIC
+
+person:         Juvert Vinluan
+nic-hdl:        JV60-AP
+e-mail:         jmv81144@globenet.com.ph
+address:        12 Flr. Valero Telepark.
+address:        111 Valero St. Makati City.
+phone:          +63-2-797-8335
+fax-no:         +63-2-797-7177
+country:        PH
+changed:        jonjon@globenet.com.ph 20050209
+mnt-by:         MAINT-MGR-AP
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

@@ -1,0 +1,47 @@
+131.249.85.219.in-addr.arpa domain name pointer 219-85-249-131-adsl-TPE.dynamic.so-net.net.tw.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '219.84.0.0 - 219.85.255.255'
+
+inetnum:        219.84.0.0 - 219.85.255.255
+netname:        SONET-NET
+country:        TW
+descr:          Sony Network Taiwan Limited
+descr:          2Fl., Building E, No. 19-13, San Chung Road
+descr:          Taipei Taiwan 115
+admin-c:        BC566-AP
+tech-c:         EL542-AP
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20031125
+changed:        hostmaster@twnic.net.tw 20080911
+mnt-by:         MAINT-TW-TWNIC
+source:         APNIC
+
+person:         Bobby Chen
+nic-hdl:        BC566-AP
+e-mail:         bobby.chen@sonet-tw.net.tw
+address:        2Fl., Building E, No. 19-13, San Chung Rd, Nanggang Chiu
+address:        Taipei, 115, R.O.C
+phone:          +886-2-2655-3551
+fax-no:         +886-2-2655-2051
+country:        TW
+changed:        hostmaster@twnic.net.tw 20070215
+mnt-by:         MAINT-TW-TWNIC
+source:         APNIC
+
+person:         Ernest Lin
+nic-hdl:        EL542-AP
+e-mail:         ernest.lin@sonet-tw.net.tw
+address:        2Fl., Building E, No. 19-13, San Chung Rd, Nanggang Chiu
+address:        Taipei, 115, R.O.C
+phone:          +886-2-2655-3551
+fax-no:         +886-2-2655-2051
+country:        TW
+changed:        hostmaster@twnic.net.tw 20080911
+mnt-by:         MAINT-TW-TWNIC
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

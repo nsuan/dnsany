@@ -1,0 +1,27 @@
+83.170.242.133.in-addr.arpa domain name pointer www10069uj.sakura.ne.jp.
+[ JPNIC database provides information regarding IP address and ASN. Its use   ]
+[ is restricted to network administration purposes. For further information,  ]
+[ use 'whois -h whois.nic.ad.jp help'. To only display English output,        ]
+[ add '/e' at the end of command, e.g. 'whois -h whois.nic.ad.jp xxx/e'.      ]
+
+Network Information:            
+a. [Network Number]             133.242.170.0/24
+b. [Network Name]               SAKURA-NET
+g. [Organization]               SAKURA Internet Inc.
+                                
+m. [Administrative Contact]     KT749JP
+n. [Technical Contact]          JP00072233
+p. [Nameserver]                 ns1.dns.ne.jp
+p. [Nameserver]                 ns2.dns.ne.jp
+[Assigned Date]                 2012/10/30
+[Return Date]                   
+[Last Update]                   2012/10/30 20:47:03(JST)
+                                
+Less Specific Info.
+----------
+SAKURA Internet Inc.
+                     [Allocation]                               133.242.0.0/16
+
+More Specific Info.
+----------
+No match!!

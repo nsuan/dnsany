@@ -1,0 +1,72 @@
+Host 58.14.151.211.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '211.151.0.0 - 211.151.255.255'
+
+inetnum:        211.151.0.0 - 211.151.255.255
+netname:        CHINA-21VIANET
+descr:          21ViaNet(China),Inc.
+country:        CN
+admin-c:        ML1808-AP
+tech-c:         BW667-AP
+status:         ALLOCATED PORTABLE
+mnt-lower:      MAINT-CN-21VIANET
+mnt-routes:     MAINT-CNNIC-AP
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+changed:        ipas@cnnic.cn 20081030
+changed:        ipas@cnnic.net.cn 20110311
+changed:        ipas@cnnic.net 20121017
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110428
+source:         APNIC
+
+person:         Cao Wentao
+address:        No. 15 Tongji Road,Yizhuang Economic and Technological Development Zone,Beijing, PRC  100176
+country:        CN
+phone:          +86-10-84562121
+fax-no:         +86-10-84564234
+e-mail:         abusemail2012@gmail.com
+nic-hdl:        BW667-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20121017
+source:         APNIC
+
+person:         Yang Jun
+address:        No. 15 Tongji Road,Yizhuang Economic and Technological Development Zone,Beijing, PRC  100176
+country:        CN
+phone:          +86-10-84562121
+fax-no:         +86-10-84564234
+e-mail:         abuse@21viamail.com
+nic-hdl:        ML1808-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20121017
+source:         APNIC
+
+% Information related to '211.151.0.0/17AS17428'
+
+route:          211.151.0.0/17
+descr:          CHINA-ABITCOOL
+descr:          Abitcool(China) Inc.
+country:        CN
+origin:         AS17428
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.net.cn 20040213
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

@@ -1,0 +1,92 @@
+Host 14.188.79.217.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '217.79.188.0 - 217.79.188.63'
+
+% Abuse contact for '217.79.188.0 - 217.79.188.63' is 'abuse@myLoc.de'
+
+inetnum:        217.79.188.0 - 217.79.188.63
+netname:        FASTIT-DE-DUS1-ADITION
+descr:          ADITION technologies AG, Freiburg
+country:        DE
+admin-c:        MS8456-RIPE
+admin-c:        FIO-RIPE
+tech-c:         FONE-RIPE
+status:         ASSIGNED PA
+mnt-by:         FIBRE1-MNT
+source:         RIPE # Filtered
+
+role:           fast IT Operations Team
+address:        myLoc managed IT AG
+address:        Am Gatherhof 44
+address:        40472 Duesseldorf
+address:        DE
+abuse-mailbox:  abuse@fastIT.net
+phone:          +49 211 171659 0
+fax-no:         +49 211 171659 77
+remarks:        +---------------------------------------------------+
+remarks:        | Please see FONE-RIPE for operational contacts in  |
+remarks:        | case of network related issues!                   |
+remarks:        +---------------------------------------------------+
+admin-c:        DTH
+tech-c:         DTH
+nic-hdl:        FIO-RIPE
+mnt-by:         FIBRE1-MNT
+source:         RIPE # Filtered
+
+role:           fibre one NOC
+address:        fibre one networks GmbH
+address:        Network Operations & Services
+address:        Am Gatherhof 44
+address:        40472 Duesseldorf
+address:        Germany
+abuse-mailbox:  abuse@fibre1.net
+phone:          +49 211 171659 40
+fax-no:         +49 211 171659 49
+remarks:        +---------------------------------------------------+
+remarks:        | 24/7 NOC email: noc _at_ fibre1.net               |
+remarks:        | 24/7 NOC phone: +49 700 00 327848                 |
+remarks:        | Please direct absue issues ONLY                   |
+remarks:        | to abuse _at_ fibre1.net                          |
+remarks:        | Complaints to other adresses will be deemed       |
+remarks:        | as spam and not further processed!                |
+remarks:        +---------------------------------------------------+
+admin-c:        DTH
+tech-c:         MKA
+tech-c:         LPU
+tech-c:         CHR
+tech-c:         NMU
+tech-c:         DTH
+nic-hdl:        FONE-RIPE
+mnt-by:         FIBRE1-MNT
+source:         RIPE # Filtered
+
+person:         Marcus Schlueter
+address:        ADITION technologies AG
+address:        Basler Landstrasse 8
+address:        79111 Freiburg
+address:        Germany
+phone:          +49 761 88147 30
+fax-no:         +49 761 88147 39
+nic-hdl:        MS8456-RIPE
+mnt-by:         FASTIT-MNT
+source:         RIPE # Filtered
+
+% Information related to '217.79.176.0/20AS24961'
+
+route:          217.79.176.0/20
+descr:          DE-FIBRE1-217-79-176-0---slash-20
+origin:         AS24961
+mnt-by:         FIBRE1-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS3)
+
+

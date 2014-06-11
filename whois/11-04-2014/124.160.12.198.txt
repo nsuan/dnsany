@@ -1,0 +1,81 @@
+Host 198.12.160.124.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.160.0.0 - 124.160.255.255'
+
+inetnum:        124.160.0.0 - 124.160.255.255
+netname:        UNICOM-ZJ
+descr:          China Unicom Zhejiang province network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         JQ16-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-ZJ
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-irt:        IRT-CU-CN
+changed:        hm-changed@apnic.net 20060314
+changed:        hm-changed@apnic.net 20090507
+changed:        hm-changed@apnic.net 20090508
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+person:         Jianhuaq Qian
+nic-hdl:        JQ16-AP
+e-mail:         zj_ipmaster@126.com
+address:        No 1336,BinAn Road,Hangzhou, Zhejiang,China
+phone:          +86-571-28868063
+fax-no:         +86-571-28868069
+country:        CN
+changed:        zj_ipmaster@126.com 20130709
+mnt-by:         MAINT-CNCGROUP-ZJ
+source:         APNIC
+
+% Information related to '124.160.0.0/16AS4837'
+
+route:          124.160.0.0/16
+descr:          CNC Group CHINA169 Zhejiang Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20060314
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

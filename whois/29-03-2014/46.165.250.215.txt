@@ -1,0 +1,68 @@
+215.250.165.46.in-addr.arpa domain name pointer cleverideen.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.165.250.0 - 46.165.251.255'
+
+% Abuse contact for '46.165.250.0 - 46.165.251.255' is 'abuse@leaseweb.de'
+
+inetnum:        46.165.250.0 - 46.165.251.255
+netname:        NETDIRECT-NET
+descr:          Leaseweb Germany GmbH (previously netdirekt e. K.)
+remarks:        INFRA-AW
+country:        DE
+admin-c:        LSWG-RIPE
+tech-c:         LSWG-RIPE
+status:         ASSIGNED PA
+mnt-by:         NETDIRECT-MNT
+mnt-lower:      NETDIRECT-MNT
+mnt-routes:     NETDIRECT-MNT
+source:         RIPE # Filtered
+
+person:         RIPE Mann
+address:        Kleyerstrasse 79 / Tor 13
+address:        60326 Frankfurt am Main
+address:        Germany
+phone:          +49 69 90556880
+fax-no:         +49 69 87000140
+abuse-mailbox:  abuse@leaseweb.de
+nic-hdl:        LSWG-RIPE
+mnt-by:         OCOM-MNT
+source:         RIPE # Filtered
+
+% Information related to '46.165.192.0/18AS16265'
+
+route:          46.165.192.0/18
+descr:          ORG-nA8-RIPE
+origin:         AS16265
+org:            ORG-nA8-RIPE
+mnt-by:         NETDIRECT-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-nA8-RIPE
+org-name:       Leaseweb Germany GmbH
+org-type:       LIR
+address:        Leaseweb Germany GmbH
+address:        Kleyer Strasse 79 / Tor 13
+address:        60326
+address:        Frankfurt
+address:        GERMANY
+phone:          +496990556880
+fax-no:         +4969905568822
+mnt-ref:        NETDIRECT-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        LSWG-RIPE
+admin-c:        SPW1-RIPE
+abuse-c:        LWGA-RIPE
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS4)
+
+

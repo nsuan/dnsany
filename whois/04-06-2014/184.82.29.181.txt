@@ -1,0 +1,126 @@
+181.29.82.184.in-addr.arpa domain name pointer ark.bali.tc.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=184.82.29.181?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       184.82.0.0 - 184.82.255.255
+CIDR:           184.82.0.0/16
+OriginAS:       AS21788
+NetName:        HOSTNOC-8BLK
+NetHandle:      NET-184-82-0-0-1
+Parent:         NET-184-0-0-0-0
+NetType:        Direct Allocation
+Comment:        SMA4-ARIN
+RegDate:        2010-03-10
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-184-82-0-0-1
+
+
+OrgName:        Network Operations Center Inc.
+OrgId:          NOC
+Address:        PO Box 591
+City:           Scranton
+StateProv:      PA
+PostalCode:     18501-0591
+Country:        US
+RegDate:        2001-04-04
+Updated:        2011-09-24
+Comment:        Abuse Dept: abuse@hostnoc.net
+Ref:            http://whois.arin.net/rest/org/NOC
+
+ReferralServer: rwhois://rwhois.hostnoc.net:4321
+
+OrgAbuseHandle: SMA4-ARIN
+OrgAbuseName:   Arcus, S. Matthew
+OrgAbusePhone:  +1-570-343-2200 
+OrgAbuseEmail:  nic@hostnoc.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/SMA4-ARIN
+
+OrgTechHandle: SMA4-ARIN
+OrgTechName:   Arcus, S. Matthew
+OrgTechPhone:  +1-570-343-2200 
+OrgTechEmail:  nic@hostnoc.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SMA4-ARIN
+
+RNOCHandle: SMA4-ARIN
+RNOCName:   Arcus, S. Matthew
+RNOCPhone:  +1-570-343-2200 
+RNOCEmail:  nic@hostnoc.net
+RNOCRef:    http://whois.arin.net/rest/poc/SMA4-ARIN
+
+RAbuseHandle: SMA4-ARIN
+RAbuseName:   Arcus, S. Matthew
+RAbusePhone:  +1-570-343-2200 
+RAbuseEmail:  nic@hostnoc.net
+RAbuseRef:    http://whois.arin.net/rest/poc/SMA4-ARIN
+
+RTechHandle: SMA4-ARIN
+RTechName:   Arcus, S. Matthew
+RTechPhone:  +1-570-343-2200 
+RTechEmail:  nic@hostnoc.net
+RTechRef:    http://whois.arin.net/rest/poc/SMA4-ARIN
+
+# end
+
+
+# start
+
+NetRange:       184.82.29.0 - 184.82.29.255
+CIDR:           184.82.29.0/24
+OriginAS:       AS21788
+NetName:        PD-BN
+NetHandle:      NET-184-82-29-0-1
+Parent:         NET-184-82-0-0-1
+NetType:        Reassigned
+RegDate:        2010-03-19
+Updated:        2010-03-19
+Ref:            http://whois.arin.net/rest/net/NET-184-82-29-0-1
+
+OrgName:        Prime Directive, LLC
+OrgId:          PRIME-103
+Address:        120 NE Madeira Drive
+Address:        Suite 101
+City:           Albuquerque
+StateProv:      NM
+PostalCode:     87108
+Country:        US
+RegDate:        2009-12-23
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/PRIME-103
+
+OrgAbuseHandle: NETWO3580-ARIN
+OrgAbuseName:   Network Operations
+OrgAbusePhone:  +1-505-234-7515 
+OrgAbuseEmail:  paulyromano33@gmail.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NETWO3580-ARIN
+
+OrgTechHandle: NETWO3580-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-505-234-7515 
+OrgTechEmail:  paulyromano33@gmail.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO3580-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.hostnoc.net:4321.
+

@@ -1,0 +1,46 @@
+Host 90.131.102.190.in-addr.arpa. not found: 3(NXDOMAIN)
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-04-05 01:00:07 (BRT -03:00)
+
+inetnum:     190.102.131.80/28
+status:      reallocated
+owner:       ERICK DEL CASTILLO
+ownerid:     PE-ERCA1-LACNIC
+responsible: TAC Optical
+address:     Carlos Krumdieck 287- La Victoria,, , 
+address:      - LIMA - 
+country:     PE
+phone:       +51  7107500 []
+owner-c:     JOI
+tech-c:      JOI
+abuse-c:     JOI
+created:     20140130
+changed:     20140130
+inetnum-up:  190.102.128/19
+
+nic-hdl:     JOI
+person:      Veronica Almanza Avendaño
+e-mail:      ingenieria@OPTICAL.COM.PE
+address:     Jr. Ernesto Krumdieck, 287, La Victoria
+address:     13 - Lima - 
+country:     PE
+phone:       +51 1 7107500 []
+created:     20041009
+changed:     20121128
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

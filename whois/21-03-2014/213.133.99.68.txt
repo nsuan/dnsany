@@ -1,0 +1,68 @@
+68.99.133.213.in-addr.arpa domain name pointer gollum.regioisp.de.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.133.96.0 - 213.133.111.255'
+
+% Abuse contact for '213.133.96.0 - 213.133.111.255' is 'abuse@hetzner.de'
+
+inetnum:        213.133.96.0 - 213.133.111.255
+netname:        HETZNER-RZ-NBG-NET
+descr:          Hetzner Online AG
+descr:          Datacenter Nuernberg
+country:        DE
+admin-c:        HOAC1-RIPE
+tech-c:         HOAC1-RIPE
+status:         ASSIGNED PA
+source:         RIPE # Filtered
+mnt-by:         HOS-GUN
+mnt-lower:      HOS-GUN
+
+role:           Hetzner Online AG - Contact Role
+address:        Hetzner Online AG
+address:        Stuttgarter Strasse 1
+address:        D-91710 Gunzenhausen
+address:        Germany
+phone:          +49 9831 61 00 61
+fax-no:         +49 9831 61 00 62
+abuse-mailbox:  abuse@hetzner.de
+remarks:        *************************************************
+remarks:        * For spam/abuse/security issues please contact *
+remarks:        *   abuse@hetzner.de, not this address.         *
+remarks:        *   The contents of your abuse email will be    *
+remarks:        *   forwarded directly on to our client for     *
+remarks:        *   handling.                                   *
+remarks:        *************************************************
+remarks:
+remarks:        *************************************************
+remarks:        *    Any questions on Peering please send to    *
+remarks:        *              peering@hetzner.de               *
+remarks:        *************************************************
+org:            ORG-HOA1-RIPE
+admin-c:        MH375-RIPE
+tech-c:         GM834-RIPE
+tech-c:         SK2374-RIPE
+tech-c:         TF2013-RIPE
+tech-c:         MF1400-RIPE
+tech-c:         SK8441-RIPE
+nic-hdl:        HOAC1-RIPE
+mnt-by:         HOS-GUN
+source:         RIPE # Filtered
+
+% Information related to '213.133.96.0/19AS24940'
+
+route:          213.133.96.0/19
+descr:          HETZNER-RZ-NBG-BLK1
+origin:         AS24940
+mnt-by:         HOS-GUN
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS3)
+
+

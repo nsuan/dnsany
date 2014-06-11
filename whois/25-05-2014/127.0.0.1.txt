@@ -1,0 +1,60 @@
+1.0.0.127.in-addr.arpa domain name pointer localhost.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=127.0.0.1?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       127.0.0.0 - 127.255.255.255
+CIDR:           127.0.0.0/8
+OriginAS:       
+NetName:        SPECIAL-IPV4-LOOPBACK-IANA-RESERVED
+NetHandle:      NET-127-0-0-0-1
+Parent:         
+NetType:        IANA Special Use
+Comment:        Addresses starting with "127." are used when one program needs to talk to another program running on the same machine using the Internet 
+Comment:        Protocol.  127.0.0.1 is the most commonly used address and is called the "loopback" address.
+Comment:        
+Comment:        These addresses were assigned by the IETF, the organization that develops Internet protocols, in the Standard document, RFC 1122, which can  
+Comment:        be found here:
+Comment:        http://datatracker.ietf.org/doc/rfc1122
+RegDate:        
+Updated:        2013-08-30
+Ref:            http://whois.arin.net/rest/net/NET-127-0-0-0-1
+
+OrgName:        Internet Assigned Numbers Authority
+OrgId:          IANA
+Address:        12025 Waterfront Drive
+Address:        Suite 300
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90292
+Country:        US
+RegDate:        
+Updated:        2012-08-31
+Ref:            http://whois.arin.net/rest/org/IANA
+
+OrgAbuseHandle: IANA-IP-ARIN
+OrgAbuseName:   Internet Corporation for Assigned Names and Number
+OrgAbusePhone:  +1-310-301-5820 
+OrgAbuseEmail:  abuse@iana.org
+OrgAbuseRef:    http://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+OrgTechHandle: IANA-IP-ARIN
+OrgTechName:   Internet Corporation for Assigned Names and Number
+OrgTechPhone:  +1-310-301-5820 
+OrgTechEmail:  abuse@iana.org
+OrgTechRef:    http://whois.arin.net/rest/poc/IANA-IP-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

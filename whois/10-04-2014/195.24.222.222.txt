@@ -1,0 +1,70 @@
+Host 222.222.24.195.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.24.192.0 - 195.24.223.255'
+
+% No abuse contact registered for 195.24.192.0 - 195.24.223.255
+
+inetnum:        195.24.192.0 - 195.24.223.255
+org:            ORG-AFNC1-RIPE
+netname:        AFRINIC-NET-TRANSFERRED-20050223
+descr:          This network has been transferred to AFRINIC
+remarks:        These IP addresses are assigned in the AFRINIC region.
+remarks:        Authoritative registration information for this network
+remarks:        is available for query and modification in
+remarks:        the AFRINIC whois database: whois.afrinic.net or
+remarks:        web site: http://www.afrinic.net
+remarks:        The routing registry information (route(6) objects)
+remarks:        may be published in any Routing Registry, including
+remarks:        RIPE Whois Database
+country:        EU # country is really somewhere in African Region
+admin-c:        AFRI-RIPE
+tech-c:         AFRI-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-routes:     RIPE-NCC-RPSL-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-AFNC1-RIPE
+org-name:       African Internet Numbers Registry
+org-type:       RIR
+address:        see http://www.afrinic.net
+admin-c:        AFRI-RIPE
+tech-c:         AFRI-RIPE
+remarks:        For more information on AFRINIC assigned blocks, use
+remarks:        AFRINIC's whois database, whois.afrinic.net.
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+role:           The African Internet Numbers Registry
+org:            ORG-AFNC1-RIPE
+address:        AFRINIC, see http://www.afrinic.net
+admin-c:        AFRI-RIPE
+tech-c:         AFRI-RIPE
+nic-hdl:        AFRI-RIPE
+remarks:        For more information on AFRINIC assigned blocks, connect
+remarks:        to AFRINIC's whois database, whois.afrinic.net.
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+% Information related to '195.24.192.0/19AS15964'
+
+route:          195.24.192.0/19
+descr:          CAMEROON TELECOMMUNICATIONS
+descr:          CAMTEL Cidr block
+descr:          First IPv4 allocation
+origin:         AS15964
+mnt-by:         CAMNET
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS2)
+
+

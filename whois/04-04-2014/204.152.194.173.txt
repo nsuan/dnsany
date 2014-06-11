@@ -1,0 +1,95 @@
+173.194.152.204.in-addr.arpa domain name pointer 204.152.194.173.static.quadranet.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=204.152.194.173?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       204.152.192.0 - 204.152.223.255
+CIDR:           204.152.192.0/19
+OriginAS:       AS29761
+NetName:        QUADRANET
+NetHandle:      NET-204-152-192-0-1
+Parent:         NET-204-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-07-08
+Updated:        2013-12-31
+Ref:            http://whois.arin.net/rest/net/NET-204-152-192-0-1
+
+OrgName:        QuadraNet, Inc
+OrgId:          QUADR-20
+Address:        530 W 6th Street
+Address:        Suite 901
+City:           Los Angeles
+StateProv:      CA
+PostalCode:     90014
+Country:        US
+RegDate:        2010-01-14
+Updated:        2014-01-06
+Ref:            http://whois.arin.net/rest/org/QUADR-20
+
+ReferralServer: rwhois://rwhois.quadranet.com:4321
+
+OrgTechHandle: NOC293-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-213-614-9371 
+OrgTechEmail:  noc@quadranet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC293-ARIN
+
+OrgNOCHandle: NOC293-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-213-614-9371 
+OrgNOCEmail:  noc@quadranet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC293-ARIN
+
+OrgAbuseHandle: ABUSE2526-ARIN
+OrgAbuseName:   Abuse Team
+OrgAbusePhone:  +1-213-614-9371 
+OrgAbuseEmail:  abuse@quadranet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2526-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.quadranet.com:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 manage.quadranet.com (Ubersmith RWhois Server V-2.4.0)
+autharea=204.152.194.0/24
+xautharea=204.152.194.0/24
+network:Class-Name:network
+network:Auth-Area:204.152.194.0/24
+network:ID:NET-27370.204.152.194.168/29
+network:Network-Name:Public Network IP Range
+network:IP-Network:204.152.194.168/29
+network:IP-Network-Block:204.152.194.168 - 204.152.194.175
+network:Org-Name:Kerrigan Enterprises
+network:Street-Address:530 West 6th St
+network:City:Los Angeles
+network:State:CA
+network:Postal-Code:90014
+network:Country-Code:US
+network:Tech-Contact:MAINT-27370.204.152.194.168/29
+network:Created:20110404214541000
+network:Updated:20110404214541000
+network:Updated-By:support@quadranet.com
+contact:POC-Name:Network Administrator
+contact:POC-Email:support@quadranet.com
+contact:POC-Phone:1-888-5-QUADRA
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:support@quadranet.com
+contact:Tech-Phone:1-888-5-QUADRA
+contact:Abuse-Name:Abuse Dept
+contact:Abuse-Email:abuse@quadranet.com
+contact:Abuse-Phone:EMAIL ONLY
+%ok

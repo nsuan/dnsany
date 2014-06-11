@@ -1,0 +1,52 @@
+7.204.84.41.in-addr.arpa domain name pointer mxb.sovaya.com.
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '41.84.204.0 - 41.84.207.255'
+
+inetnum:        41.84.204.0 - 41.84.207.255
+netname:        Skyband-Africa
+descr:          Skyband Africa
+country:        KE
+admin-c:        MO16-AFRINIC
+tech-c:         MO16-AFRINIC
+org:            ORG-BaCS1-AFRINIC
+status:         SUB-ALLOCATED PA
+mnt-by:         BCS-MNT
+source:         AFRINIC # Filtered
+parent:         41.84.192.0 - 41.84.223.255
+
+organisation:   ORG-BaCS1-AFRINIC
+org-name:       Bandwidth and Cloud Services Group Ltd
+org-type:       LIR
+country:        UG
+address:        c/o Bandwidth and Cloud Services Group Ltd
+address:        ESBC Uganda
+address:        5th Floor, Rwenzori Towers
+address:        Nakasero Road
+address:        P.O.Box - 37468
+address:        kampala
+e-mail:         martin@bcs-ea.com
+e-mail:         shake@bcs-ea.com
+e-mail:         yonas@bcs-ea.com
+phone:          +254736373444
+fax-no:         +256414257744
+admin-c:        MO16-AFRINIC
+tech-c:         MO16-AFRINIC
+mnt-ref:        AFRINIC-HM-MNT
+mnt-ref:        BCS-MNT
+mnt-by:         AFRINIC-HM-MNT
+source:         AFRINIC # Filtered
+
+person:         Martin Okutoyi
+nic-hdl:        MO16-AFRINIC
+address:        P O Box 17670
+address:        Nairobi 00100
+address:        Kenya
+e-mail:         okutoyi@gmail.com
+phone:          +254736373444
+phone:          +256755066995
+source:         AFRINIC # Filtered
+
+

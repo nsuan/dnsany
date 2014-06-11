@@ -1,0 +1,57 @@
+Host 20.68.34.117.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.32.0.0 - 117.39.255.255'
+
+inetnum:        117.32.0.0 - 117.39.255.255
+netname:        CHINANET-SN
+descr:          CHINANET Shanxi(SN) province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+admin-c:        CH93-AP
+tech-c:         XC9-AP
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-CHINANET-SHAANXI
+mnt-lower:      MAINT-CHINANET-SHAANXI
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20070615
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+person:         Xianghong Cao
+address:        Shanxi provice data communication Bureau
+address:        185# zhuque Road
+address:        Xi'an city, Shanxi provice 710061
+country:        CN
+phone:          +8629-523-3633
+fax-no:         +8629-522-8093
+e-mail:         sxic@public.xa.sn.cn
+nic-hdl:        XC9-AP
+mnt-by:         MAINT-NULL
+changed:        caoxianghong@263.net 19990409
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

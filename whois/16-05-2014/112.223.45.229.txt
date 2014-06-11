@@ -1,0 +1,72 @@
+Host 229.45.223.112.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '112.216.0.0 - 112.223.255.255'
+
+inetnum:        112.216.0.0 - 112.223.255.255
+netname:        BORANET
+descr:          LG DACOM Corporation
+descr:          827,Namdaemunno 5(o)-ga Jung-gu Seoul
+descr:          **************************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          http://whois.nic.or.kr/english/index.htm
+descr:          ***************************************
+country:        KR
+admin-c:        IA125-AP
+tech-c:         IA125-AP
+status:         Allocated Portable
+remarks:        www.dacom.net
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hostmaster@nic.or.kr 20121210
+mnt-irt:        IRT-KRNIC-KR
+source:         APNIC
+
+irt:            IRT-KRNIC-KR
+address:        6F, West Hall, 118 Building(IT Venture Tower),
+address:        78, Garak-dong, Songpa-gu
+address:        Seoul, Korea, 137-857
+e-mail:         hostmaster@kisa.or.kr
+abuse-mailbox:  hostmaster@kisa.or.kr
+admin-c:        HM127-AP
+tech-c:         HM127-AP
+auth:           # Filtered
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmaster@kisa.or.kr 20101109
+source:         APNIC
+
+person:         IP Admin
+address:        827, Namdaemunno 5(o)-ga , Jung-gu, Seoul
+country:        KR
+phone:          +82-2-6928-3087
+fax-no:         +82-2-2089-0706
+e-mail:         ipadm@lguplus.co.kr
+nic-hdl:        IA125-AP
+mnt-by:         MNT-KRNIC-AP
+changed:        hostmast@nic.or.kr 20121210
+source:         APNIC
+
+% Information related to '112.216.0.0 - 112.223.255.255'
+
+inetnum:        112.216.0.0 - 112.223.255.255
+netname:        BORANET-KR
+descr:          LG DACOM Corporation
+country:        KR
+admin-c:        IA5-KR
+tech-c:         IA5-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

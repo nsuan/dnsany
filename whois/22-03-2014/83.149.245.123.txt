@@ -1,0 +1,61 @@
+Host 123.245.149.83.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '83.149.245.0 - 83.149.246.3'
+
+% Abuse contact for '83.149.245.0 - 83.149.246.3' is 'lir@ras.ru'
+
+inetnum:        83.149.245.0 - 83.149.246.3
+netname:        ipi-ac-ru
+descr:          Departmens of IPIRAN
+country:        RU
+admin-c:        VAK36-RIPE
+tech-c:         TVB15-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS3058-MNT
+source:         RIPE # Filtered
+
+person:         Timofei V Bondarenko
+address:        Institute for Informatics Problem (IPIRAN)
+address:        Vavilova 44 build 2
+address:        119333 Moscow
+address:        Russia
+remarks:        phone:        +7 095 3324927
+phone:          +7 495 3324927
+remarks:        fax-no:       +7 095 3324847
+fax-no:         +7 495 3324847
+nic-hdl:        TVB15-RIPE
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+person:         Vadim A Kondrashev
+address:        Institute for Informatics Problem (IPIRAN)
+address:        Vavilova 44 build 2
+address:        119333 Moscow
+address:        Russia
+remarks:        phone:        +7 095 332 49 27
+phone:          +7 495 332 49 27
+remarks:        fax-no:       +7 095 332 48 47
+fax-no:         +7 495 332 48 47
+nic-hdl:        VAK36-RIPE
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+% Information related to '83.149.192.0/18AS3058'
+
+route:          83.149.192.0/18
+descr:          CNTK RAN
+origin:         AS3058
+mnt-by:         AS3058-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.71 (WHOIS2)
+
+

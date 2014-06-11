@@ -1,0 +1,164 @@
+98.228.206.112.in-addr.arpa domain name pointer 112.206.228.98.pldt.net.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '112.200.0.0 - 112.207.255.255'
+
+inetnum:        112.200.0.0 - 112.207.255.255
+netname:        IPG
+descr:          IPG
+descr:          Philippine Long Distance Telephone Company
+country:        PH
+admin-c:        RR5-AP
+admin-c:        RD18-AP
+tech-c:         NT80-AP
+tech-c:         SM140-AP
+tech-c:         JG149-AP
+tech-c:         VO2-AP
+tech-c:         PA96-AP
+tech-c:         WS348-AP
+tech-c:         LS497-AP
+tech-c:         AM495-AP
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-irt:        IRT-PLDT-PH
+changed:        hm-changed@apnic.net 20090216
+mnt-by:         APNIC-HM
+mnt-lower:      PHIX-NOC-AP
+source:         APNIC
+
+irt:            IRT-PLDT-PH
+address:        Philippine Long Distance Telephone Company
+address:        6/F Innolab Building
+address:        Boni Avenue, Mandaluyong City
+address:        Philippines
+e-mail:         abuse@pldt.net
+abuse-mailbox:  abuse@pldt.net
+admin-c:        AR238-AP
+tech-c:         NA185-AP
+auth:           # Filtered
+mnt-by:         PHIX-NOC-AP
+changed:        abuse@pldt.net 20101117
+changed:        hm-changed@apnic.net 20101126
+source:         APNIC
+
+person:         ALAIN MANIAUL
+nic-hdl:        AM495-AP
+e-mail:         atmaniaul@pldt.com.ph
+address:        4th Floor North Paranaque Exchange, Paranaque City
+phone:          +632-822-3147
+country:        PH
+changed:        wasison@pldt.com.ph 20060307
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Jaime Gonzales
+nic-hdl:        JG149-AP
+e-mail:         jcgonzales@pldt.com.ph
+address:        PLDT Co., 3/F MGO Bldg., Legaspi cor Dela Rosa Sts., Makati City
+phone:          +63-2-864-5752
+fax-no:         +63-2-813-5794
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20040719
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Leonardo Soriano
+nic-hdl:        LS497-AP
+e-mail:         lbsoriano@pldt.com.ph
+address:        4th Floor North Paranaque Exchange, Paranaque City
+phone:          +632-822-6328
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20060214
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Noel Tabernilla
+nic-hdl:        NT80-AP
+e-mail:         nctabernilla@pldt.com.ph
+address:        PLDT Co., 3/F MGO Bldg., Legaspi cor Dela Rosa Sts., Makati City
+phone:          +632-864-5752
+fax-no:         +63-2-813-5794
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20040719
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Peter Albino
+nic-hdl:        PA96-AP
+e-mail:         pwalbino@pldt.com.ph
+address:        PLDT Co., 3/F MGO Bldg., Legaspi cor Dela Rosa Sts., Makati City
+phone:          +632-864-5751
+fax-no:         +63-2-813-5794
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20060205
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Rowell Dela Vega
+nic-hdl:        RD18-AP
+e-mail:         rrdelavega@pldt.com.ph
+address:        PLDT Co., 3/F MGO Bldg., Legaspi cor. Dela Rosa Sts., Makati City
+phone:          +632-864-5752
+fax-no:         +632-813-5794
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20040719
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Roy I Resurreccion
+address:        Philippine Long Distance Telephone Company
+address:        14/F Ramon Cojuangco Building
+address:        Makati Avenue, Makati City 1200, Philippines
+country:        PH
+phone:          +63-2-810-4070
+fax-no:         +63-2-894-5332
+e-mail:         riresurreccion@pldt.com.ph
+nic-hdl:        RR5-AP
+mnt-by:         MAINT-PH-PLDT-ENGG
+changed:        riresurreccion@pldt.com.ph 20011016
+source:         APNIC
+
+person:         Sonny Miguel
+nic-hdl:        SM140-AP
+e-mail:         ssmiguel@pldt.com.ph
+address:        PLDT Co.
+address:        3/F MGO Bldg., Legaspi cor Dela Rosa Sts., Makati City 1229
+phone:          +632-864-5752
+fax-no:         +63-2-813-5794
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20040927
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Victor Ortiz
+nic-hdl:        VO2-AP
+e-mail:         vrortiz@pldt.com.ph
+address:        PLDT Co.
+address:        3/F MGO Bldg., Legaspi cor Dela Rosa Sts., Makati City 1229
+phone:          +632-864-5752
+fax-no:         +63-2-813-5794
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20050321
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+person:         Willie Sison
+nic-hdl:        WS348-AP
+e-mail:         wasison@pldt.com.ph
+address:        4th Floor North Paranaque Exchange, Paranaque City
+phone:          +632-822-6528
+fax-no:         +632-822-6528
+country:        PH
+changed:        jcgonzales@pldt.com.ph 20060205
+mnt-by:         PHIX-NOC-AP
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

@@ -1,0 +1,131 @@
+Host 6.216.239.117.in-addr.arpa not found: 1(FORMERR)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.239.216.0 - 117.239.216.31'
+
+inetnum:        117.239.216.0 - 117.239.216.31
+netname:        JDA-Jodhpur
+descr:          Secratory JDA ,Jodhpur
+descr:          JDA Jodhpur
+descr:          opp Railway Hospital Jodhpur
+descr:          Rajasthan
+admin-c:        SJ1985-AP
+tech-c:         MM1195-AP
+country:        IN
+admin-c:        NIJ12-AP
+admin-c:        NC83-AP
+tech-c:         CDN1-AP
+mnt-by:         MAINT-IN-DOT
+mnt-irt:        IRT-BSNL-IN
+status:         ASSIGNED NON-PORTABLE
+changed:        dnw_jtotech@bsnl.in 20121017
+source:         APNIC
+
+irt:            IRT-BSNL-IN
+address:        Internet Cell
+address:        Bharat Sanchar Nigam Limited
+address:        8th Floor,148-B Statesman House
+address:        Barakhamba Road, New Delhi - 110 001
+e-mail:         abuse@bsnl.in
+abuse-mailbox:  abuse@bsnl.in
+admin-c:        NC83-AP
+tech-c:         CGMD1-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-DOT
+changed:        abuse@bsnl.in 20101111
+changed:        hm-changed@apnic.net 20101112
+source:         APNIC
+
+role:           CGM Data Networks
+address:        CTS Compound
+address:        Netaji Nagar
+address:        New Delhi- 110 023
+country:        IN
+phone:          +91-11-24106782
+phone:          +91-11-24102119
+fax-no:         +91-11-26116783
+fax-no:         +91-11-26887888
+e-mail:         dnwplg@bsnl.in
+e-mail:         hostmaster@bsnl.in
+admin-c:        CGMD1-AP
+tech-c:         DT197-AP
+tech-c:         BH155-AP
+nic-hdl:        CDN1-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20030120
+changed:        hm-changed@apnic.net 20071227
+source:         APNIC
+
+role:           NS Cell
+address:        Internet Cell
+address:        Bharat Sanchar Nigam Limited
+address:        8th Floor,148-B Statesman House
+address:        Barakhamba Road, New Delhi - 110 001
+country:        IN
+phone:          +91-11-23734057
+phone:          +91-11-23710183
+fax-no:         +91-11-23734052
+e-mail:         hostmaster@bsnl.in
+e-mail:         abuse@bsnl.in
+admin-c:        CGMD1-AP
+tech-c:         DT197-AP
+nic-hdl:        NC83-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20030120
+changed:        hm-changed@apnic.net 20071227
+source:         APNIC
+
+person:         Mathur Mathur
+nic-hdl:        MM1195-AP
+address:        JDA Jodhpur
+address:        opp Railway Hospital Jodhpur
+address:        Rajasthan
+phone:          +91-291-2650335
+fax-no:         +91-291-2650335
+country:        IN
+e-mail:         sdebbjdp@gmail.com
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnw_jtotech@bsnl.in 20121012
+source:         APNIC
+
+person:         Node Incharge JODHPUR
+nic-hdl:        NIJ12-AP
+address:        NIB JODHPUR
+address:        Sardarpura Telecom Building, Jodhpur
+phone:          +91-0291-2641001
+fax-no:         +91-0291-2438444
+country:        IN
+e-mail:         nib_jodhpur@sancharnet.in
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnwplg@sancharnet.in 20030716
+source:         APNIC
+
+person:         Secratory JDA
+nic-hdl:        SJ1985-AP
+address:        JDA Jodhpur
+address:        opp Railway Hospital Jodhpur
+address:        Rajasthan
+phone:          +91-291-2650335
+fax-no:         +91-291-2650335
+country:        IN
+e-mail:         sdebbjdp@gmail.com
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnw_jtotech@bsnl.in 20121012
+source:         APNIC
+
+% Information related to '117.239.208.0/20AS9829'
+
+route:          117.239.208.0/20
+descr:          BSNL Internet
+country:        IN
+origin:         AS9829
+mnt-lower:      MAINT-IN-DOT
+mnt-routes:     MAINT-IN-DOT
+mnt-by:         MAINT-IN-AS9829
+changed:        dnw_jtotech@bsnl.in 20070914
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

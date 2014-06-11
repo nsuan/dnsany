@@ -1,0 +1,56 @@
+130.224.201.62.in-addr.arpa domain name pointer iqhosting.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.201.224.0 - 62.201.227.255'
+
+% Abuse contact for '62.201.224.0 - 62.201.227.255' is 'abuse@iqnet.com'
+
+inetnum:        62.201.224.0 - 62.201.227.255
+netname:        IQ-NETWORKS-SULY3
+descr:          IQ Networks Sulaymaniyah Range 3
+country:        IQ
+geoloc:         35.562 45.405
+language:       ku
+language:       ar
+language:       en
+admin-c:        FIRA5-ripe
+tech-c:         SAAB2-RIPE
+status:         ASSIGNED PA
+mnt-by:         IQNET-LIR-MNT
+mnt-lower:      IQNET-LIR-MNT
+mnt-routes:     IQNET-LIR-MNT
+source:         RIPE # Filtered
+
+person:         Firas Rasmy
+address:        Iraq - Sulaymaniyah
+phone:          +964-7713-502881
+nic-hdl:        FIRA5-ripe
+source:         RIPE # Filtered
+mnt-by:         IQNET-LIR-MNT
+
+person:         Sarmed Abidali
+address:        Handren Street 37
+address:        Sulaymania, Iraq
+phone:          +964 750 1146760
+nic-hdl:        SAAB2-RIPE
+mnt-by:         IQNET-LIR-MNT
+source:         RIPE # Filtered
+
+% Information related to '62.201.224.0/22AS44217'
+
+route:          62.201.224.0/22
+descr:          IQ-NETWORKS-SULY3
+origin:         AS44217
+mnt-by:         IQNET-LIR-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS2)
+
+

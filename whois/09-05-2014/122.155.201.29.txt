@@ -1,0 +1,63 @@
+Host 29.201.155.122.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.155.192.0 - 122.155.223.255'
+
+inetnum:        122.155.192.0 - 122.155.223.255
+netname:        CAT-IDCnonthaburi-Service
+descr:          CAT IDC Nonthaburi
+country:        TH
+admin-c:        SC1450-AP
+tech-c:         CS416-AP
+status:         ALLOCATED NON-PORTABLE
+remarks:        ***send spam abuse to support@idc.cattelecom.com***
+notify:         support@idc.cattelecom.com
+mnt-by:         MAINT-TH-THIX-CAT
+mnt-lower:      MAINT-TH-THIX-CAT
+mnt-routes:     MAINT-TH-THIX-CAT
+mnt-irt:        IRT-CAT-TH
+changed:        suchok@cat.net.th 20110112
+source:         APNIC
+
+irt:            IRT-CAT-TH
+address:        Data Comm. Dept.(Internet)
+address:        CAT Bangkok 10501
+address:        Thailand
+e-mail:         abuse@cat.net.th
+abuse-mailbox:  abuse@cat.net.th
+admin-c:        TK38-AP
+tech-c:         TK38-AP
+auth:           # Filtered
+mnt-by:         MAINT-TH-THIX-CAT
+changed:        abuse@cat.net.th 20101117
+source:         APNIC
+
+person:         CAT-IDC Spamming tracking team
+nic-hdl:        CS416-AP
+e-mail:         abuse@idc.cattelecom.com
+address:        Internet data center department CAT Tower floor 13    72 charenkrung Rd. Bangrak  Bangkok
+phone:          +66-210-41240
+fax-no:         +66-210-41244
+country:        TH
+changed:        suchok@bulbul.cat.net.th 20091211
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+person:         support CAT IDC
+nic-hdl:        SC1450-AP
+e-mail:         support@idc.cattelecom.com
+address:        CAT-IDC Data Comm. Dept.(IDC)
+address:        CAT Telecom Public Company Ltd,
+address:        72 Charoenkrung Road Bangrak Bangkok THAILAND 10501
+address:
+phone:          +66-2-6141240-3
+fax-no:         +66-2-6142270
+country:        TH
+changed:        suchok@bulbul.cat.net.th 20070719
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

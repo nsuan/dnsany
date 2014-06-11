@@ -1,0 +1,47 @@
+Host 46.228.19.61.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.19.228.0 - 61.19.229.255'
+
+inetnum:        61.19.228.0 - 61.19.229.255
+netname:        CAT-ISP-Core-Network
+country:        TH
+descr:          CAT TELECOM Data Comm. Dept, Intrenet Office
+descr:          ***send spam abuse to admin-thix@cat.net.th***
+admin-c:        TC476-AP
+tech-c:         IC174-AP
+status:         ALLOCATED NON-PORTABLE
+changed:        suchok@cat.net.th 20041011
+mnt-by:         MAINT-TH-THIX-CAT
+source:         APNIC
+
+person:         IP-network CAT Telecom
+nic-hdl:        IC174-AP
+e-mail:         ip-noc@cat.net.th
+address:        Data Comm. Dept.(Internet)
+address:        address:      CAT Telecom Public Company Ltd,
+address:        address:      72 Charoenkrung Road Bangrak Bangkok THAILAND 10501
+phone:          +66-2-6142374
+fax-no:         +66-2-6142270
+country:        TH
+changed:        suchok@cat.net.th 20051202
+mnt-by:         MAINT-TH-THIX-CAT
+source:         APNIC
+
+person:         THIX network staff CAT Telecom
+nic-hdl:        TC476-AP
+e-mail:         admin-thix@cat.net.th
+address:        Data Comm. Dept.(Internet)
+address:        address:      CAT Telecom Public Company Ltd,
+address:        address:      72 Charoenkrung Road Bangrak Bangkok THAILAND 10501
+phone:          +66-2-6142374
+fax-no:         +66-2-6142270
+country:        TH
+changed:        suchok@cat.net.th 20051202
+mnt-by:         MAINT-TH-THIX-CAT
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

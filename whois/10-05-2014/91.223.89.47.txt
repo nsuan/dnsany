@@ -1,0 +1,56 @@
+Host 47.89.223.91.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.223.89.0 - 91.223.89.255'
+
+% No abuse contact registered for 91.223.89.0 - 91.223.89.255
+
+inetnum:        91.223.89.0 - 91.223.89.255
+netname:        ENERGOMONTAZH-NET
+descr:          ENERGOMONTAZH ltd.
+country:        RU
+org:            ORG-El113-RIPE
+admin-c:        AV5863-RIPE
+tech-c:         AV5863-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-by:         MNT-ENERGOMONTAZH
+mnt-routes:     MNT-ENERGOMONTAZH
+mnt-routes:     Cosmonova-MNT
+mnt-domains:    MNT-ENERGOMONTAZH
+source:         RIPE # Filtered
+
+organisation:   ORG-El113-RIPE
+org-name:       ENERGOMONTAZH ltd.
+org-type:       OTHER
+address:        Aleutskaya str. 29, off. 22, Vladivostok, Russian Federation
+mnt-ref:        MNT-ENERGOMONTAZH
+mnt-by:         MNT-ENERGOMONTAZH
+source:         RIPE # Filtered
+
+person:         Aleksandr Volosovyk
+address:        Vladivostok, Russian Federation
+phone:          +74999186174
+nic-hdl:        AV5863-RIPE
+mnt-by:         MNT-ENERGOMONTAZH
+source:         RIPE # Filtered
+
+% Information related to '91.223.89.0/24AS34867'
+
+route:          91.223.89.0/24
+descr:          Cosmonova DC - ENERGOMONTAZH
+origin:         AS34867
+mnt-by:         Cosmonova-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS4)
+
+

@@ -1,0 +1,46 @@
+220.3.78.112.in-addr.arpa domain name pointer vps3d220-ststic.vdrs.net.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '112.78.0.0 - 112.78.15.255'
+
+inetnum:        112.78.0.0 - 112.78.15.255
+netname:        ODS-VNNIC-VN
+descr:          Cong ty Co phan Dich vu du lieu Truc tuyen
+descr:          Online data services JSC
+descr:          123 Truong Dinh, dist 3, HCMC
+country:        VN
+admin-c:        HTV3-AP
+tech-c:         HNT6-AP
+status:         ALLOCATED PORTABLE
+remarks:        send spam and abuse report to vanht@ods.vn
+mnt-by:         MAINT-VN-VNNIC
+mnt-lower:      MAINT-VN-VNNIC
+changed:        hm-changed@apnic.net 20100205
+source:         APNIC
+
+person:         Hoang Ngoc Tuyen
+nic-hdl:        HNT6-AP
+e-mail:         tuyenhn@ods.vn
+address:        123 Truong Dinh, District3, HCMC
+phone:          +84-8-62888999
+fax-no:         +84-8-39320299
+country:        vn
+changed:        hm-changed@vnnic.net.vn 20100203
+mnt-by:         MAINT-VN-VNNIC
+source:         APNIC
+
+person:         Huynh Trong Van
+nic-hdl:        HTV3-AP
+e-mail:         vanht@ods.vn
+address:        123 Truong Dinh, District3, HCMC
+phone:          +84-8-62888999
+fax-no:         +84-8-39320299
+country:        vn
+changed:        hm-changed@vnnic.net.vn 20100203
+mnt-by:         MAINT-VN-VNNIC
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

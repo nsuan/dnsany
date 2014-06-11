@@ -1,0 +1,106 @@
+71.192.139.216.in-addr.arpa domain name pointer 216-139-192-71.chcalliance.org.147.38.208.in-addr.arpa.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=216.139.192.71?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       216.139.192.0 - 216.139.207.255
+CIDR:           216.139.192.0/20
+OriginAS:       AS16724
+NetName:        ESN-NET1
+NetHandle:      NET-216-139-192-0-1
+Parent:         NET-216-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2000-06-28
+Updated:        2014-04-08
+Ref:            http://whois.arin.net/rest/net/NET-216-139-192-0-1
+
+OrgName:        WideOpenWest Finance LLC
+OrgId:          WFL-17
+Address:        1674 Frontenac Rd
+City:           Naperville
+StateProv:      IL
+PostalCode:     60563
+Country:        US
+RegDate:        2014-03-05
+Updated:        2014-05-23
+Ref:            http://whois.arin.net/rest/org/WFL-17
+
+ReferralServer: rwhois://rwhois.esnet.com:4321
+
+OrgTechHandle: PEREZ45-ARIN
+OrgTechName:   Perez, Joseph 
+OrgTechPhone:  +1-813-294-5988 
+OrgTechEmail:  joseph.perez@wideopenwest.com
+OrgTechRef:    http://whois.arin.net/rest/poc/PEREZ45-ARIN
+
+OrgAbuseHandle: ABUSE3482-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +1-813-301-2620 
+OrgAbuseEmail:  abuse@esnet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3482-ARIN
+
+OrgTechHandle: MORTO21-ARIN
+OrgTechName:   Morton, Jeffrey 
+OrgTechPhone:  +1-614-656-1086 
+OrgTechEmail:  jeffrey.morton@wideopenwest.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MORTO21-ARIN
+
+OrgTechHandle: NETAD67-ARIN
+OrgTechName:   Net Admin
+OrgTechPhone:  +1-785-856-6329 
+OrgTechEmail:  admin@sunflower.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETAD67-ARIN
+
+OrgNOCHandle: SUPPO82-ARIN
+OrgNOCName:   Support
+OrgNOCPhone:  +1-813-301-2620 
+OrgNOCEmail:  support@esnet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/SUPPO82-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.esnet.com:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 support.esnet.com (Ubersmith RWhois Server V-3.1.4)
+autharea=216.139.192.0/20
+xautharea=216.139.192.0/20
+network:Class-Name:network
+network:Auth-Area:216.139.192.0/20
+network:ID:NET-2730.216.139.192.64/28
+network:Network-Name:Direct
+network:IP-Network:216.139.192.64/28
+network:IP-Network-Block:216.139.192.64 - 216.139.192.79
+network:Org-Name:K&Js Managed Solutions (Formerly Pinellas Hosting)
+network:Street-Address:3925 Tampa Road
+network:City:Oldsmar
+network:State:FL
+network:Postal-Code:34677
+network:Country-Code:US
+network:Tech-Contact:MAINT-2730.216.139.192.64/28
+network:Created:20130815165837000
+network:Updated:20130815165837000
+network:Updated-By:noc@esnet.com
+contact:POC-Name:Network Administrator
+contact:POC-Email:noc@esnet.com
+contact:POC-Phone:813-301-2620
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:noc@esnet.com
+contact:Tech-Phone:813-301-2620
+contact:Abuse-Name:Abuse Dept.
+contact:Abuse-Email:abuse@esnet.com
+contact:Abuse-Phone:813-301-2620
+%ok

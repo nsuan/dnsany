@@ -1,0 +1,66 @@
+Host 84.135.232.124.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.232.0.0 - 124.233.255.255'
+
+inetnum:        124.232.0.0 - 124.233.255.255
+netname:        CHINANET-HN
+descr:          CHINANET Hunan  province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CH636-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-HN
+mnt-routes:     MAINT-CHINANET-HN
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20060503
+source:         APNIC
+
+role:           CHINANET HUNAN
+address:        No.1 TuanJie road,ChangSha,Hunan 410005
+country:        CN
+phone:          +86 731 4792092
+fax-no:         +86 731 4792007
+e-mail:         abuse.szx@2118.com.cn
+remarks:        send spam reports to abuse.szx@2118.com.cn
+remarks:        and abuse reports to abuse.szx@2118.com.cn
+remarks:        Please include detailed information and
+remarks:        times in UTC
+admin-c:        CH632-AP
+tech-c:         CS499-AP
+nic-hdl:        CH636-AP
+mnt-by:         MAINT-CHINANET-HN
+changed:        ipaddress@hntelecom.net.cn 20050816
+changed:        hm-changed@apnic.net 20111114
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% Information related to '124.232.0.0/15AS4134'
+
+route:          124.232.0.0/15
+descr:          From Hunan Network of ChinaTelecom
+origin:         AS4134
+mnt-by:         MAINT-CHINANET
+changed:        dingsy@cndata.com 20060707
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

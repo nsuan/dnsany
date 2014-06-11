@@ -1,0 +1,47 @@
+Host 22.116.131.221.in-addr.arpa not found: 1(FORMERR)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '221.131.64.0 - 221.131.191.255'
+
+inetnum:        221.131.64.0 - 221.131.191.255
+netname:        CMNET-jiangsu
+descr:          China Mobile Communications Corporation - jiangsu
+country:        CN
+admin-c:        TC105-AP
+tech-c:         TC105-AP
+mnt-by:         MAINT-CN-CMCC
+mnt-lower:      MAINT-CN-CMCC-jiangsu
+remarks:        ------------------------------
+remarks:        Please send abuse e-mail to
+remarks:        chentao@js.chinamobile.com
+remarks:        Please send probe e-mail to
+remarks:        chentao@js.chinamobile.com
+remarks:        -------------------------------
+changed:        weichenguang@chinamobile.com 20050811
+status:         ALLOCATED NON-PORTABLE
+source:         APNIC
+
+person:         tao chen
+nic-hdl:        TC105-AP
+e-mail:         socadmin@js.chinamobile.com
+address:        81st. HuJu Road, Nanjing, P.R.China
+phone:          +86-13800250222
+fax-no:         +86-025-86668202
+country:        cn
+changed:        chentao@js.chinamobile.com 20071126
+mnt-by:         MAINT-CN-CMCC-JIANGSU
+source:         APNIC
+
+% Information related to '221.130.0.0/15AS9808'
+
+route:          221.130.0.0/15
+descr:          China Mobile communications corporation
+origin:         AS9808
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20120215
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

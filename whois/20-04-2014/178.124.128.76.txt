@@ -1,0 +1,56 @@
+76.128.124.178.in-addr.arpa domain name pointer ip-178.124.128.76.support.by.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.124.128.0 - 178.124.135.255'
+
+% Abuse contact for '178.124.128.0 - 178.124.135.255' is 'lir@belpak.by'
+
+inetnum:        178.124.128.0 - 178.124.135.255
+netname:        BELTELECOM-DATACENTER
+descr:          Minsk, Belarus
+country:        BY
+admin-c:        DK2210-RIPE
+tech-c:         IS2093-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS6697-MNT
+remarks:        INFRA-AW
+source:         RIPE # Filtered
+
+person:         Dmitry Komarov
+address:        220088, Minsk
+address:        55, Zaharova str.,
+address:        RUE Beltelecom
+phone:          +375 17 2171799
+fax-no:         +375 17 2100259
+nic-hdl:        DK2210-RIPE
+mnt-by:         AS6697-MNT
+source:         RIPE # Filtered
+
+person:         Ivan Semernik
+address:        220088, Minsk
+address:        55, Zaharova str.,
+address:        RUE Beltelecom
+phone:          +375 17 2171799
+fax-no:         +375 17 2100259
+nic-hdl:        IS2093-RIPE
+mnt-by:         AS6697-MNT
+source:         RIPE # Filtered
+
+% Information related to '178.120.0.0/13AS6697'
+
+route:          178.120.0.0/13
+descr:          DELEGATED FROM BELPAK
+origin:         AS6697
+mnt-by:         AS6697-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS2)
+
+

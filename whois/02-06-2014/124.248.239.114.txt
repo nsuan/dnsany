@@ -1,0 +1,38 @@
+114.239.248.124.in-addr.arpa domain name pointer 124-248-239-114.sunnyvision.com.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '124.248.239.0 - 124.248.239.255'
+
+inetnum:        124.248.239.0 - 124.248.239.255
+netname:        SUNNYVISION
+descr:          SunnyVision Limited
+descr:          Internet Service Provider, Hong Kong
+descr:          Room 3302, 33/F.,
+descr:          Cable TV Tower,
+descr:          9 Hoi Shing Road, Tsuen Wan, N.T., HK
+country:        HK
+admin-c:        HN162-AP
+tech-c:         HN162-AP
+status:         ALLOCATED NON-PORTABLE
+mnt-by:         MAINT-HK-SUNNYVISION
+changed:        hostmaster@sunnyvision.com 20100506
+source:         APNIC
+
+person:         Hostmaster NOC
+nic-hdl:        HN162-AP
+e-mail:         hostmaster@sunnyvision.com
+address:        Room 501, 5/F,
+address:        Well-Tech Center,
+address:        9 Pat Tat Street, San Po Kong, KLN., Hong Kong
+address:        Hong Kong
+phone:          +852-28020308
+fax-no:         +852-28020098
+country:        HK
+changed:        hostmaster@sunnyvision.com 20130408
+mnt-by:         MAINT-HK-SUNNYVISION
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

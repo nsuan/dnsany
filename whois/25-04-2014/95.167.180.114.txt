@@ -1,0 +1,58 @@
+Host 114.180.167.95.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '95.167.179.0 - 95.167.180.255'
+
+% Abuse contact for '95.167.179.0 - 95.167.180.255' is 'ripe@rt.ru'
+
+inetnum:        95.167.179.0 - 95.167.180.255
+netname:        ROSTELECOMNET
+descr:          JSC Rostelecom P2P client connections for PF
+remarks:        INFRA-AW
+country:        RU
+admin-c:        RTNC-RIPE
+tech-c:         RTNC-RIPE
+status:         ASSIGNED PA
+mnt-by:         ROSTELECOM-MNT
+source:         RIPE # Filtered
+
+role:           JSC Rostelecom Technical Team
+address:        JSC Rostelecom
+address:        Russian Federation
+abuse-mailbox:  ripe@rt.ru
+admin-c:        DS4715-RIPE
+admin-c:        ANK2555-RIPE
+tech-c:         DS4715-RIPE
+tech-c:         EEA-RIPE
+tech-c:         EK1142-RIPE
+phone:          +7 499 9953922
+remarks:        trouble:      ---------------------------------------------------------
+remarks:        trouble:      Rostelecom NOC is available 24 x 7
+remarks:        trouble:      24x7 phone number: +7 499 9953922
+remarks:        trouble:      e-mail: cuss-ip@rt.ru
+remarks:        trouble:      ---------------------------------------------------------
+remarks:        -----------------------------------------------------------------------
+remarks:        peering requests: peering@rt.ru
+remarks:        -----------------------------------------------------------------------
+nic-hdl:        RTNC-RIPE
+mnt-by:         ROSTELECOM-MNT
+source:         RIPE # Filtered
+
+% Information related to '95.167.0.0/16AS12389'
+
+route:          95.167.0.0/16
+descr:          ROSTELECOM NETS
+origin:         AS12389
+mnt-by:         ROSTELECOM-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS2)
+
+

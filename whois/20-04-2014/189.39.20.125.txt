@@ -1,0 +1,49 @@
+125.20.39.189.in-addr.arpa domain name pointer 189-039-020-125.static.spo.ctbc.com.br.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-04-20 08:59:13 (BRT -03:00)
+
+inetnum:     189.39.20.112/28
+aut-num:     AS27664
+abuse-c:     ASC600
+owner:       network sys com e servicos em informatica ltda
+ownerid:     010.432.228/0001-04
+responsible: iris freitas de santana
+country:     BR
+owner-c:     IRFSA2
+tech-c:      IRFSA2
+created:     20110515
+changed:     20130307
+inetnum-up:  189.39.0/18
+
+nic-hdl-br:  ASC600
+person:      Abuse SP CTBC
+e-mail:      abusesp@ctbc.com.br
+created:     20060531
+changed:     20130326
+
+nic-hdl-br:  IRFSA2
+person:      iris freitas de santana
+e-mail:      iris@dnstelecom.com.br
+created:     20090313
+changed:     20120514
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

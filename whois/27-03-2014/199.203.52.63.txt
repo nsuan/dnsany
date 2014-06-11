@@ -1,0 +1,111 @@
+63.52.203.199.in-addr.arpa domain name pointer ODAP-199-203-52-63.bb.netvision.net.il.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=199.203.52.63?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       199.203.0.0 - 199.203.255.255
+CIDR:           199.203.0.0/16
+OriginAS:       
+NetName:        ELRON-C-BLK1
+NetHandle:      NET-199-203-0-0-1
+Parent:         NET-199-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        1994-03-22
+Updated:        1998-12-29
+Ref:            http://whois.arin.net/rest/net/NET-199-203-0-0-1
+
+OrgName:        Elron Technologies
+OrgId:          NTIL
+Address:        850 Third Avenue
+City:           New York
+StateProv:      NY
+PostalCode:     10022
+Country:        US
+RegDate:        1994-03-22
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/NTIL
+
+OrgTechHandle: CKN23-ARIN
+OrgTechName:   No, Contact Known
+OrgTechPhone:  +1-800-555-1234 
+OrgTechEmail:  nobody@example.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CKN23-ARIN
+
+OrgAbuseHandle: GW10-ORG-ARIN
+OrgAbuseName:   IP Registration
+OrgAbusePhone:  + 972 4 8550 345 
+OrgAbuseEmail:  abuse@013netvision.co.il
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GW10-ORG-ARIN
+
+OrgAbuseHandle: NN7-ORG-ARIN
+OrgAbuseName:   IP Registration
+OrgAbusePhone:  +972-73-7000073 
+OrgAbuseEmail:  abuse@013netvision.co.il
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NN7-ORG-ARIN
+
+# end
+
+
+# start
+
+NetRange:       199.203.52.0 - 199.203.52.255
+CIDR:           199.203.52.0/24
+OriginAS:       
+NetName:        NV-CASPIT
+NetHandle:      NET-199-203-52-0-1
+Parent:         NET-199-203-0-0-1
+NetType:        Reassigned
+RegDate:        1996-01-23
+Updated:        1999-08-24
+Ref:            http://whois.arin.net/rest/net/NET-199-203-52-0-1
+
+OrgName:        Automated Transaction System.
+OrgId:          ATS-48
+Address:        12 Khomah st.
+Address:        Rishon Le Zion,
+City:           
+StateProv:      
+PostalCode:     
+Country:        IL
+RegDate:        1996-01-23
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/ATS-48
+
+OrgAbuseHandle: GW10-ORG-ARIN
+OrgAbuseName:   IP Registration
+OrgAbusePhone:  + 972 4 8550 345 
+OrgAbuseEmail:  abuse@013netvision.co.il
+OrgAbuseRef:    http://whois.arin.net/rest/poc/GW10-ORG-ARIN
+
+OrgTechHandle: GW10-ORG-ARIN
+OrgTechName:   IP Registration
+OrgTechPhone:  + 972 4 8550 345 
+OrgTechEmail:  abuse@013netvision.co.il
+OrgTechRef:    http://whois.arin.net/rest/poc/GW10-ORG-ARIN
+
+RTechHandle: GW10-ORG-ARIN
+RTechName:   IP Registration
+RTechPhone:  + 972 4 8550 345 
+RTechEmail:  abuse@013netvision.co.il
+RTechRef:    http://whois.arin.net/rest/poc/GW10-ORG-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

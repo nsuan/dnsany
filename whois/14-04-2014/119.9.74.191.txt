@@ -1,0 +1,50 @@
+Host 191.74.9.119.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '119.9.0.0 - 119.9.255.255'
+
+inetnum:        119.9.0.0 - 119.9.255.255
+netname:        RACKSPACE
+descr:          Rackspace.com Hong Kong Limited
+country:        HK
+admin-c:        JO176-AP
+tech-c:         JO176-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-US-RSPC
+mnt-routes:     MAINT-US-RSPC
+mnt-irt:        IRT-RACKSPACE-HK
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net
+changed:        hm-changed@apnic.net 20121012
+changed:        hm-changed@apnic.net 20130122
+source:         APNIC
+
+irt:            IRT-RACKSPACE-HK
+address:        Rackspace
+address:        5000 Walzem Rd
+address:        San Antonio, TX 78218
+e-mail:         abuse@rackspace.com
+abuse-mailbox:  abuse@rackspace.com
+admin-c:        RN158-AP
+tech-c:         RN158-AP
+auth:           # Filtered
+mnt-by:         MAINT-US-RSPC
+changed:        abuse@rackspace.com 20101223
+source:         APNIC
+
+person:         Jennifer O'Connell
+nic-hdl:        JO176-AP
+e-mail:         joconnell@rackspace.com
+address:        Rackspace
+address:        9725 Datapoint
+address:        San Antonio, TX 78225
+phone:          +01-210-312-4338
+country:        US
+changed:        joconnell@rackspace.com 20080220
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

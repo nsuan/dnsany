@@ -1,0 +1,110 @@
+Host 93.4.190.211.in-addr.arpa. not found: 3(NXDOMAIN)
+query : 211.190.4.93
+
+
+# KOREAN(UTF8)
+
+조회하신 IPv4주소는 한국인터넷진흥원으로부터 아래의 관리대행자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 211.190.0.0 - 211.190.47.255 (/19+/20)
+서비스명           : SHINBIRO
+기관명             : 주식회사 온세텔레콤
+기관고유번호       : ORG2324
+주소               : 경기도 용인시 수지구 용구대로2771번길 85, 온세IDC분당센터 2층 (동천동)
+우편번호           : 448-500
+할당일자           : 20000707
+
+[ IPv4주소 책임자 정보 ]
+이름               : IP 주소 관리자
+전화번호           : +82-70-7997-6133
+전자우편           : noc@onsetel.co.kr
+
+[ IPv4주소 담당자 정보 ]
+이름               : IP 주소 담당자
+전화번호           : +82-2-1666-0120
+전자우편           : onse-ip@i-base.co.kr
+
+[ 스팸 해킹 담당자 정보 ]
+이름               : Network abuse 담당자
+전화번호           : +82-2-1666-0120
+전자우편           : abuse@shinbiro.com
+
+--------------------------------------------------------------------------------
+
+조회하신 IPv4주소는 위의 관리대행자로부터 아래의 사용자에게 할당되었으며, 할당 정보는 다음과 같습니다.
+
+[ 네트워크 할당 정보 ]
+IPv4주소           : 211.190.4.64 - 211.190.4.127 (/26)
+네트워크 이름      : SHINBIRO-LLINE-ULTARIINFORMATIONTELECOM
+기관명             : 울타리정보통신
+기관고유번호       : ORG427667
+주소               : 서울 강남구 역삼동 704-38 화성빌딩 2층
+우편번호           : 135-080
+할당내역 등록일    : 20041112
+공개여부           : Y
+
+[ 네트워크 담당자 정보 ]
+이름               : 김석수
+기관명             : 울타리정보통신
+주소               : 서울 강남구 역삼동 704-38 화성빌딩 2층
+우편번호           : 135-080
+전화번호           : +82-2-909-2710
+전자우편           : sskim@ultari.com
+
+
+# ENGLISH
+
+KRNIC is not an ISP but a National Internet Registry similar to APNIC.
+
+[ Network Information ]
+IPv4 Address       : 211.190.0.0 - 211.190.47.255 (/19+/20)
+Service Name       : SHINBIRO
+Organization Name  : ONSE Telecom
+Organization ID    : ORG2324
+Address            : 2F Bundang Center, Onse IDC, 235-230, Gyeonggi-do Suji-gu, Yongin-si Yonggu-daero 2771beon-gil
+Zip Code           : 448-500
+Registration Date  : 20000707
+
+[ Admin Contact Information ]
+Name               : IP Administrator
+Phone              : +82-70-7997-6133
+E-Mail             : noc@onsetel.co.kr
+
+[ Tech Contact Information ]
+Name               : IP Manager
+Phone              : +82-2-1666-0120
+E-Mail             : onse-ip@i-base.co.kr
+
+[ Network Abuse Contact Information ]
+Name               : Network abuse
+Phone              : +82-2-1666-0120
+E-Mail             : abuse@shinbiro.com
+
+--------------------------------------------------------------------------------
+
+More specific assignment information is as follows.
+
+[ Network Information ]
+IPv4 Address       : 211.190.4.64 - 211.190.4.127 (/26)
+Network Name       : SHINBIRO-LLINE-ULTARIINFORMATIONTELECOM
+Organization Name  : Ultari Information Telecom
+Organization ID    : ORG427667
+Address            : 704-38Hwaseong Bldg. 2Fl., Yeoksam-dong, Gangnam-gu, Seoul
+Zip Code           : 135-080
+Registration Date  : 20041112
+Publishes          : Y
+
+[ Technical Contact Information ]
+Name               : Suksu Kim
+Organization Name  : Ultari Information Telecom
+Address            : 704-38Hwaseong Bldg. 2Fl., Yeoksam-dong, Gangnam-gu, Seoul
+Zip Code           : 135-080
+Phone              : +82-2-909-2710
+E-Mail             : sskim@ultari.com
+
+
+- KISA/KRNIC Whois Service -
+
+
+

@@ -1,0 +1,59 @@
+2.0.221.111.in-addr.arpa domain name pointer proxy.optimaxbd.net.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '111.221.0.0 - 111.221.0.255'
+
+inetnum:        111.221.0.0 - 111.221.0.255
+netname:        Corporate-Customer
+descr:          Md. Emdadul Hoque Molla
+country:        BD
+admin-c:        EM99-AP
+tech-c:         EM99-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-BD-OPTIMAX
+mnt-irt:        IRT-OPTIMAX-BD
+changed:        emdad@optimaxbd.net 20101231
+source:         APNIC
+
+irt:            IRT-OPTIMAX-BD
+address:        OptiMax Communication Ltd
+address:        House-90, Road-23,Blk-A
+address:        Banani, Dhaka-1213
+address:        Bangladesh
+e-mail:         emdad@optimaxbd.net
+abuse-mailbox:  emdad@optimaxbd.net
+admin-c:        EM99-AP
+tech-c:         EM99-AP
+auth:           # Filtered
+mnt-by:         MAINT-BD-OPTIMAX
+changed:        emdad@optimaxbd.net 20110122
+source:         APNIC
+
+person:         Eric Montesines
+nic-hdl:        EM99-AP
+e-mail:         paracela@epldt.com
+address:        Sta Rita Interchange District Cagayan
+address:        Valley Brgy Sta Rita Guguinta BULACAN
+phone:          +63-2-637-6661
+country:        PH
+changed:        paracela@epldt.com 20130430
+mnt-by:         MAINT-PH-EPLDT
+source:         APNIC
+
+% Information related to '111.221.0.0/21AS38031'
+
+route:          111.221.0.0/21
+descr:          111.221.0.0/24 Point to point fibre user
+descr:          111.221.1.0/24 Point to point fibre user
+descr:          111.221.2.0/24 Point to point fibre user
+descr:          111.221.3.0/24 Point to point fibre user
+descr:          111.221.3.0/20 Cable modem user
+origin:         AS38031
+mnt-by:         MAINT-BD-OPTIMAX
+changed:        emdad@optimaxbd.net 20090825
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

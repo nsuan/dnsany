@@ -1,0 +1,43 @@
+Host 71.179.157.211.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '211.157.128.0 - 211.157.207.255'
+
+inetnum:        211.157.128.0 - 211.157.207.255
+netname:        NET263
+descr:          Beijing 263 network group.
+descr:          Beijing
+country:        CN
+admin-c:        ZH97-AP
+tech-c:         LY261-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20090901
+status:         ALLOCATED PORTABLE
+source:         APNIC
+
+person:         Li Yujie
+nic-hdl:        LY261-AP
+e-mail:         noc@net263.com
+address:        16th Floor,Jianda buliding,14 East tuceng Road,Chayang District,Beijing,P.R. CHINA
+phone:          +86-010-84291263
+fax-no:         +86-010-84291029
+country:        CN
+changed:        haixia.zhao@net263.com 20030908
+mnt-by:         MAINT-CN-263
+source:         APNIC
+
+person:         Zhao haixia
+nic-hdl:        ZH97-AP
+e-mail:         noc@net263.com
+address:        16th  floor,JianDa Buliding ,14 East Tucheng,Heping Li Chaoyang distric,Beijing , P.R.CHINA
+phone:          +86-010-84291263
+fax-no:         +86-010-84291029
+country:        CN
+changed:        haixia.zhao@net263.com 20030908
+mnt-by:         MAINT-CN-263
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

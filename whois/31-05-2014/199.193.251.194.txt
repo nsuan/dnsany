@@ -1,0 +1,120 @@
+Host 194.251.193.199.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=199.193.251.194?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       199.193.248.0 - 199.193.255.255
+CIDR:           199.193.248.0/21
+OriginAS:       AS18978
+NetName:        ENZUINC-US-BLK1
+NetHandle:      NET-199-193-248-0-1
+Parent:         NET-199-0-0-0-0
+NetType:        Direct Allocation
+Comment:        --------------------------------
+Comment:        Enzu Inc. 
+Comment:        2360 Corporate Circle Suite 400
+Comment:        Henderson, NV 89074
+Comment:        https://www.enzu.com
+Comment:        --------------------------------
+Comment:        Please send all Abuse, Trademark, 
+Comment:        Legal Compliance, and Law Enforcement 
+Comment:        requests to abuse@scalabledns.com
+RegDate:        2011-09-14
+Updated:        2012-12-05
+Ref:            http://whois.arin.net/rest/net/NET-199-193-248-0-1
+
+
+OrgName:        Enzu Inc
+OrgId:          ENZUI
+Address:        2360 Corporate Circle
+Address:        Suite 400
+City:           Henderson
+StateProv:      NV
+PostalCode:     89074
+Country:        US
+RegDate:        2010-02-24
+Updated:        2012-04-25
+Comment:        --------------------------------
+Comment:        Enzu Inc. 
+Comment:        2360 Corporate Circle Suite 400
+Comment:        Henderson, NV 89074
+Comment:        https://www.enzu.com
+Comment:        --------------------------------
+Comment:        Please send all Abuse, Trademark, 
+Comment:        Legal Compliance, and Law Enforcement 
+Comment:        requests to abuse@scalabledns.com
+Ref:            http://whois.arin.net/rest/org/ENZUI
+
+ReferralServer: rwhois://rwhois.scalabledns.com:4321
+
+OrgAbuseHandle: ABUSE2868-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-702-965-1615 
+OrgAbuseEmail:  abuse@scalabledns.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2868-ARIN
+
+OrgTechHandle: NETWO3674-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-702-965-1615 
+OrgTechEmail:  admin@scalabledns.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO3674-ARIN
+
+OrgNOCHandle: NETWO3674-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-702-965-1615 
+OrgNOCEmail:  admin@scalabledns.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO3674-ARIN
+
+RAbuseHandle: ABUSE2868-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-702-965-1615 
+RAbuseEmail:  abuse@scalabledns.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2868-ARIN
+
+RTechHandle: NMR3-ARIN
+RTechName:   Rose, Nicholas Michael
+RTechPhone:  +1-702-965-1615 
+RTechEmail:  admin@scalabledns.com
+RTechRef:    http://whois.arin.net/rest/poc/NMR3-ARIN
+
+RNOCHandle: NETWO3674-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-702-965-1615 
+RNOCEmail:  admin@scalabledns.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO3674-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.scalabledns.com:4321.
+
+%rwhois V-1.5:003fff:00 rwhois.scalabledns.com (by Network Solutions, Inc. V-1.5.9.5)
+Network:Class-Name:Network
+Network:ID:ENZUINC
+Network:Auth-Area:199.193.248.0/21
+Network:Network-Name:ENZUINC-199.193.251.0/24
+Network:IP-Network:199.193.251.0/24
+Network:IP-Network-Block:199.193.251.0 - 199.193.251.255
+Network:Org-ID;I:ENZUINC
+Network:Org-Name;I:ENZUINC
+Network:Tech-Contact;I:ENZUINC
+Network:Admin-Contact;I:ENZUINC
+Network:Create:20120425
+Network:Update:20140515
+Network:UpdatedBy:admin@scalabledns.com
+
+%referral rwhois://rwhois.scalabledns.com:4321/auth-area=199.193.254.220/30
+%ok

@@ -1,0 +1,42 @@
+164.59.124.79.in-addr.arpa domain name pointer server1.tof62.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '79.124.59.128 - 79.124.59.255'
+
+% Abuse contact for '79.124.59.128 - 79.124.59.255' is 'abuse@herehost.com'
+
+inetnum:        79.124.59.128 - 79.124.59.255
+netname:        InfernoHost
+descr:          InfernoHost LTD
+country:        BG
+admin-c:        TR3948-RIPE
+tech-c:         TR3948-RIPE
+status:         ASSIGNED PA
+mnt-by:         TR3948-MNT
+source:         RIPE # Filtered
+
+person:         Todor Rumenov
+address:        Bulgaria 5800 Pleven
+phone:          +359 895 935 835
+nic-hdl:        TR3948-RIPE
+mnt-by:         TR3948-MNT
+source:         RIPE # Filtered
+
+% Information related to '79.124.59.0/24AS200002'
+
+route:          79.124.59.0/24
+descr:          HereHost Ltd.
+origin:         AS200002
+mnt-by:         AZ39139-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DBC-WHOIS2)
+
+

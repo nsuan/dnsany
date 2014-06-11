@@ -1,0 +1,61 @@
+Host 170.191.10.116.in-addr.arpa not found: 1(FORMERR)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '116.8.0.0 - 116.11.255.255'
+
+inetnum:        116.8.0.0 - 116.11.255.255
+netname:        CHINANET-GX
+descr:          CHINANET Guangxi province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        CR76-AP
+tech-c:         BD37-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-GX
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20070322
+source:         APNIC
+
+person:         Bin Deng
+nic-hdl:        BD37-AP
+e-mail:         18977164171@189.cn
+address:        Guangxi data comm.Bureau
+address:        35 Minzhu Road
+address:        Nanning city
+address:        Guangxi 530015 China
+phone:          +86-771-2835112
+fax-no:         +86-771-2839278
+country:        CN
+changed:        rebecca@public.nn.gx.cn 20021023
+changed:        zhengzm@gsta.com 20140326
+mnt-by:         MAINT-CHINANET-GX
+source:         APNIC
+
+person:         Cailing Ruan
+nic-hdl:        CR76-AP
+e-mail:         18977164171@189.cn
+address:        Guangxi data comm.Bureau
+address:        35 Minzhu Road
+address:        Nanning city
+address:        Guangxi 530015 China
+phone:          +86-771-2815987
+fax-no:         +86-771-2839278
+country:        CN
+changed:        rebecca@public.nn.gx.cn 20021023
+changed:        zhengzm@gsta.com 20140326
+mnt-by:         MAINT-CHINANET-GX
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

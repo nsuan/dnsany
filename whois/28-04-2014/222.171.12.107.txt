@@ -1,0 +1,55 @@
+Host 107.12.171.222.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '222.170.0.0 - 222.172.127.255'
+
+inetnum:        222.170.0.0 - 222.172.127.255
+netname:        CHINANET-HL
+descr:          CHINANET HEILONGJIANG PROVINCE NETWORK
+descr:          Heilongjiang Telecom Corporation
+descr:          NO.178 Zhongshan Road,Haerbin,Heilongjiang 150040
+country:        CN
+admin-c:        LZ298-AP
+tech-c:         CH93-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-HL
+mnt-routes:     MAINT-CHINANET-HL
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20040305
+changed:        hm-changed@apnic.net 20060605
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+person:         LIJUAN ZHENG
+nic-hdl:        LZ298-AP
+e-mail:         network@hljtele.com
+address:        Communication Corporation Internet Enterprise Division of HLJ
+phone:          +86-451-53902002
+fax-no:         +86-451-53900012
+country:        CN
+changed:        jxwx1234@163.com 20061229
+mnt-by:         MAINT-CHINANET-HLJTELE
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

@@ -1,0 +1,51 @@
+246.219.166.113.in-addr.arpa domain name pointer localhost.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.166.0.0 - 113.166.255.255'
+
+inetnum:        113.166.0.0 - 113.166.255.255
+netname:        VNPT-NET
+country:        vn
+descr:          IP pool ADSL Vinh Phuc
+admin-c:        VIG1-AP
+tech-c:         VIG1-AP
+status:         ALLOCATED NON-PORTABLE
+changed:        hm-changed@vnnic.net.vn 20100517
+mnt-by:         MAINT-VN-VNPT
+source:         APNIC
+
+role:           VDC IPADMIN GROUP
+address:        Internet Building, Block II, Thang Long Inter Village
+address:        Nguyen Phong Sac str, Cau Giay Dist,  Ha Noi
+country:        VN
+phone:          +84-912-800008
+fax-no:         +84-4-9430427
+e-mail:         hathm@vdc.com.vn
+remarks:        send spam reports to abuse@vdc.com.vn
+remarks:        and abuse reports to abuse@vnn.vn
+admin-c:        THMH1-AP
+tech-c:         THMH1-AP
+nic-hdl:        VIG1-AP
+notify:         hm-changed@vnnic.net.vn
+mnt-by:         MAINT-VN-VNPT
+changed:        hm-changed@vnnic.net.vn 20090325
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+% Information related to '113.166.192.0/19AS45899'
+
+route:          113.166.192.0/19
+descr:          VietNam Post and Telecom Corporation (VNPT)
+descr:          VNPT-AS-AP
+country:        VN
+origin:         AS45899
+remarks:        mailto: noc@vnn.vn
+notify:         hm-changed@vnnic.net.vn
+mnt-by:         MAINT-VN-VNPT
+changed:        hm-changed@vnnic.net.vn 20100810
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

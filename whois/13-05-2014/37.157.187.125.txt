@@ -1,0 +1,68 @@
+125.187.157.37.in-addr.arpa domain name pointer 37-157-187-125.net1.bg.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '37.157.160.0 - 37.157.191.255'
+
+% Abuse contact for '37.157.160.0 - 37.157.191.255' is 'abuse@net1.bg'
+
+inetnum:        37.157.160.0 - 37.157.191.255
+netname:        BG-NET1-20120315
+descr:          NET1 Ltd.
+country:        BG
+org:            ORG-NL111-RIPE
+admin-c:        SV2622-RIPE
+tech-c:         LL3337-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-NET1
+mnt-routes:     MNT-NET1
+source:         RIPE # Filtered
+
+organisation:   ORG-NL111-RIPE
+org-name:       NET1 Ltd.
+org-type:       LIR
+address:        NET1 Ltd. Stefan Voynov 14, Asen Jordanov Blvd. Drujba 1 1592 Sofia BULGARIA
+phone:          +35929731199
+fax-no:         +35929780660
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        MNT-NET1
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        KS4639-RIPE
+abuse-mailbox:  abuse@net1.bg
+abuse-c:        LA5309-RIPE
+source:         RIPE # Filtered
+
+person:         Liudmil Liubenov
+address:        Sofia,Bulgaria
+address:        14, Asen Jordanov Blvd
+mnt-by:         MNT-NET1
+phone:          +359894441811
+nic-hdl:        LL3337-RIPE
+source:         RIPE # Filtered
+
+person:         Stefan Voynov
+address:        Sofia,Bulgaria
+address:        14, Asen Jordanov blvd.
+mnt-by:         MNT-NET1
+phone:          +35929731199
+nic-hdl:        SV2622-RIPE
+source:         RIPE # Filtered
+
+% Information related to '37.157.187.0/24AS43561'
+
+route:          37.157.187.0/24
+descr:          NET1 - PA Address space
+origin:         AS43561
+mnt-by:         MNT-NET1
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS1)
+
+

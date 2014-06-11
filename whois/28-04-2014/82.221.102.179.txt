@@ -1,0 +1,47 @@
+Host 179.102.221.82.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '82.221.102.176 - 82.221.102.191'
+
+% Abuse contact for '82.221.102.176 - 82.221.102.191' is 'abuse@advania.is'
+
+inetnum:        82.221.102.176 - 82.221.102.191
+netname:        IS-WM-SECURITY
+descr:          WM-SECURITY
+country:        IS
+admin-c:        VB4566-RIPE
+tech-c:         VB4566-RIPE
+status:         ASSIGNED PA
+mnt-by:         IS-SKYRR-MNT
+source:         RIPE # Filtered
+
+person:         Vjekoslav Bogovic
+address:        Klokocevac 53
+address:        Klokocevac 00053
+address:        Croatia
+address:        HR
+abuse-mailbox:  abuse@avalonvps.com
+phone:          +385 18376579
+nic-hdl:        VB4566-RIPE
+mnt-by:         IS-SKYRR-MNT
+source:         RIPE # Filtered
+
+% Information related to '82.221.96.0/19AS50613'
+
+route:          82.221.96.0/19
+descr:          Thor DC
+origin:         AS50613
+mnt-by:         THOR-MNT
+mnt-lower:      THOR-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS2)
+
+

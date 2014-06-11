@@ -1,0 +1,48 @@
+Host 131.48.108.202.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '202.108.48.0 - 202.108.55.255'
+
+inetnum:        202.108.48.0 - 202.108.55.255
+netname:        CAPITAL-NET-LTD
+descr:          Capital Network Ltd
+country:        CN
+admin-c:        CH455-AP
+tech-c:         SY21-AP
+mnt-by:         MAINT-CNCGROUP-BJ
+changed:        suny@publicf.bta.net.cn 20020423
+status:         ASSIGNED NON-PORTABLE
+source:         APNIC
+
+role:           CNCGroup Hostmaster
+e-mail:         abuse@cnc-noc.net
+address:        No.156,Fu-Xing-Men-Nei Street,
+address:        Beijing,100031,P.R.China
+nic-hdl:        CH455-AP
+phone:          +86-10-82993155
+fax-no:         +86-10-82993102
+country:        CN
+admin-c:        CH444-AP
+tech-c:         CH444-AP
+changed:        abuse@cnc-noc.net 20041119
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+person:         sun ying
+address:        fu xing men nei da jie 97, Xicheng District
+address:        Beijing 100800
+country:        CN
+phone:          +86-10-66030657
+fax-no:         +86-10-66078815
+e-mail:         hostmast@publicf.bta.net.cn
+nic-hdl:        SY21-AP
+mnt-by:         MAINT-CNCGROUP-BJ
+changed:        suny@publicf.bta.net.cn 19980824
+changed:        hm-changed@apnic.net 20060717
+changed:        hostmast@publicf.bta.net.cn  20090630
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

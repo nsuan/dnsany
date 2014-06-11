@@ -1,0 +1,41 @@
+99.25.57.203.in-addr.arpa domain name pointer 57-25-99.menpan.go.id.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.57.24.0 - 203.57.25.255'
+
+inetnum:        203.57.24.0 - 203.57.25.255
+netname:        MENPAN-ID
+descr:          Kementrian Negara Pendayagunaan Aparatur Negara
+descr:          Goverment / Direct Member IDNIC
+descr:          Jl. Jend. Sudirman Kav. 69
+descr:          Jakarta Selatan, 12190
+descr:          DKI Jakarta
+country:        ID
+admin-c:        PB162-AP
+tech-c:         PB162-AP
+remarks:        Send Spam & Abuse Reports to: abuse@jasatel.net.id
+mnt-by:         MNT-APJII-ID
+mnt-routes:     MAINT-ID-MENPAN
+status:         ASSIGNED PORTABLE
+changed:        hm-changed@apnic.net 20090429
+source:         APNIC
+
+person:         Prananto Bayu Herlambang
+nic-hdl:        PB162-AP
+e-mail:         prananto.bayu@jasatel.net.id
+address:        Gedung Cyber lt. 1
+address:        Jl. Kuningan Barat No.8
+address:        Jakarta Selatan, 12710
+address:        DKI Jakarta
+phone:          +612-818-121556
+fax-no:         +612-021-5208980
+country:        ID
+changed:        hostmaster@idnic.net 20090422
+changed:        hostmaster@idnic.net 20090429
+mnt-by:         MAINT-ID-MENPAN
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

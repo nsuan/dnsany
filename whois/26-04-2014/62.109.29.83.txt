@@ -1,0 +1,69 @@
+83.29.109.62.in-addr.arpa domain name pointer myrmex10.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.109.28.0 - 62.109.31.255'
+
+% Abuse contact for '62.109.28.0 - 62.109.31.255' is 'abuse@ispsystem.com'
+
+inetnum:        62.109.28.0 - 62.109.31.255
+netname:        THEFIRST-NET
+org:            ORG-FVDS1-RIPE
+descr:          TheFirst-RU clients (WebDC Msk)
+country:        RU
+admin-c:        AB11726-RIPE
+tech-c:         ST6386-RIPE
+status:         ASSIGNED PA
+mnt-by:         THEFIRST-MNT
+mnt-irt:        IRT-THEFIRST
+source:         RIPE # Filtered
+
+organisation:   ORG-FVDS1-RIPE
+org-name:       CJSC THE FIRST
+org-type:       OTHER
+address:        CJSC The First, Raduzhny 34a
+address:        PoBox64, Irkutsk, 664017
+address:        Russian Federation
+abuse-mailbox:  abuse@firstvds.ru
+mnt-ref:        THEFIRST-MNT
+mnt-by:         ISPSYSTEM-MNT
+source:         RIPE # Filtered
+
+person:         Alexandr Brukhanov
+address:        Raduzhny st. 34a
+address:        Irkutsk, 664017, Russian Federation
+phone:          +7 3952 525789
+nic-hdl:        AB11726-RIPE
+mnt-by:         ISPSYSTEM-MNT
+source:         RIPE # Filtered
+
+person:         Stas Titov
+address:        Raduzhny st. 34a
+address:        Irkutsk, 664017, Russian Federation
+phone:          +7 3952 525789
+nic-hdl:        ST6386-RIPE
+mnt-by:         ISPSYSTEM-MNT
+source:         RIPE # Filtered
+
+% Information related to '62.109.28.0/22AS29182'
+
+route:          62.109.28.0/22
+descr:          TheFirst-RU
+origin:         AS29182
+mnt-by:         THEFIRST-MNT
+remarks:        **************************************
+remarks:        * For spamming or other abuse issues *
+remarks:        *    please send your requests to    *
+remarks:        *         abuse@firstvds.ru          *
+remarks:        **************************************
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.72 (DBC-WHOIS3)
+
+

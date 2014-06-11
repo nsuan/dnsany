@@ -1,0 +1,118 @@
+198.102.247.148.in-addr.arpa domain name pointer jedi18.cs.cinvestav.mx.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=148.247.102.198?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       148.201.0.0 - 148.250.255.255
+CIDR:           148.208.0.0/12, 148.201.0.0/16, 148.202.0.0/15, 148.240.0.0/13, 148.248.0.0/15, 148.250.0.0/16, 148.224.0.0/12, 148.204.0.0/14
+OriginAS:       
+NetName:        LACNIC-ERX-148-201-0-0
+NetHandle:      NET-148-201-0-0-1
+Parent:         NET-148-0-0-0-0
+NetType:        Transferred to LACNIC
+Comment:        This IP address range is under LACNIC responsibility
+Comment:        for further allocations to users in LACNIC region.
+Comment:        Please see http://www.lacnic.net/ for further details,
+Comment:        or check the WHOIS server located at http://whois.lacnic.net
+RegDate:        2003-10-29
+Updated:        2007-12-17
+Ref:            http://whois.arin.net/rest/net/NET-148-201-0-0-1
+
+OrgName:        Latin American and Caribbean IP address Regional Registry
+OrgId:          LACNIC
+Address:        Rambla Republica de Mexico 6125
+City:           Montevideo
+StateProv:      
+PostalCode:     11400
+Country:        UY
+RegDate:        2002-07-27
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/LACNIC
+
+ReferralServer: whois://whois.lacnic.net
+
+OrgAbuseHandle: LACNIC-ARIN
+OrgAbuseName:   LACNIC Whois Info
+OrgAbusePhone:  999-999-9999 
+OrgAbuseEmail:  whois-contact@lacnic.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/LACNIC-ARIN
+
+OrgTechHandle: LACNIC-ARIN
+OrgTechName:   LACNIC Whois Info
+OrgTechPhone:  999-999-9999 
+OrgTechEmail:  whois-contact@lacnic.net
+OrgTechRef:    http://whois.arin.net/rest/poc/LACNIC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to whois.lacnic.net.
+
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-04-10 01:00:08 (BRT -03:00)
+
+inetnum:     148.247/16
+status:      assigned
+aut-num:     N/A
+owner:       Centro de Investigacion y de Estudios Avanzados de
+ownerid:     MX-CIYE6-LACNIC
+responsible: Manuel Mendez Nonell
+address:     Edificio de Computacion AV. Instituto Politecnico Nacional 2508 Col. Mexico, D.F. 07360, 111, 
+address:     00000 - No info - ME
+country:     MX
+phone:       +52  1111111111 []
+owner-c:     MMN2
+tech-c:      MMN2
+abuse-c:     MMN2
+inetrev:     148.247/16
+nserver:     SOUN.RED.CINVESTAV.MX  
+nsstat:      20140409 AA
+nslastaa:    20140409
+nserver:     MVAX1.RED.CINVESTAV.MX  
+nsstat:      20140409 AA
+nslastaa:    20140409
+nserver:     DNS2.UNAM.MX  [lame - not published]
+nsstat:      20140409 QREFUSED
+nslastaa:    20060227
+created:     19930310
+changed:     20110611
+
+nic-hdl:     MMN2
+person:      Manuel Mendez Nonell
+e-mail:      mmendez@INFADM.INF.CINVESTAV.MX
+address:     Centro de Investigacion y de Estudios Avanzados del IPN Secretaria de Planeacion AV. Instituto Politecnico Nacional 2508 Mexico, D.F. 07360, 111, 
+address:     00000 - Ciudad - ME
+country:     MX
+phone:       +52  5257473118 []
+created:     20110611
+changed:     20110611
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+
