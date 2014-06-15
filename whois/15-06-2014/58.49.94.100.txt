@@ -1,0 +1,69 @@
+100.94.49.58.in-addr.arpa domain name pointer 100.94.49.58.broad.wh.hb.dynamic.163data.com.cn.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '58.48.0.0 - 58.55.255.255'
+
+inetnum:        58.48.0.0 - 58.55.255.255
+netname:        CHINANET-HB
+descr:          CHINANET Hubei province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CHA1-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CHINANET-HB
+mnt-routes:     MAINT-CN-CHINANET-HB
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20050523
+source:         APNIC
+
+role:           CHINANET HB ADMIN
+address:        8th floor of JinGuang Building
+address:        #232 of Macao Road
+address:        HanKou Wuhan Hubei Province
+address:        P.R.China
+country:        CN
+phone:          +86 27 82862199
+fax-no:         +86 27 82861499
+e-mail:         hbadd@189.cn
+remarks:        send spam reports to hbadd@189.cn
+remarks:        and abuse reports to hbadd@189.cn
+remarks:        Please include detailed information and
+remarks:        times in GMT+8
+admin-c:        YZ83-AP
+admin-c:        ZC77-AP
+tech-c:         YZ83-AP
+tech-c:         ZC77-AP
+nic-hdl:        CHA1-AP
+notify:         hbadd@189.cn
+mnt-by:         MAINT-CN-CHINANET-HB
+changed:        zhangyl68@public.wh.hb.cn 20031114
+changed:        hm-changed@apnic.net 20111114
+changed:        zhengzm@gsta.com  20130806
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

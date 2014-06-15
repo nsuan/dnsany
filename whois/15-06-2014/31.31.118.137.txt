@@ -1,0 +1,52 @@
+137.118.31.31.in-addr.arpa domain name pointer 31-31-118-137.broadband.tenet.odessa.ua.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.31.112.0 - 31.31.119.255'
+
+% Abuse contact for '31.31.112.0 - 31.31.119.255' is 'abuse@te.net.ua'
+
+inetnum:        31.31.112.0 - 31.31.119.255
+netname:        TENET
+descr:          TeNeT Networking Centre
+descr:          Odessa Ukraine
+country:        UA
+admin-c:        TNT-UA
+tech-c:         TNT-UA
+status:         ASSIGNED PA
+mnt-by:         AS6876-MNT
+mnt-lower:      AS6876-MNT
+remarks:        INFRA-AW
+source:         RIPE # Filtered
+
+role:           TeNeT Crew
+address:        TeNeT Telecommunication Company
+address:        65012, 2-a Bolshaya Arnautskaya Str
+address:        Odessa, Ukraine
+admin-c:        OE5-RIPE
+tech-c:         ET8-RIPE
+tech-c:         SN-UA
+nic-hdl:        TNT-UA
+abuse-mailbox:  abuse@te.net.ua
+mnt-by:         AS6876-MNT
+source:         RIPE # Filtered
+
+% Information related to '31.31.112.0/20AS6876'
+
+route:          31.31.112.0/20
+descr:          TeNeT Networking Centre
+descr:          Odessa Ukraine
+origin:         AS6876
+mnt-by:         AS6876-MNT
+mnt-lower:      AS6876-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DBC-WHOIS1)
+
+

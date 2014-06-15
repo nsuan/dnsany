@@ -1,0 +1,53 @@
+Host 4.148.215.197.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '197.215.128.0 - 197.215.159.255'
+
+inetnum:        197.215.128.0 - 197.215.159.255
+netname:        LITCNET
+descr:          LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY
+country:        LY
+admin-c:        MH24-AFRINIC
+tech-c:         MH24-AFRINIC
+org:            ORG-LITC1-AFRINIC
+status:         ALLOCATED PA
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      LITC-mnt
+mnt-domains:    LITC-mnt
+source:         AFRINIC # Filtered
+parent:         197.0.0.0 - 197.255.255.255
+
+organisation:   ORG-LITC1-AFRINIC
+org-name:       LIBYAN INTERNATIONAL TELECOMMUNICATION COMPANY
+org-type:       LIR
+country:        LY
+address:        HEY ELWIHDA ELARABIA BESIDE ALWAHA BANK
+address:        TRIPOLI
+address:        TRIPOLI
+e-mail:         tarek.buker@litc.ly
+e-mail:         akram.ammar@litc.ly
+e-mail:         siraj.tarhuni@litc.ly
+e-mail:         abdurahman.owag@litc.ly
+phone:          +218913733530
+phone:          +218913179734
+admin-c:        MH24-AFRINIC
+tech-c:         MH24-AFRINIC
+mnt-ref:        AFRINIC-HM-MNT
+mnt-ref:        LITC-mnt
+mnt-by:         AFRINIC-HM-MNT
+source:         AFRINIC # Filtered
+
+person:         mohamed haghegh
+nic-hdl:        mh24-AFRINIC
+address:        TRIPOLI
+address:        LY
+address:        Tripoli
+address:        Libya
+e-mail:         abdurahman.owag@litc.ly
+phone:          +218913179734
+phone:          +218 3179439
+source:         AFRINIC # Filtered
+
+
