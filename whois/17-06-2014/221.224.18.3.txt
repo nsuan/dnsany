@@ -1,0 +1,57 @@
+Host 3.18.224.221.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '221.224.18.0 - 221.224.18.7'
+
+inetnum:        221.224.18.0 - 221.224.18.7
+netname:        SUZHOU-WJ-SILK-CORP
+descr:          WUJIANG SILK CO.LTD
+descr:          Suzhou City
+descr:          Jiangsu Province
+country:        CN
+admin-c:        CH446-AP
+tech-c:         SJ885-AP
+changed:        ip@jsinfo.net 20041109
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CHINANET-JS
+mnt-lower:      MAINT-CHINANET-JS-SZ
+source:         APNIC
+
+person:         CHINANET-JS-SZ Hostmaster
+address:        No.182,Sanxiang Road,Suzhou 215004
+country:        CN
+phone:          +86-512-68302104
+fax-no:         +86-512-68302106
+e-mail:         ipsz@pub.sz.jsinfo.net
+nic-hdl:        CH446-AP
+remarks:        send anti-spam or abuse reports to abuse@public1.sz.js.cn
+remarks:        or abuse@pub.sz.jsinfo.net
+remarks:        times in GMT+8
+mnt-by:         MAINT-CHINANET-JS-SZ
+changed:        ip@jsinfo.net 20021210
+source:         APNIC
+
+person:         shen jingyuan
+nic-hdl:        SJ885-AP
+e-mail:         silk-sm@public1.sz.js.cn
+address:        Shengzhe Town Wujiang Suzhou City
+phone:          +86-512-63570822
+country:        CN
+changed:        ip@jsinfo.net 20041109
+mnt-by:         MAINT-CHINANET-JS
+source:         APNIC
+
+% Information related to '221.224.0.0/14AS23650'
+
+route:          221.224.0.0/14
+descr:          CHINANET jiangsu province network
+country:        CN
+origin:         AS23650
+mnt-by:         MAINT-CHINANET-JS
+changed:        ip@jsinfo.net 20030630
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

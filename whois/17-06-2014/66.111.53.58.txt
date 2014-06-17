@@ -1,0 +1,180 @@
+Host 58.53.111.66.in-addr.arpa not found: 2(SERVFAIL)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=66.111.53.58?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       66.111.53.50 - 66.111.53.59
+CIDR:           66.111.53.56/30, 66.111.53.52/30, 66.111.53.50/31
+OriginAS:       
+NetName:        SAGO-66-111-53-50
+NetHandle:      NET-66-111-53-50-1
+Parent:         NET-66-111-32-0-1
+NetType:        Reassigned
+Comment:        NOCWorx SWIP Interface v1.5 - http://interworx.info
+RegDate:        2004-09-16
+Updated:        2004-09-16
+Ref:            http://whois.arin.net/rest/net/NET-66-111-53-50-1
+
+CustName:       Clemens Alphen
+Address:        Baritonstraat 53
+City:           Helmond
+StateProv:      
+PostalCode:     5702 JK
+Country:        NL
+RegDate:        2004-09-16
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00909916
+
+OrgTechHandle: TECHN20-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-866-366-3640 
+OrgTechEmail:  support@sagonet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN20-ARIN
+
+OrgNOCHandle: TECHN20-ARIN
+OrgNOCName:   Technical Support
+OrgNOCPhone:  +1-866-366-3640 
+OrgNOCEmail:  support@sagonet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/TECHN20-ARIN
+
+OrgAbuseHandle: ABUSE32-ARIN
+OrgAbuseName:   Abuse Team
+OrgAbusePhone:  +1-866-366-3640 
+OrgAbuseEmail:  abuse@sagonet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE32-ARIN
+
+RNOCHandle: TECHN20-ARIN
+RNOCName:   Technical Support
+RNOCPhone:  +1-866-366-3640 
+RNOCEmail:  support@sagonet.com
+RNOCRef:    http://whois.arin.net/rest/poc/TECHN20-ARIN
+
+RTechHandle: ZS203-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-866-366-3640 
+RTechEmail:  ipadmin@sagonet.com
+RTechRef:    http://whois.arin.net/rest/poc/ZS203-ARIN
+
+RAbuseHandle: ABUSE32-ARIN
+RAbuseName:   Abuse Team
+RAbusePhone:  +1-866-366-3640 
+RAbuseEmail:  abuse@sagonet.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE32-ARIN
+
+# end
+
+
+# start
+
+NetRange:       66.111.32.0 - 66.111.63.255
+CIDR:           66.111.32.0/19
+OriginAS:       
+NetName:        ASN-UNCGI-EXC-01
+NetHandle:      NET-66-111-32-0-1
+Parent:         NET-66-0-0-0-0
+NetType:        Direct Allocation
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+RegDate:        2002-08-06
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-66-111-32-0-1
+
+OrgName:        United Colocation Group, Inc.
+OrgId:          UCG-14
+Address:        4465 W. Gandy Blvd
+Address:        STE 800
+City:           Tampa
+StateProv:      FL
+PostalCode:     33611
+Country:        US
+RegDate:        2002-08-06
+Updated:        2011-04-29
+Ref:            http://whois.arin.net/rest/org/UCG-14
+
+ReferralServer: rwhois://66.111.32.90:4321
+
+OrgTechHandle: TECHN20-ARIN
+OrgTechName:   Technical Support
+OrgTechPhone:  +1-866-366-3640 
+OrgTechEmail:  support@sagonet.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TECHN20-ARIN
+
+OrgNOCHandle: TECHN20-ARIN
+OrgNOCName:   Technical Support
+OrgNOCPhone:  +1-866-366-3640 
+OrgNOCEmail:  support@sagonet.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/TECHN20-ARIN
+
+OrgAbuseHandle: ABUSE32-ARIN
+OrgAbuseName:   Abuse Team
+OrgAbusePhone:  +1-866-366-3640 
+OrgAbuseEmail:  abuse@sagonet.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE32-ARIN
+
+RNOCHandle: TECHN20-ARIN
+RNOCName:   Technical Support
+RNOCPhone:  +1-866-366-3640 
+RNOCEmail:  support@sagonet.com
+RNOCRef:    http://whois.arin.net/rest/poc/TECHN20-ARIN
+
+RTechHandle: ZS203-ARIN
+RTechName:   IP Admin
+RTechPhone:  +1-866-366-3640 
+RTechEmail:  ipadmin@sagonet.com
+RTechRef:    http://whois.arin.net/rest/poc/ZS203-ARIN
+
+RAbuseHandle: ABUSE32-ARIN
+RAbuseName:   Abuse Team
+RAbusePhone:  +1-866-366-3640 
+RAbuseEmail:  abuse@sagonet.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE32-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to 66.111.32.90:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 portal.sagonet.com (Ubersmith RWhois Server V-2.3.0)
+autharea=66.111.53.0/24
+xautharea=66.111.53.0/24
+network:Class-Name:network
+network:Auth-Area:66.111.53.0/24
+network:ID:NET-40469.66.111.53.58/31
+network:Network-Name:Primary Assignment
+network:IP-Network:66.111.53.58/31
+network:IP-Network-Block:66.111.53.58 - 66.111.53.59
+network:Org-Name:SAGO Networks, LLC
+network:Street-Address:4465 W Gandy Blvd., #800
+network:City:Tampa
+network:State:FL
+network:Postal-Code:33611
+network:Country-Code:US
+network:Tech-Contact:MAINT-40469.66.111.53.58/31
+network:Created:20100113030318000
+network:Updated:20140410185409000
+network:Updated-By:ipengineering@sagonet.com
+contact:POC-Name:Sago Networks: IP Engineering
+contact:POC-Email:ipengineering@sagonet.com
+contact:POC-Phone:866.366.3640
+contact:Tech-Name:Sago Networks: IP Engineering
+contact:Tech-Email:ipengineering@sagonet.com
+contact:Tech-Phone:866.366.3640
+%ok

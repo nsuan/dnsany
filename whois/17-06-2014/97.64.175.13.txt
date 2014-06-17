@@ -1,0 +1,99 @@
+13.175.64.97.in-addr.arpa domain name pointer 97-64-175-13.client.mchsi.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=97.64.175.13?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       97.64.128.0 - 97.64.255.255
+CIDR:           97.64.128.0/17
+OriginAS:       
+NetName:        MEDIACOM-ENTERPRISE-CUST
+NetHandle:      NET-97-64-128-0-1
+Parent:         NET-97-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-04-13
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-97-64-128-0-1
+
+OrgName:        Mediacom Communications Corporation
+OrgId:          MCC-246
+Address:        100 Crystal Run Road
+City:           Middletown
+StateProv:      NY
+PostalCode:     10941
+Country:        US
+RegDate:        2008-03-18
+Updated:        2012-02-27
+Ref:            http://whois.arin.net/rest/org/MCC-246
+
+ReferralServer: rwhois://rwhois.mediacomcc.com:4321
+
+OrgTechHandle: HCD1-ARIN
+OrgTechName:   Dean, Henry Clay
+OrgTechPhone:  +1-515-559-0223 
+OrgTechEmail:  hdean@mediacomcc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HCD1-ARIN
+
+OrgAbuseHandle: MEDIA2-ARIN
+OrgAbuseName:   Mediacom Abuse
+OrgAbusePhone:  +1-845-695-2600 
+OrgAbuseEmail:  abuse@mediacombb.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MEDIA2-ARIN
+
+OrgTechHandle: NAH5-ARIN
+OrgTechName:   Ahmad, Nisar 
+OrgTechPhone:  +1-845-443-2698 
+OrgTechEmail:  nahmad@mediacomcc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NAH5-ARIN
+
+RAbuseHandle: MEDIA2-ARIN
+RAbuseName:   Mediacom Abuse
+RAbusePhone:  +1-845-695-2600 
+RAbuseEmail:  abuse@mediacombb.net
+RAbuseRef:    http://whois.arin.net/rest/poc/MEDIA2-ARIN
+
+RTechHandle: SAT29-ARIN
+RTechName:   ATLI, SERHAT 
+RTechPhone:  +1-845-695-6306 
+RTechEmail:  satli@mediacomcc.com
+RTechRef:    http://whois.arin.net/rest/poc/SAT29-ARIN
+
+RTechHandle: JSE90-ARIN
+RTechName:   Selvage, Joe 
+RTechPhone:  +1-845-695-2706 
+RTechEmail:  jselvage@mediacomcc.com
+RTechRef:    http://whois.arin.net/rest/poc/JSE90-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.mediacomcc.com:4321.
+
+%rwhois V-1.5:003fff:00 rwhois.mediacomcc.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:MEDIACOM-ENTERPRISE-CUST-97.64.175.0/25
+network:Auth-Area:97.64.175.0/25
+network:Network-Name:MEDIACOMCC-97-64-175-0-RealTimeInstall-Hutchinson-MN
+network:IP-Network:97.64.175.0/25
+network:IP-Network-Block:97.64.175.0/25
+network:Organization;I:Real Time Install
+network:Tech-Contact;I:Dean, Henry Clay
+network:Admin-Contact;I:Selvage, Joe
+network:Created:20090731
+network:Updated:20100325
+network:Updated-By:noc_toolsdev@mediacomcc.com
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok

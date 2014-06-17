@@ -1,0 +1,47 @@
+;; connection timed out; no servers could be reached
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.63.0.0 - 46.63.63.255'
+
+% Abuse contact for '46.63.0.0 - 46.63.63.255' is 'abuse@x-city.ua'
+
+inetnum:        46.63.0.0 - 46.63.63.255
+netname:        X-CITY
+remarks:        NCC#2010090973
+remarks:        INFRA-AW
+descr:          X-City network
+country:        UA
+admin-c:        RK4249-RIPE
+tech-c:         RK4249-RIPE
+status:         ASSIGNED PA
+mnt-by:         XCITY-MNT
+source:         RIPE # Filtered
+
+person:         Roman Kabakov
+address:        Shcherbakova 8/1
+address:        29019 Khmelnitskiy
+address:        UKRAINE
+abuse-mailbox:  abuse@x-city.ua
+phone:          +380382724777
+nic-hdl:        RK4249-RIPE
+mnt-by:         XCITY-MNT
+source:         RIPE # Filtered
+
+% Information related to '46.63.16.0/21AS51784'
+
+route:          46.63.16.0/21
+descr:          kmelnitskiy NAT pool 3
+origin:         AS51784
+mnt-by:         XCITY-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DBC-WHOIS2)
+
+
