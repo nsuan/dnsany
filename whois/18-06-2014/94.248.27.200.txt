@@ -1,0 +1,47 @@
+200.27.248.94.in-addr.arpa domain name pointer 94-248-27-200.dynamic.peoplenet.ua.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '94.248.0.0 - 94.248.63.255'
+
+% Abuse contact for '94.248.0.0 - 94.248.63.255' is 'ripe@3Gmobile.com.ua'
+
+inetnum:        94.248.0.0 - 94.248.63.255
+netname:        PEOPLE-NET
+descr:          PEOPLE-NET dynamic pool I
+country:        UA
+admin-c:        PPLn-RIPE
+tech-c:         PPLn-RIPE
+status:         ASSIGNED PA
+mnt-by:         TSU-MNT
+mnt-lower:      TSU-MNT
+mnt-routes:     TSU-MNT
+source:         RIPE # Filtered
+
+role:           PEOPLEnet NOC
+address:        CJSC Telesystems of Ukraine
+address:        15/15 V. Khvoiky St.
+address:        Ukraine, 04080, Kyiv
+admin-c:        MN922-RIPE
+tech-c:         MN922-RIPE
+nic-hdl:        PPLn-RIPE
+mnt-by:         TSU-MNT
+source:         RIPE # Filtered
+
+% Information related to '94.248.0.0/18AS42396'
+
+route:          94.248.0.0/18
+descr:          PEOPLE-NET dynamic pool I
+origin:         AS42396
+mnt-by:         TSU-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-1)
+
+
