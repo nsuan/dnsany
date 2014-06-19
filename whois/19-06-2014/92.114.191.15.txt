@@ -1,0 +1,58 @@
+15.191.114.92.in-addr.arpa domain name pointer host-static-92-114-191-15.moldtelecom.md.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '92.114.128.0 - 92.114.255.255'
+
+% Abuse contact for '92.114.128.0 - 92.114.255.255' is 'abuse@ip.ro'
+
+inetnum:        92.114.128.0 - 92.114.255.255
+netname:        JSC-MOLDTELECOM-SA
+descr:          Societatea pe Actiuni MOLDTELECOM
+descr:          B-ul Stefan cel Mare si Sfant 10
+descr:          Chisinau, Republica Moldova MD-2001
+country:        md
+admin-c:        MLA32-RIPE
+tech-c:         MLA32-RIPE
+status:         ASSIGNED PA
+remarks:        Registered trough http://www.ip.ro/ip.html
+mnt-by:         RO-JUMP-MNT
+mnt-lower:      RO-JUMP-MNT
+mnt-routes:     MD-MNT
+mnt-routes:     MNT-MOLDTELECOM
+source:         RIPE # Filtered
+
+role:           Moldtelecom LIR Adminstrators
+remarks:
+address:        JSC "Moldtelecom" S.A.
+address:        10, Stefan cel Mare ave.
+address:        Chisinau, Moldova
+address:        MD-2001
+phone:          +373 22570565
+fax-no:         +373 22542601
+remarks:
+admin-c:        VSM13-RIPE
+tech-c:         NM2546-RIPE
+nic-hdl:        MLA32-RIPE
+abuse-mailbox:  cert.mtc@moldtelecom.md
+remarks:
+mnt-by:         MOLDTELECOM-MNT
+source:         RIPE # Filtered
+
+% Information related to '92.114.128.0/18AS8926'
+
+route:          92.114.128.0/18
+descr:          JSC MOLDTELECOM SA
+origin:         AS8926
+mnt-by:         MNT-MOLDTELECOM
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DBC-WHOIS2)
+
+

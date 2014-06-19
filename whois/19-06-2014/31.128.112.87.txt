@@ -1,0 +1,68 @@
+Host 87.112.128.31.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.128.96.0 - 31.128.127.255'
+
+% Abuse contact for '31.128.96.0 - 31.128.127.255' is 'abuse@is.ua'
+
+inetnum:        31.128.96.0 - 31.128.127.255
+netname:        LINK-INFS-NET
+descr:          PP "Infoservis-link"
+country:        UA
+org:            ORG-ICPV1-RIPE
+admin-c:        GSO1-RIPE
+tech-c:         IVB18-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-by:         MNT-IS
+mnt-routes:     MNT-IS
+mnt-domains:    MNT-IS
+source:         RIPE # Filtered
+
+organisation:   ORG-ICPV1-RIPE
+org-name:       PP "Infoservis-Link"
+org-type:       OTHER
+address:        Infoservice, 14 Gvardeyskiy avenue Severodonetsk, Luganskiy region, Ukraine
+abuse-c:        AR19618-RIPE
+mnt-ref:        MNT-IS
+mnt-by:         MNT-IS
+source:         RIPE # Filtered
+
+person:         German G. Sokolovsky
+address:        Infoservice,
+address:        14 Gvardeyskiy avenue
+address:        Severodonetsk, Luganskiy region, Ukraine
+mnt-by:         MNT-GSO
+phone:          +380 64 5229941
+phone:          +380 64 5229941
+nic-hdl:        GSO1-RIPE
+source:         RIPE # Filtered
+
+person:         Igor V. Belikov
+address:        Severodonetsk, Ukraine
+mnt-by:         MNT-IVB
+phone:          +380 63 6006367
+phone:          +380 50 2182144
+phone:          +380 64 5228619
+nic-hdl:        IVB18-RIPE
+source:         RIPE # Filtered
+
+% Information related to '31.128.112.0/20AS35714'
+
+route:          31.128.112.0/20
+descr:          Infoservice network
+origin:         AS35714
+mnt-by:         MNT-IS
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DBC-WHOIS2)
+
+
