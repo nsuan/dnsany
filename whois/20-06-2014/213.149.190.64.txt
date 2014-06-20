@@ -1,0 +1,58 @@
+64.190.149.213.in-addr.arpa domain name pointer 213-190-64.static.cytanet.com.cy.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.149.190.0 - 213.149.191.255'
+
+% Abuse contact for '213.149.190.0 - 213.149.191.255' is 'abuse@cytanet.com.cy'
+
+inetnum:        213.149.190.0 - 213.149.191.255
+netname:        CYTANET
+descr:          Cyprus Telecommuncations Authority
+descr:          Internet Service Provider
+country:        CY
+admin-c:        CAS70-RIPE
+tech-c:         CAS70-RIPE
+remarks:        rev-srv:        ns1.cytanet.com.cy
+remarks:        rev-srv:        ns2.cytanet.com.cy
+status:         ASSIGNED PA
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:        +contact abuse@cytanet.com.cy for abuse,spam etc.+
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++++++
+mnt-by:         CYTANET-NOC
+source:         RIPE # Filtered
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+role:           Cytanet Administration Staff
+address:        P.O.Box 24929, CY-1396 Nicosia
+address:        Cyprus
+address:        see www.cytanet.com.cy
+address:        see www.cyta.com.cy
+admin-c:        CC1779-RIPE
+tech-c:         CC1779-RIPE
+nic-hdl:        CAS70-RIPE
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+remarks:        + contact abuse@cytanet.com.cy for criminal use, spam etc. +
+remarks:        ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+abuse-mailbox:  abuse@cytanet.com.cy
+mnt-by:         CYTANET-NOC
+source:         RIPE # Filtered
+
+% Information related to '213.149.176.0/20AS6866'
+
+route:          213.149.176.0/20
+descr:          CYTANET - Cyprus Telecommunications Authority
+origin:         AS6866
+remarks:        Multihomed Network
+mnt-by:         CYTANET-NOC
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-3)
+
+

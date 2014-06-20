@@ -1,0 +1,42 @@
+Host 145.50.51.210.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.51.50.128 - 210.51.50.159'
+
+inetnum:        210.51.50.128 - 210.51.50.159
+netname:        xinchen-technological-Ltd
+country:        cn
+descr:          shanghai city
+admin-c:        TC254-AP
+tech-c:         TC254-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        t-wangxy2@china-netcom.com 20021120
+mnt-by:         MAINT-CN-ZM28
+source:         APNIC
+
+person:         TECH GROUP CNC
+nic-hdl:        TC254-AP
+address:        9/F, Building A, Corporate Square, No. 35 Financial Street,
+address:        Xicheng District, Beijing 100032, P.R.China
+country:        CN
+phone:          +86-10-88093588
+fax-no:         +86-10-88091442
+e-mail:         abuse@cnc-noc.net
+mnt-by:         MAINT-CN-ZM28
+changed:        abuse@cnc-noc.net 20100714
+source:         APNIC
+
+% Information related to '210.51.0.0/16AS9929'
+
+route:          210.51.0.0/16
+descr:          CNC Group CncNet
+country:        CN
+origin:         AS9929
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20060330
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

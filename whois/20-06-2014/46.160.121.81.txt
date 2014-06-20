@@ -1,0 +1,44 @@
+81.121.160.46.in-addr.arpa domain name pointer 46.160.121.81.format-tv.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.160.96.0 - 46.160.127.255'
+
+% Abuse contact for '46.160.96.0 - 46.160.127.255' is 'abuse@maxnet.ua'
+
+inetnum:        46.160.96.0 - 46.160.127.255
+netname:        FORMAT-TV-NET-2
+descr:          MSP Format Ltd.
+country:        UA
+admin-c:        FA4288-RIPE
+tech-c:         FA4288-RIPE
+status:         ASSIGNED PA
+mnt-by:         FORMAT-TV-MNT
+mnt-routes:     FORMAT-TV-MNT
+mnt-domains:    FORMAT-TV-MNT
+source:         RIPE # Filtered
+
+person:         Format Admin
+address:        Ukraine Mariupol
+phone:          +380629422490
+nic-hdl:        FA4288-RIPE
+mnt-by:         FORMAT-TV-MNT
+source:         RIPE # Filtered
+
+% Information related to '46.160.121.0/24AS6712'
+
+route:          46.160.121.0/24
+descr:          Leased line ISP Format
+origin:         AS6712
+mnt-by:         FORMAT-TV-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-3)
+
+
