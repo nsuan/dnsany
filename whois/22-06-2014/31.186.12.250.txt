@@ -1,0 +1,60 @@
+Host 250.12.186.31.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.186.0.0 - 31.186.31.255'
+
+% Abuse contact for '31.186.0.0 - 31.186.31.255' is 'basak.tosun@turkticaret.net'
+
+inetnum:        31.186.0.0 - 31.186.31.255
+descr:          TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.
+netname:        TR-TURKTICARETNET
+country:        TR
+org:            ORG-TYHS1-RIPE
+admin-c:        RIPE-TT
+tech-c:         RIPE-TT
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      TURKTICARET-MNT
+mnt-routes:     TURKTICARET-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-TYHS1-RIPE
+org-name:       TURKTICARET.NET YAZILIM HIZMETLERI SAN. ve TIC. A.S.
+org-type:       LIR
+address:        ULUTEK ULUDAG UNIVERSITESI GORUKLE KAMPUSU A-BLOK KAT: 1
+address:        16059
+address:        GORUKLE / BURSA
+address:        Turkey
+phone:          +902242248640
+fax-no:         +902242249520
+abuse-c:        AR17401-RIPE
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-ref:        TURKTICARET-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+person:         Goksin Enki
+address:        ULUTEK ULUDAG UNIVERSITESI GORUKLE KAMPUSU A-BLOK KAT: 1
+phone:          +902242248640
+nic-hdl:        RIPE-TT
+mnt-by:         GE57801-MNT
+source:         RIPE # Filtered
+
+% Information related to '31.186.12.0/24AS197720'
+
+route:          31.186.12.0/24
+descr:          GRID-ROUTE
+origin:         AS197720
+mnt-by:         TURKTICARET-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-4)
+
+
