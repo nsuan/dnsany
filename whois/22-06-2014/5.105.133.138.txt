@@ -1,0 +1,56 @@
+138.133.105.5.in-addr.arpa domain name pointer 5-105-133-138.mytrinity.com.ua.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '5.105.128.0 - 5.105.255.255'
+
+% Abuse contact for '5.105.128.0 - 5.105.255.255' is 'abuse@mytrinity.com.ua'
+
+inetnum:        5.105.128.0 - 5.105.255.255
+netname:        UA-CDS
+descr:          Cifrovye Dispetcherskie Sistemy
+country:        UA
+admin-c:        MA13053-RIPE
+tech-c:         NCDS-RIPE
+status:         ASSIGNED PA
+mnt-by:         CDS-UA-MNT
+mnt-domains:    CDS-UA-MNT
+source:         RIPE # Filtered
+geoloc:         47.09632716598442 37.514405250549316
+
+role:           NOC the CDS
+address:        63 Gromovoj str., Mariupol, 87500, Ukraine
+phone:          +380 62 9512038
+fax-no:         +380 62 9512032
+abuse-mailbox:  abuse@mytrinity.com.ua
+admin-c:        VM3419-RIPE
+admin-c:        MA13053-RIPE
+tech-c:         MAD123-RIPE
+nic-hdl:        NCDS-RIPE
+source:         RIPE # Filtered
+mnt-by:         CDS-UA-MNT
+
+person:         Mikhail Alipa
+address:        Ukraine, Mariupol, 63 Gromovoj str.
+phone:          +380629512032
+nic-hdl:        MA13053-RIPE
+mnt-by:         MYTRINITY-MNT
+source:         RIPE # Filtered
+
+% Information related to '5.105.0.0/16AS43554'
+
+route:          5.105.0.0/16
+descr:          UA-CDS-UA-RIPE-20120628
+origin:         AS43554
+mnt-by:         CDS-UA-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-3)
+
+
