@@ -1,0 +1,63 @@
+Host 74.99.174.217.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '217.174.99.64 - 217.174.99.127'
+
+% Abuse contact for '217.174.99.64 - 217.174.99.127' is 'support@estt.ru'
+
+inetnum:        217.174.99.64 - 217.174.99.127
+netname:        CM-NET
+descr:          Cyril and Methodius
+descr:          Multimedia production
+descr:          Russia
+country:        RU
+admin-c:        VGL8-RIPE
+tech-c:         VAM16-RIPE
+status:         ASSIGNED PA
+mnt-by:         SUNET2000-MNT
+source:         RIPE # Filtered
+
+person:         Vladimir A Mironov
+address:        Ciril and Methodius
+address:        8, Prishvina st.
+address:        127549 Moscow Russia
+remarks:        phone:        +7 095 4060768
+phone:          +7 495 4060768
+remarks:        fax-no:       +7 095 4060768
+fax-no:         +7 495 4060768
+mnt-by:         SUNET2000-MNT
+nic-hdl:        VAM16-RIPE
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+person:         Vladimir G Laputin
+address:        Ciril and Methodius
+address:        8, Prishvina st.
+address:        127549 Moscow Russia
+remarks:        phone:        +7 095 4060768
+phone:          +7 495 4060768
+remarks:        fax-no:       +7 095 4060768
+fax-no:         +7 495 4060768
+mnt-by:         SUNET2000-MNT
+nic-hdl:        VGL8-RIPE
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+% Information related to '217.174.96.0/21AS20655'
+
+route:          217.174.96.0/21
+descr:          E-Style ISP
+origin:         AS20655
+mnt-by:         SUNET2000-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-1)
+
+
