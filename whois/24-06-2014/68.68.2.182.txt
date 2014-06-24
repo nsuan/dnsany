@@ -1,0 +1,71 @@
+182.2.68.68.in-addr.arpa domain name pointer 68-68-2-182.applecreek.pathcom.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=68.68.2.182?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       68.68.0.0 - 68.68.15.255
+CIDR:           68.68.0.0/20
+OriginAS:       
+NetName:        PATHCOMM-5
+NetHandle:      NET-68-68-0-0-1
+Parent:         NET-68-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-04-14
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-68-68-0-0-1
+
+OrgName:        Pathway Communications
+OrgId:          PATH
+Address:        95 Apple Creek Blvd
+City:           Markham
+StateProv:      ON
+PostalCode:     L3R-1C7
+Country:        CA
+RegDate:        
+Updated:        2014-03-11
+Ref:            http://whois.arin.net/rest/org/PATH
+
+OrgAbuseHandle: ABUSE909-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +1-416-214-6363 
+OrgAbuseEmail:  abuse@pathcom.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE909-ARIN
+
+OrgNOCHandle: ZZ32-ARIN
+OrgNOCName:   IP Administrator
+OrgNOCPhone:  +1-416-214-6363 
+OrgNOCEmail:  ipadmin@pathcom.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ZZ32-ARIN
+
+OrgTechHandle: ZZ32-ARIN
+OrgTechName:   IP Administrator
+OrgTechPhone:  +1-416-214-6363 
+OrgTechEmail:  ipadmin@pathcom.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ZZ32-ARIN
+
+RAbuseHandle: ABUSE909-ARIN
+RAbuseName:   Abuse Contact
+RAbusePhone:  +1-416-214-6363 
+RAbuseEmail:  abuse@pathcom.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE909-ARIN
+
+RTechHandle: ZZ32-ARIN
+RTechName:   IP Administrator
+RTechPhone:  +1-416-214-6363 
+RTechEmail:  ipadmin@pathcom.com
+RTechRef:    http://whois.arin.net/rest/poc/ZZ32-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
