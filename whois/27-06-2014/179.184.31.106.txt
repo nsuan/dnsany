@@ -1,0 +1,49 @@
+106.31.184.179.in-addr.arpa domain name pointer cedaspy.static.gvt.net.br.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-06-27 01:03:46 (BRT -03:00)
+
+inetnum:     179.184.31.104/29
+aut-num:     AS18881
+abuse-c:     GOI
+owner:       CEDASPY CENTRO DE EDUCACAO PROFISSIONAL
+ownerid:     080.302.656/0001-06
+responsible: Jose Roberto Paes
+country:     BR
+owner-c:     JRP2
+tech-c:      JRP2
+created:     20130917
+changed:     20130917
+inetnum-up:  179.184/14
+
+nic-hdl-br:  GOI
+person:      GVT - Operacoes Internet
+e-mail:      abuse@gvt.com.br
+created:     20050112
+changed:     20110222
+
+nic-hdl-br:  JRP2
+person:      Jose Roberto Paes
+e-mail:      celso@cedaspy.com.br
+created:     19980114
+changed:     20110317
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+
