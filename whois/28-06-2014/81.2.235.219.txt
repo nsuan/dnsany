@@ -1,0 +1,72 @@
+219.235.2.81.in-addr.arpa domain name pointer 219.235.forpsi.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '81.2.233.0 - 81.2.235.255'
+
+% Abuse contact for '81.2.233.0 - 81.2.235.255' is 'abuse@forpsi.com'
+
+inetnum:        81.2.233.0 - 81.2.235.255
+netname:        FORPSICLOUD-CZ
+descr:          INTERNET CZ - Cloud Services Farm3
+country:        CZ
+admin-c:        ES4377-RIPE
+tech-c:         PK677-RIPE
+tech-c:         RADA-RIPE
+status:         ASSIGNED PA
+mnt-by:         INTERNET-CZ-MNT
+source:         RIPE # Filtered
+
+person:         Erich Syrovatka
+address:        INTERNET CZ, a.s.
+address:        Ktis 2
+address:        Ktis
+address:        384 03
+address:        CZ
+phone:          +420 383835353
+abuse-mailbox:  abuse@forpsi.com
+nic-hdl:        ES4377-RIPE
+mnt-by:         INTERNET-CZ-MNT
+source:         RIPE # Filtered
+
+person:         Petr Kolonicz
+address:        INTERNET CZ,a.s.
+address:        Ktis2
+address:        Ktis
+address:        38403
+address:        cz
+phone:          +420 383835353
+abuse-mailbox:  abuse@forpsi.com
+nic-hdl:        PK677-RIPE
+mnt-by:         INTERNET-CZ-MNT
+source:         RIPE # Filtered
+
+person:         Michal Rada
+address:        FORPSI www.forpsi.com
+                INTERNET CZ, a.s.
+                Ktis 2
+                384 03 Ktis
+                Czech Republic
+phone:          +420 383835353
+abuse-mailbox:  abuse@forpsi.com
+nic-hdl:        RADA-RIPE
+mnt-by:         RADA-RIPE-MNT
+source:         RIPE # Filtered
+
+% Information related to '81.2.192.0/18AS24806'
+
+route:          81.2.192.0/18
+descr:          INTERNET CZ, a.s.
+origin:         AS24806
+mnt-by:         INTERNET-CZ-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-2)
+
+

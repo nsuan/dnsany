@@ -1,0 +1,58 @@
+Host 42.235.70.114.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '114.70.0.0 - 114.71.255.255'
+
+inetnum:        114.70.0.0 - 114.71.255.255
+netname:        KREN
+descr:          Korean Education Network
+descr:          San56-1 Sillim9-dong, Gwanak-gu
+descr:          ********************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          http://whois.nic.or.kr/english/index.htm
+descr:          ********************************
+country:        KR
+admin-c:        SK247-AP
+tech-c:         SK247-AP
+status:         Allocated Portable
+remarks:        www.kren.ne.kr
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20080514
+source:         APNIC
+
+person:         Sujung Kim
+nic-hdl:        SK247-AP
+e-mail:         kren@snu.ac.kr
+address:        KREN, Seoul National University, San 56-1, Sillim-9dong, Kwanak-gu, Seoul
+phone:          +82-2-880-5364
+fax-no:         +82-2-873-7484
+country:        KR
+changed:        hostmaster@nic.or.kr 20040315
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+% Information related to '114.70.0.0 - 114.71.255.255'
+
+inetnum:        114.70.0.0 - 114.71.255.255
+netname:        KREN-KR
+descr:          Korean Education Network
+country:        KR
+admin-c:        IA142-KR
+tech-c:         IM142-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+
