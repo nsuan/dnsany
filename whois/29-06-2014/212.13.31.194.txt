@@ -1,0 +1,89 @@
+Host 194.31.13.212.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.13.24.0 - 212.13.31.255'
+
+% Abuse contact for '212.13.24.0 - 212.13.31.255' is 'info@adtel.ru'
+
+inetnum:        212.13.24.0 - 212.13.31.255
+netname:        MCOMM-NET
+org:            ORG-JAT3-RIPE
+descr:          JSC ADVANTAGE TELECOM
+country:        RU
+admin-c:        SAY28-RIPE
+tech-c:         SAY28-RIPE
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+mnt-by:         ADTEL-MNT
+mnt-lower:      ADTEL-MNT
+mnt-routes:     ADTEL-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-JAT3-RIPE
+org-name:       CJSC ADVANTAGE TELECOM
+org-type:       LIR
+address:        CJSC ADVANTAGE TELECOM
+address:        Fedor  Zotov
+address:        12, Oboronnaya str.
+address:        141800
+address:        Dmitrov, Moscow Region
+address:        RUSSIAN FEDERATION
+phone:          +74957273755
+fax-no:         +74957273755
+abuse-c:        AR16541-RIPE
+abuse-mailbox:  abuse@adtel.ru
+mnt-ref:        ADTEL-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+admin-c:        SAY28-RIPE
+
+person:         Andrey Y. Silvestrov
+address:        CJSC ADVANTAGE TELECOM
+address:        12, Oboronnaya st.
+address:        141800, Dmitrov, Moscow Region
+mnt-by:         ADTEL-MNT
+org:            ORG-JAT3-RIPE
+abuse-mailbox:  abuse@adtel.ru
+phone:          +7 495 7273755
+nic-hdl:        SAY28-RIPE
+source:         RIPE # Filtered
+
+% Information related to '212.13.0.0/19AS38964'
+
+route:          212.13.0.0/19
+descr:          CJSC Advatage Telecom
+org:            ORG-JAT3-RIPE
+origin:         AS38964
+mnt-by:         ADTEL-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-JAT3-RIPE
+org-name:       CJSC ADVANTAGE TELECOM
+org-type:       LIR
+address:        CJSC ADVANTAGE TELECOM
+address:        Fedor  Zotov
+address:        12, Oboronnaya str.
+address:        141800
+address:        Dmitrov, Moscow Region
+address:        RUSSIAN FEDERATION
+phone:          +74957273755
+fax-no:         +74957273755
+abuse-c:        AR16541-RIPE
+abuse-mailbox:  abuse@adtel.ru
+mnt-ref:        ADTEL-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+admin-c:        SAY28-RIPE
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-3)
+
+
