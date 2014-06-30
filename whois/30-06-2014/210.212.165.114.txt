@@ -1,0 +1,131 @@
+Host 114.165.212.210.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.212.165.112 - 210.212.165.127'
+
+inetnum:        210.212.165.112 - 210.212.165.127
+netname:        BVG-India-2
+descr:          BVG India LTD
+descr:          second floor
+descr:          chest hospital aundh
+descr:
+admin-c:        RR670-AP
+tech-c:         RR671-AP
+country:        IN
+admin-c:        NIP13-AP
+admin-c:        NC83-AP
+tech-c:         CDN1-AP
+mnt-by:         MAINT-IN-DOT
+mnt-irt:        IRT-BSNL-IN
+status:         ASSIGNED NON-PORTABLE
+changed:        dnw_jtotech@bsnl.in 20131024
+source:         APNIC
+
+irt:            IRT-BSNL-IN
+address:        Internet Cell
+address:        Bharat Sanchar Nigam Limited
+address:        8th Floor,148-B Statesman House
+address:        Barakhamba Road, New Delhi - 110 001
+e-mail:         abuse@bsnl.in
+abuse-mailbox:  abuse@bsnl.in
+admin-c:        NC83-AP
+tech-c:         CGMD1-AP
+auth:           # Filtered
+mnt-by:         MAINT-IN-DOT
+changed:        abuse@bsnl.in 20101111
+changed:        hm-changed@apnic.net 20101112
+source:         APNIC
+
+role:           CGM Data Networks
+address:        CTS Compound
+address:        Netaji Nagar
+address:        New Delhi- 110 023
+country:        IN
+phone:          +91-11-24106782
+phone:          +91-11-24102119
+fax-no:         +91-11-26116783
+fax-no:         +91-11-26887888
+e-mail:         dnwplg@bsnl.in
+e-mail:         hostmaster@bsnl.in
+admin-c:        CGMD1-AP
+tech-c:         DT197-AP
+tech-c:         BH155-AP
+nic-hdl:        CDN1-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20030120
+changed:        hm-changed@apnic.net 20071227
+source:         APNIC
+
+role:           NS Cell
+address:        Internet Cell
+address:        Bharat Sanchar Nigam Limited
+address:        8th Floor,148-B Statesman House
+address:        Barakhamba Road, New Delhi - 110 001
+country:        IN
+phone:          +91-11-23734057
+phone:          +91-11-23710183
+fax-no:         +91-11-23734052
+e-mail:         hostmaster@bsnl.in
+e-mail:         abuse@bsnl.in
+admin-c:        CGMD1-AP
+tech-c:         DT197-AP
+nic-hdl:        NC83-AP
+mnt-by:         MAINT-IN-DOT
+changed:        dnwplg@sancharnet.in 20030120
+changed:        hm-changed@apnic.net 20071227
+source:         APNIC
+
+person:         Node Incharge PUNE
+nic-hdl:        NIP13-AP
+address:        NIB PUNE
+address:        2nd Floor,MHS Bhavan,Pune-411001
+phone:          +91-020-6354100
+fax-no:         +91-020-6361212
+country:        IN
+e-mail:         nib_pune@sancharnet.in
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnwplg@sancharnet.in 20030716
+source:         APNIC
+
+person:         Rajan Rajan
+nic-hdl:        RR670-AP
+address:        second floor
+address:        chest hospital aundh
+address:
+phone:          +91-9689633326
+fax-no:         +91-20-26361111
+country:        IN
+e-mail:         smadhusoodan@gmail.com
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnw_jtotech@bsnl.in 20131023
+source:         APNIC
+
+person:         Rajan Rajan
+nic-hdl:        RR671-AP
+address:        second floor
+address:        chest hospital aundh
+address:
+phone:          +91-9689633326
+fax-no:         +91-20-26361111
+country:        IN
+e-mail:         smadhusoodan@gmail.com
+mnt-by:         MAINT-IN-PER-DOT
+changed:        dnw_jtotech@bsnl.in 20131023
+source:         APNIC
+
+% Information related to '210.212.160.0/20AS9829'
+
+route:          210.212.160.0/20
+descr:          BSNL Internet
+country:        IN
+origin:         AS9829
+mnt-lower:      MAINT-IN-DOT
+mnt-routes:     MAINT-IN-DOT
+mnt-by:         MAINT-IN-AS9829
+changed:        routemaster@sancharnet.in 20060404
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

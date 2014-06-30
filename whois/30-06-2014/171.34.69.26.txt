@@ -1,0 +1,70 @@
+;; connection timed out; no servers could be reached
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '171.34.0.0 - 171.35.255.255'
+
+inetnum:        171.34.0.0 - 171.35.255.255
+netname:        UNICOM-JX
+descr:          CHINA UNICOM Jiangxi Province Network
+descr:          China Unicom
+descr:          No.21, Jin-Rong Street
+descr:          Beijing 100033
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-JX
+mnt-routes:     MAINT-CNCGROUP-RR
+mnt-irt:        IRT-CU-CN
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20110304
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+% Information related to '171.34.0.0/15AS4837'
+
+route:          171.34.0.0/15
+descr:          China Unicom Jiangxi Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20110323
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+
