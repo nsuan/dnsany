@@ -1,0 +1,53 @@
+Host 122.123.227.220.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '220.227.0.0 - 220.227.255.255'
+
+inetnum:        220.227.0.0 - 220.227.255.255
+netname:        RCOM-STATIC-DIA
+descr:          RCOM-STATIC-DIA
+country:        IN
+admin-c:        AH406-AP
+tech-c:         AH406-AP
+status:         Allocated NON-PORTABLE
+mnt-by:         MAINT-IN-SN
+changed:        antiabuse.support@relianceada.com 20101025
+source:         APNIC
+
+role:           Antiabuse Helpdesk
+address:        Reliance Communication Ltd
+address:        Antiabuse Helpdesk, 2nd Floor,
+address:        International Area , A Block
+address:        Dhirubai Ambani Knowledge City,
+address:        Thane Belapur Road, KoparKhairane,
+address:        Navi Mumbai - 400710
+country:        IN
+phone:          +91-22-30334141-5
+fax-no:         +91-22-30334949
+e-mail:         antiabuse.support@relianceada.com
+remarks:        Send spam & abuse Reports
+remarks:        include detailed information & time
+remarks:        to antiabuse.support@relianceada.com
+admin-c:        IH158-AP
+tech-c:         AH405-AP
+nic-hdl:        AH406-AP
+notify:         antiabuse.support@relianceada.com
+mnt-by:         MAINT-IN-SN
+changed:        antiabuse.support@relianceada.com 20080506
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+% Information related to '220.227.0.0/16AS18101'
+
+route:          220.227.0.0/16
+descr:          Reliance Infocom Ltd Internet Data Centre
+origin:         AS18101
+mnt-by:         MAINT-IN-SN
+changed:        ip.nnoc@relianceinfo.com 20050906
+source:         APNIC
+country:        IN
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

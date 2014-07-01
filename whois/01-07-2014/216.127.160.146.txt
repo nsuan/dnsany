@@ -1,0 +1,77 @@
+146.160.127.216.in-addr.arpa domain name pointer 146-79-44-72-dedicated.multacom.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=216.127.160.146?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       216.127.160.0 - 216.127.191.255
+CIDR:           216.127.160.0/19
+OriginAS:       AS35916
+NetName:        MULTA-NET6
+NetHandle:      NET-216-127-160-0-1
+Parent:         NET-216-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2008-07-07
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-216-127-160-0-1
+
+OrgName:        MULTACOM CORPORATION
+OrgId:          MULTA
+Address:        16654 Soledad Canyon Rd #150
+City:           Canyon Country
+StateProv:      CA
+PostalCode:     91387
+Country:        US
+RegDate:        2005-03-23
+Updated:        2009-09-10
+Ref:            http://whois.arin.net/rest/org/MULTA
+
+ReferralServer: rwhois://rwhois.multacom.com:4321/
+
+OrgTechHandle: NOC1793-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-661-977-9436 
+OrgTechEmail:  noc@multacom.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC1793-ARIN
+
+OrgAbuseHandle: ABUSE898-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-661-554-0287 
+OrgAbuseEmail:  abuse@multacom.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE898-ARIN
+
+RTechHandle: NOC1793-ARIN
+RTechName:   Network Operations Center
+RTechPhone:  +1-661-977-9436 
+RTechEmail:  noc@multacom.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC1793-ARIN
+
+RAbuseHandle: ABUSE898-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-661-554-0287 
+RAbuseEmail:  abuse@multacom.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE898-ARIN
+
+RNOCHandle: NOC1793-ARIN
+RNOCName:   Network Operations Center
+RNOCPhone:  +1-661-977-9436 
+RNOCEmail:  noc@multacom.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC1793-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.multacom.com:4321.
+

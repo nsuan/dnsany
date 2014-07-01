@@ -1,0 +1,171 @@
+Host 248.52.251.64.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=64.251.52.248?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       64.251.52.192 - 64.251.52.255
+CIDR:           64.251.52.192/26
+OriginAS:       
+NetName:        CTEDNET-BRIDGEPORT-PUBLIC-SCHOOLS
+NetHandle:      NET-64-251-52-192-1
+Parent:         NET-64-251-48-0-1
+NetType:        Reassigned
+RegDate:        2004-09-13
+Updated:        2004-09-13
+Ref:            http://whois.arin.net/rest/net/NET-64-251-52-192-1
+
+CustName:       Bridgeport Public Schools
+Address:        45 Lyon Terrace
+City:           Bridgeport
+StateProv:      CT
+PostalCode:     06604
+Country:        US
+RegDate:        2004-09-13
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C00907084
+
+OrgTechHandle: MSP106-ARIN
+OrgTechName:   Pennington, Michael S
+OrgTechPhone:  +1-860-622-2078 
+OrgTechEmail:  Michael.Pennington@uconn.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/MSP106-ARIN
+
+OrgTechHandle: CARCA14-ARIN
+OrgTechName:   Carcano, Raymond 
+OrgTechPhone:  +1-860-622-4564 
+OrgTechEmail:  ray.carcano@uconn.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/CARCA14-ARIN
+
+OrgTechHandle: BROCH4-ARIN
+OrgTechName:   Brochu, Mark 
+OrgTechPhone:  +1-860-622-4567 
+OrgTechEmail:  mark.brochu@uconn.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/BROCH4-ARIN
+
+OrgNOCHandle: BROCH4-ARIN
+OrgNOCName:   Brochu, Mark 
+OrgNOCPhone:  +1-860-622-4567 
+OrgNOCEmail:  mark.brochu@uconn.edu
+OrgNOCRef:    http://whois.arin.net/rest/poc/BROCH4-ARIN
+
+OrgAbuseHandle: MSP106-ARIN
+OrgAbuseName:   Pennington, Michael S
+OrgAbusePhone:  +1-860-622-2078 
+OrgAbuseEmail:  Michael.Pennington@uconn.edu
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MSP106-ARIN
+
+OrgAbuseHandle: BROCH4-ARIN
+OrgAbuseName:   Brochu, Mark 
+OrgAbusePhone:  +1-860-622-4567 
+OrgAbuseEmail:  mark.brochu@uconn.edu
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BROCH4-ARIN
+
+OrgNOCHandle: MSP106-ARIN
+OrgNOCName:   Pennington, Michael S
+OrgNOCPhone:  +1-860-622-2078 
+OrgNOCEmail:  Michael.Pennington@uconn.edu
+OrgNOCRef:    http://whois.arin.net/rest/poc/MSP106-ARIN
+
+RAbuseHandle: ABUSE2642-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-860-622-2991 
+RAbuseEmail:  abuse@cteducation.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2642-ARIN
+
+# end
+
+
+# start
+
+NetRange:       64.251.48.0 - 64.251.63.255
+CIDR:           64.251.48.0/20
+OriginAS:       
+NetName:        CONNECTICUTEDUCATIONNETWORK
+NetHandle:      NET-64-251-48-0-1
+Parent:         NET-64-0-0-0-0
+NetType:        Direct Allocation
+Comment:        State of Connecticut Connecticut Education Network
+RegDate:        2003-07-03
+Updated:        2014-03-06
+Ref:            http://whois.arin.net/rest/net/NET-64-251-48-0-1
+
+OrgName:        State of Connecticut
+OrgId:          SCDI-3
+Address:        Connecticut Education Network
+Address:        101 East River Drive
+City:           East Hartford
+StateProv:      CT
+PostalCode:     06108
+Country:        US
+RegDate:        2001-11-14
+Updated:        2014-02-24
+Ref:            http://whois.arin.net/rest/org/SCDI-3
+
+OrgTechHandle: MSP106-ARIN
+OrgTechName:   Pennington, Michael S
+OrgTechPhone:  +1-860-622-2078 
+OrgTechEmail:  Michael.Pennington@uconn.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/MSP106-ARIN
+
+OrgTechHandle: CARCA14-ARIN
+OrgTechName:   Carcano, Raymond 
+OrgTechPhone:  +1-860-622-4564 
+OrgTechEmail:  ray.carcano@uconn.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/CARCA14-ARIN
+
+OrgTechHandle: BROCH4-ARIN
+OrgTechName:   Brochu, Mark 
+OrgTechPhone:  +1-860-622-4567 
+OrgTechEmail:  mark.brochu@uconn.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/BROCH4-ARIN
+
+OrgNOCHandle: BROCH4-ARIN
+OrgNOCName:   Brochu, Mark 
+OrgNOCPhone:  +1-860-622-4567 
+OrgNOCEmail:  mark.brochu@uconn.edu
+OrgNOCRef:    http://whois.arin.net/rest/poc/BROCH4-ARIN
+
+OrgAbuseHandle: MSP106-ARIN
+OrgAbuseName:   Pennington, Michael S
+OrgAbusePhone:  +1-860-622-2078 
+OrgAbuseEmail:  Michael.Pennington@uconn.edu
+OrgAbuseRef:    http://whois.arin.net/rest/poc/MSP106-ARIN
+
+OrgAbuseHandle: BROCH4-ARIN
+OrgAbuseName:   Brochu, Mark 
+OrgAbusePhone:  +1-860-622-4567 
+OrgAbuseEmail:  mark.brochu@uconn.edu
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BROCH4-ARIN
+
+OrgNOCHandle: MSP106-ARIN
+OrgNOCName:   Pennington, Michael S
+OrgNOCPhone:  +1-860-622-2078 
+OrgNOCEmail:  Michael.Pennington@uconn.edu
+OrgNOCRef:    http://whois.arin.net/rest/poc/MSP106-ARIN
+
+RAbuseHandle: ABUSE2642-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-860-622-2991 
+RAbuseEmail:  abuse@cteducation.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2642-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
