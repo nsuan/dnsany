@@ -1,0 +1,60 @@
+184.194.170.217.in-addr.arpa domain name pointer vps-1004553-850.stwadmin.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '217.170.192.0 - 217.170.207.255'
+
+% Abuse contact for '217.170.192.0 - 217.170.207.255' is 'fredrik@servetheworld.net'
+
+inetnum:        217.170.192.0 - 217.170.207.255
+netname:        NO-SERVETHEWORLD-20090211
+descr:          ServeTheWorld AS
+country:        NO
+org:            ORG-SA680-RIPE
+admin-c:        FR473-RIPE
+tech-c:         FR473-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      SERVETHEWORLD-MNT
+mnt-routes:     SERVETHEWORLD-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-SA680-RIPE
+org-name:       ServeTheWorld AS
+org-type:       LIR
+address:        ServeTheWorld AS
+address:        Tvetenveien 152
+address:        0671 Oslo
+address:        NO
+abuse-c:        AR16358-RIPE
+mnt-ref:        SERVETHEWORLD-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+person:         Fredrik Rovik
+address:        ServeTheWorld AS
+address:        Tvetenveien 152
+address:        N-0585 Oslo
+phone:          +47 22 22 28 80
+fax-no:         +47 22 22 28 81
+nic-hdl:        FR473-RIPE
+source:         RIPE # Filtered
+
+% Information related to '217.170.192.0/20AS34989'
+
+route:          217.170.192.0/20
+descr:          NO-SERVETHEWORLD
+origin:         AS34989
+mnt-by:         FASTHOST-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-2)
+
+

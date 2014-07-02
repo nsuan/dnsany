@@ -1,0 +1,66 @@
+Host 6.91.9.103.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.9.88.0 - 103.9.91.255'
+
+inetnum:        103.9.88.0 - 103.9.91.255
+netname:        COMTEL-NET
+descr:          Mongolia
+descr:          Teeverchdiin gudamj #2
+descr:          Jon Bees Comtel Head office
+country:        MN
+admin-c:        CLNA4-AP
+tech-c:         CLNA4-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-COMTEL-NET-MN
+mnt-routes:     MAINT-COMTEL-NET-MN
+mnt-irt:        IRT-COMTEL-NET-MN
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20120510
+source:         APNIC
+
+irt:            IRT-COMTEL-NET-MN
+address:        Mongolia Comtel LLC
+e-mail:         batjargal@comtel.mn
+abuse-mailbox:  batjargal@comtel.mn
+admin-c:        CLNA4-AP
+tech-c:         CLNA4-AP
+auth:           # Filtered
+mnt-by:         MAINT-COMTEL-NET-MN
+changed:        hm-changed@apnic.net 20120510
+source:         APNIC
+
+role:           COMTEL LLC - network administrator
+address:        Mongolia Comtel LLC
+country:        MN
+phone:          +976-93119933
+fax-no:         +976-21-250005
+e-mail:         batjargal@comtel.mn
+admin-c:        CLNA4-AP
+tech-c:         CLNA4-AP
+nic-hdl:        CLNA4-AP
+mnt-by:         MAINT-COMTEL-NET-MN
+changed:        hm-changed@apnic.net 20120510
+source:         APNIC
+
+% Information related to '103.9.91.0/24AS58598'
+
+route:          103.9.91.0/24
+descr:          4th /24 network
+origin:         AS58598
+mnt-lower:      MAINT-COMTEL-NET-MN
+mnt-routes:     MAINT-COMTEL-NET-MN
+mnt-by:         MAINT-COMTEL-NET-MN
+changed:        bayanmunkh@comtel.mn 20120514
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

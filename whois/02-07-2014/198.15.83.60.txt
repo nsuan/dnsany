@@ -1,0 +1,151 @@
+60.83.15.198.in-addr.arpa domain name pointer dns1.nitmark.com.br.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=198.15.83.60?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       198.15.64.0 - 198.15.127.255
+CIDR:           198.15.64.0/18
+OriginAS:       AS20454
+NetName:        SECURED-SERVERS
+NetHandle:      NET-198-15-64-0-1
+Parent:         NET-198-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2012-07-20
+Updated:        2013-07-26
+Ref:            http://whois.arin.net/rest/net/NET-198-15-64-0-1
+
+OrgName:        SECURED SERVERS LLC
+OrgId:          SSL-65
+Address:        2353 W University Bldg A
+City:           Tempe
+StateProv:      AZ
+PostalCode:     85281
+Country:        US
+RegDate:        2003-12-08
+Updated:        2012-03-13
+Ref:            http://whois.arin.net/rest/org/SSL-65
+
+ReferralServer: rwhois://rwhois.securedservers.com:4321
+
+OrgTechHandle: IPADM294-ARIN
+OrgTechName:   IPADMIN
+OrgTechPhone:  +1-480-422-2031 
+OrgTechEmail:  ipadmin@securedservers.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADM294-ARIN
+
+OrgAbuseHandle: ABUSE1536-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-422-2022 
+OrgAbuseEmail:  abuse@securedservers.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1536-ARIN
+
+RNOCHandle: ADMIN2171-ARIN
+RNOCName:   ADMIN
+RNOCPhone:  +1-480-449-7750 
+RNOCEmail:  support@securedservers.com
+RNOCRef:    http://whois.arin.net/rest/poc/ADMIN2171-ARIN
+
+RAbuseHandle: ABUSE1536-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-480-422-2022 
+RAbuseEmail:  abuse@securedservers.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1536-ARIN
+
+RTechHandle: IPADM294-ARIN
+RTechName:   IPADMIN
+RTechPhone:  +1-480-422-2031 
+RTechEmail:  ipadmin@securedservers.com
+RTechRef:    http://whois.arin.net/rest/poc/IPADM294-ARIN
+
+# end
+
+
+# start
+
+NetRange:       198.15.83.32 - 198.15.83.63
+CIDR:           198.15.83.32/27
+OriginAS:       
+NetName:        CIANET-BRASIL-NETWORK
+NetHandle:      NET-198-15-83-32-1
+Parent:         NET-198-15-64-0-1
+NetType:        Reassigned
+RegDate:        2012-09-19
+Updated:        2012-09-19
+Ref:            http://whois.arin.net/rest/net/NET-198-15-83-32-1
+
+OrgName:        Cianet Brasil Servicos de Internet
+OrgId:          CBSI-6
+Address:        Rua Madre Cristina Vlastink N 249
+City:           Assu
+StateProv:      RIO GRANDE DO NORTE
+PostalCode:     59650-000
+Country:        BR
+RegDate:        2012-09-19
+Updated:        2012-09-19
+Ref:            http://whois.arin.net/rest/org/CBSI-6
+
+OrgTechHandle: JARLI-ARIN
+OrgTechName:   Jarlino, Alves 
+OrgTechPhone:  +5584 33362303 
+OrgTechEmail:  abuse@linkbit.com.br
+OrgTechRef:    http://whois.arin.net/rest/poc/JARLI-ARIN
+
+OrgAbuseHandle: JARLI-ARIN
+OrgAbuseName:   Jarlino, Alves 
+OrgAbusePhone:  +5584 33362303 
+OrgAbuseEmail:  abuse@linkbit.com.br
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JARLI-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.securedservers.com:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 portal.securedservers.com (Ubersmith RWhois Server V-3.1.3)
+autharea=198.15.64.0/18
+xautharea=198.15.64.0/18
+network:Class-Name:network
+network:Auth-Area:198.15.64.0/18
+network:ID:NET-28904.198.15.83.32/27
+network:Network-Name:Public
+network:IP-Network:198.15.83.32/27
+network:IP-Network-Block:198.15.83.32 - 198.15.83.63
+network:Org-Name:Cianet Brasil
+network:Street-Address:Senador Joao Camara,9
+network:City:Sao Rafael
+network:State:RN
+network:Postal-Code:59518-000
+network:Country-Code:BR
+network:Tech-Contact:MAINT-28904.198.15.83.32/27
+network:Created:20120816045225000
+network:Updated:20131208161348000
+network:Updated-By:dnsadmin@securedservers.com
+contact:POC-Name:DNS Administrator
+contact:POC-Email:dnsadmin@securedservers.com
+contact:POC-Phone:(480) 422-2023
+contact:Tech-Name:DNS Administrator
+contact:Tech-Email:dnsadmin@securedservers.com
+contact:Tech-Phone:(480) 422-2023
+contact:Abuse-Name:Abuse
+contact:Abuse-Email:abuse@securedservers.com
+contact:Abuse-Phone:+1-480-422-2022 (Office)
+%ok
