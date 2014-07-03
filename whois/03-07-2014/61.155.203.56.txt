@@ -1,0 +1,72 @@
+Host 56.203.155.61.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.155.0.0 - 61.155.255.255'
+
+inetnum:        61.155.0.0 - 61.155.255.255
+netname:        CHINANET-JS
+descr:          CHINANET jiangsu province network
+descr:          China Telecom
+descr:          A12,Xin-Jie-Kou-Wai Street
+descr:          Beijing 100088
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CJ186-AP
+mnt-by:         MAINT-CHINANET
+mnt-lower:      MAINT-CHINANET-JS
+mnt-routes:     maint-chinanet-js
+changed:        hostmaster@ns.chinanet.cn.net 20020209
+changed:        hostmaster@ns.chinanet.cn.net 20030306
+status:         ALLOCATED non-PORTABLE
+source:         APNIC
+
+role:           CHINANET JIANGSU
+address:        260 Zhongyang Road,Nanjing 210037
+country:        CN
+phone:          +86-25-86588231
+phone:          +86-25-86588745
+fax-no:         +86-25-86588104
+e-mail:         ip@jsinfo.net
+remarks:        send anti-spam reports to spam@jsinfo.net
+remarks:        send abuse reports to abuse@jsinfo.net
+remarks:        times in GMT+8
+admin-c:        CH360-AP
+tech-c:         CS306-AP
+tech-c:         CN142-AP
+nic-hdl:        CJ186-AP
+remarks:        www.jsinfo.net
+notify:         ip@jsinfo.net
+mnt-by:         MAINT-CHINANET-JS
+changed:        dns@jsinfo.net 20090831
+changed:        ip@jsinfo.net 20090831
+changed:        hm-changed@apnic.net 20090901
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% Information related to '61.155.0.0/16AS23650'
+
+route:          61.155.0.0/16
+descr:          CHINANET jiangsu province network
+country:        CN
+origin:         AS23650
+mnt-by:         MAINT-CHINANET-JS
+changed:        ip@jsinfo.net 20030414
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+
