@@ -1,0 +1,48 @@
+Host 147.250.224.122.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '122.224.250.144 - 122.224.250.151'
+
+inetnum:        122.224.250.144 - 122.224.250.151
+netname:        HZ-TECHNOLOGY
+country:        CN
+descr:          Yu Technology Co., Ltd. Hangzhou Tibet
+descr:
+admin-c:        YY1634-AP
+tech-c:         CH122-AP
+status:         ASSIGNED NON-PORTABLE
+changed:        auto-dbm@dcb.hz.zj.cn 20100512
+mnt-by:         MAINT-CN-CHINANET-ZJ-HZ
+source:         APNIC
+
+role:           CHINANET-ZJ Hangzhou
+address:        No.352 Tiyuchang Road,Hangzhou,Zhejiang.310003
+country:        CN
+phone:          +86-571-85157929
+fax-no:         +86-571-85102776
+e-mail:         anti_spam@mail.hz.zj.cn
+remarks:        send spam reports to anti_spam@mail.hz.zj.cn
+remarks:        and abuse reports to anti_spam@mail.hz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH54-AP
+tech-c:         CH54-AP
+nic-hdl:        CH122-AP
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        master@dcb.hz.zj.cn 20031204
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Ye yu
+nic-hdl:        YY1634-AP
+e-mail:         18958977908@189.cn
+address:        Hangzhou,Zhejiang.Postcode:310000
+phone:          +86-13606702515
+country:        CN
+changed:        auto-dbm@dcb.hz.zj.cn 20100429
+mnt-by:         MAINT-CN-CHINANET-ZJ-HZ
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

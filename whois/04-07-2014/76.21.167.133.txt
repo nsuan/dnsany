@@ -1,0 +1,53 @@
+133.167.21.76.in-addr.arpa domain name pointer c-76-21-167-133.hsd1.md.comcast.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=76.21.167.133?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       76.16.0.0 - 76.31.255.255
+CIDR:           76.16.0.0/12
+OriginAS:       
+NetName:        WESTERN-1
+NetHandle:      NET-76-16-0-0-1
+Parent:         NET-76-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2006-06-28
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-76-16-0-0-1
+
+OrgName:        Comcast Cable Communications, Inc.
+OrgId:          CMCS
+Address:        1800 Bishops Gate Blvd
+City:           Mt Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2001-11-29
+Updated:        2009-11-06
+Ref:            http://whois.arin.net/rest/org/CMCS
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
