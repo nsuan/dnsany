@@ -1,0 +1,61 @@
+168.4.18.103.in-addr.arpa domain name pointer v103-18-4-168.myvps.vn.4.18.103.in-addr.arpa.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.18.4.0 - 103.18.7.255'
+
+inetnum:        103.18.4.0 - 103.18.7.255
+netname:        RUNSYSTEM-VN
+descr:          GMO RUNSYSTEM JSC
+descr:          118 Nguyen Ngoc Nai, Khuong Mai, Thanh Xuan, Hanoi
+admin-c:        NVT15-AP
+tech-c:         LQL7-AP
+remarks:        send spam and abuse report to info@tenten.vn
+country:        VN
+mnt-by:         MAINT-VN-VNNIC
+mnt-lower:      MAINT-VN-VNNIC
+mnt-irt:        IRT-VNNIC-AP
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20130307
+source:         APNIC
+
+irt:            IRT-VNNIC-AP
+address:        Ha Noi, VietNam
+phone:          +84-4-35564944
+fax-no:         +84-4-37821462
+e-mail:         hm-changed@vnnic.net.vn
+abuse-mailbox:  hm-changed@vnnic.net.vn
+admin-c:        PT174-AP
+tech-c:         NTTT1-AP
+auth:           # Filtered
+mnt-by:         MAINT-VN-VNNIC
+changed:        hm-changed@vnnic.net.vn 20101108
+source:         APNIC
+
+person:         Le Quang Lang
+nic-hdl:        LQL7-AP
+e-mail:         tuan@tenten.vn
+address:        GMO RUNSYSTEM JSC
+address:        118 Nguyen Ngoc Nai, Khuong Mai, Thanh Xuan, Hanoi
+phone:          +84-4-37724304
+fax-no:         +84-4-37724304
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20130307
+mnt-by:         MAINT-VN-VNNIC
+source:         APNIC
+
+person:         Ngo Van Tau
+nic-hdl:        NVT15-AP
+e-mail:         info@tenten.vn
+address:        GMO RUNSYSTEM JSC
+address:        118 Nguyen Ngoc Nai, Khuong Mai, Thanh Xuan, Hanoi
+phone:          +84-4-37724304
+fax-no:         +84-4-37724304
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20130307
+mnt-by:         MAINT-VN-VNNIC
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

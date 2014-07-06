@@ -1,0 +1,58 @@
+235.77.132.221.in-addr.arpa domain name pointer static.221-132-77-235.nexg.net.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '221.132.64.0 - 221.132.95.255'
+
+inetnum:        221.132.64.0 - 221.132.95.255
+netname:        VAAN
+descr:          NexG
+descr:          5F SeoulAcademy B/D, 967-6 Daechi-Dong, Gangnam-Gu, 135-280
+descr:          ************************************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          "http://whois.nic.or.kr/english/index.html"
+descr:          ************************************************
+country:        KR
+status:         ALLOCATED PORTABLE
+admin-c:        SL1625-AP
+tech-c:         SL1625-AP
+remarks:        www.nexg.net
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20050114
+source:         APNIC
+
+person:         Sanguk Lee
+nic-hdl:        SL1625-AP
+e-mail:         ip@nexg.net
+address:        5F SeoulAcademy B/D, 967-6 Daechi-Dong, Gangnam-Gu, 135-280
+phone:          +82-2-538-7060
+fax-no:         +82-2-571-8998
+country:        KR
+changed:        hostmaster@nida.or.kr 20050105
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+% Information related to '221.132.64.0 - 221.132.95.255'
+
+inetnum:        221.132.64.0 - 221.132.95.255
+netname:        VAAN-KR
+descr:          NexG
+country:        KR
+admin-c:        LS151-KR
+tech-c:         LS151-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+
