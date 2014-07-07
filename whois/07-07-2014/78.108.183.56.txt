@@ -1,0 +1,65 @@
+56.183.108.78.in-addr.arpa domain name pointer 1204.adult-pilot.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '78.108.176.0 - 78.108.191.255'
+
+% No abuse contact registered for 78.108.176.0 - 78.108.191.255
+
+inetnum:        78.108.176.0 - 78.108.191.255
+netname:        CZ-GM-20071227
+descr:          GIOVANNI MANAGEMENT LTD.
+country:        CZ
+org:            ORG-GML4-RIPE
+admin-c:        SM9797-RIPE
+tech-c:         SM9797-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-GM
+mnt-lower:      MNT-NETART
+mnt-routes:     MNT-GM
+source:         RIPE # Filtered
+
+organisation:   ORG-GML4-RIPE
+org-name:       GIOVANNI MANAGEMENT LTD.
+org-type:       LIR
+address:        GIOVANNI MANAGEMENT LTD.
+address:        U Letiste 374
+address:        25070
+address:        Odolena Voda
+address:        CZECH REPUBLIC
+phone:          +420721207705
+fax-no:         +420227203638
+mnt-ref:        MNT-GM
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+person:         Serge Matveev
+address:        UPL TELECOM s.r.o
+address:        Vinohradska 184/2396
+address:        Prague 3,130 52
+address:        Czech Republic
+phone:          +426 267 132 361
+phone:          +420 267 132 102
+nic-hdl:        SM9797-RIPE
+mnt-by:         UPL-MNT
+source:         RIPE # Filtered
+
+% Information related to '78.108.176.0/20AS43355'
+
+route:          78.108.176.0/20
+descr:          CZ-UPLTELECOM
+origin:         AS43355
+mnt-by:         UPL-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-4)
+
+

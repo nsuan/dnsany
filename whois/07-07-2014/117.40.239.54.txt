@@ -1,0 +1,64 @@
+Host 54.239.40.117.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.40.0.0 - 117.43.255.255'
+
+inetnum:        117.40.0.0 - 117.43.255.255
+netname:        CHINANET-JX
+descr:          CHINANET Jiangxi province network
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         JN113-AP
+remarks:        service provider
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-IP-WWF
+mnt-routes:     MAINT-IP-WWF
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20070912
+source:         APNIC
+
+role:           JXDCB NET
+address:        Jiangxi telecom network operation support department
+address:        No.2009, Beijing East Road , nanchangÃ¯Â¼Âjiangxi province
+country:        CN
+phone:          +86 79186600000
+e-mail:         wzzx_2013@189.cn
+remarks:        send spam reports to wzzx_2013@189.cn
+remarks:        and abuse reports to wzzx_2013@189.cn
+remarks:        http://www.online.jx.cn
+admin-c:        XY1-AP
+tech-c:         WZ1-CN
+tech-c:         WW49-AP
+nic-hdl:        JN113-AP
+notify:         wzzx_2013@189.cn
+mnt-by:         MAINT-IP-WWF
+changed:        hm-changed@apnic.net 20020812
+changed:        chenyiq@gsta.com 20130221
+source:         APNIC
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

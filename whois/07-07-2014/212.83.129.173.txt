@@ -1,0 +1,96 @@
+173.129.83.212.in-addr.arpa domain name pointer 212-83-129-173.rev.poneytelecom.eu.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.83.128.0 - 212.83.153.255'
+
+% Abuse contact for '212.83.128.0 - 212.83.153.255' is 'abuse@proxad.net'
+
+inetnum:        212.83.128.0 - 212.83.153.255
+netname:        FRWOL
+descr:          Tiscali France
+country:        FR
+admin-c:        BG34
+admin-c:        LTAD1-RIPE
+tech-c:         TTFR1-RIPE
+status:         ASSIGNED PA
+remarks:        ******************
+remarks:        All abuse requests MUST be sent to 'abuse@tiscali.fr'
+remarks:        and the logs must include the timezone and GMT offset.
+remarks:        ripe-mnt@net.tiscali.fr IS NOT the mail to use to report abuses
+remarks:        Toute requete abuse DOIT etre envoyee a 'abuse@tiscali.fr'
+remarks:        en les logs doivent inclure l'heure exacte et le decalage GMT.
+remarks:        ripe-mnt@net.tiscali.fr N'EST PAS le mail a utiliser pour signaler un abuse.
+remarks:        ******************
+mnt-by:         MNT-TISCALIFR
+mnt-lower:      MNT-TISCALIFR
+remarks:        Tag: Int
+source:         RIPE # Filtered
+
+role:           LIBERTYSURF TELECOM ABUSE DEPARTMENT
+remarks:        now known as Online S.A.S. / Iliad-Entreprises
+address:        8, rue de la ville l'eveque
+address:        75008 Paris
+address:        France
+admin-c:        IENT-RIPE
+tech-c:         IENT-RIPE
+nic-hdl:        LTAD1-RIPE
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+role:           Tiscali Telecom France Registry
+remarks:        now known as Online S.A.S. / Iliad-Entreprises
+address:        8 rue de la ville l'évèque
+address:        75008 Paris
+address:        France
+abuse-mailbox:  abuse@iliad-entreprises.fr
+admin-c:        IENT-RIPE
+tech-c:         IENT-RIPE
+tech-c:         NR1053-RIPE
+nic-hdl:        TTFR1-RIPE
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+person:         Benoit Grange
+address:        Tiscali Telecom
+address:        37 bis rue Greneta
+address:        75002 Paris - France
+phone:          +33 1 45 08 20 00
+fax-no:         +33 1 45 08 20 01
+remarks:        +-----------------------------------------------------------------------+
+remarks:        | ATTENTION: Pour nous signaler un probleme (intrusion, spam, etc),     |
+remarks:        | merci de respecter la procedure suivante:                             |
+remarks:        | Envoyer un mail a "abuse@tiscali.fr" avec les informations suivantes: |
+remarks:        | - date & heure (y compris le fuseau horaire ou l'heure GMT)           |
+remarks:        | - adresse IP source ou toutes les en-tetes du mail                    |
+remarks:        | - nature du probleme (en quelques mots)                               |
+remarks:        | Nous ne repondons pas aux demandes par telephone.                     |
+remarks:        | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+remarks:        | Je ne suis que le representant legal de Tiscali et non pas            |
+remarks:        | l'utilisateur final de l'adresse IP renvoyee par votre firewall       |
+remarks:        | Les adresses IP sont generalement allouees dynamiquement a nos abonnes|
+remarks:        | et donc votre logiciel ne peut PAS connaitre le nom de l'utilisateur  |
+remarks:        | reel de l'IP. Merci d'avoir lu jusqu'au bout.                         |
+remarks:        +-----------------------------------------------------------------------+
+nic-hdl:        BG34
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+% Information related to '212.83.128.0/19AS12876'
+
+route:          212.83.128.0/19
+descr:          Online SAS
+descr:          Paris, France
+origin:         AS12876
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-1)
+
+
