@@ -1,0 +1,72 @@
+Host 82.177.176.142.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=142.176.177.82?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       142.176.0.0 - 142.176.255.255
+CIDR:           142.176.0.0/16
+OriginAS:       
+NetName:        ALIANT-TEL-142-176
+NetHandle:      NET-142-176-0-0-1
+Parent:         NET-142-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        1992-08-26
+Updated:        2002-12-03
+Ref:            http://whois.arin.net/rest/net/NET-142-176-0-0-1
+
+OrgName:        Stentor National Integrated Communications Network
+OrgId:          STEN
+Address:        1 Carrefour Alexander-Graham-Bell
+Address:        Building A-7
+City:           Verdun
+StateProv:      QC
+PostalCode:     H3E-3B3
+Country:        CA
+RegDate:        1992-08-26
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/STEN
+
+OrgAbuseHandle: ZS74-ARIN
+OrgAbuseName:   Admin
+OrgAbusePhone:  +1-613-781-9095 
+OrgAbuseEmail:  stentornet.admin@bell.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZS74-ARIN
+
+OrgTechHandle: ZS74-ARIN
+OrgTechName:   Admin
+OrgTechPhone:  +1-613-781-9095 
+OrgTechEmail:  stentornet.admin@bell.ca
+OrgTechRef:    http://whois.arin.net/rest/poc/ZS74-ARIN
+
+RTechHandle: ZA161-ARIN
+RTechName:   Bell Aliant
+RTechPhone:  +1-506-694-6270 
+RTechEmail:  hostmaster@aliant.ca
+RTechRef:    http://whois.arin.net/rest/poc/ZA161-ARIN
+
+RTechHandle: ABUSE24-ARIN
+RTechName:   Abuse Contact
+RTechPhone:  +1-506-694-6270 
+RTechEmail:  abuse@aliant.net
+RTechRef:    http://whois.arin.net/rest/poc/ABUSE24-ARIN
+
+RNOCHandle: ZA161-ARIN
+RNOCName:   Bell Aliant
+RNOCPhone:  +1-506-694-6270 
+RNOCEmail:  hostmaster@aliant.ca
+RNOCRef:    http://whois.arin.net/rest/poc/ZA161-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

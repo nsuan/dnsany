@@ -1,0 +1,60 @@
+Host 42.244.63.14.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '14.32.0.0 - 14.63.255.255'
+
+inetnum:        14.32.0.0 - 14.63.255.255
+netname:        KORNET
+descr:          Korea Telecom
+descr:          206 Jungja-dong, Bundang-gu, Sungnam-ci
+descr:          ****************************************
+descr:          Allocated to KRNIC Member.
+descr:          If you would like to find assignment
+descr:          information in detail please refer to
+descr:          the KRNIC Whois Database at:
+descr:          http://whois.nic.or.kr/english/index.htm
+descr:          ****************************************
+country:        KR
+admin-c:        IM76-AP
+tech-c:         IM76-AP
+status:         Allocated Portable
+remarks:        www.kt.com
+mnt-by:         MNT-KRNIC-AP
+mnt-lower:      MNT-KRNIC-AP
+changed:        hm-changed@apnic.net 20100802
+source:         APNIC
+
+person:         IP Manager
+nic-hdl:        IM76-AP
+e-mail:         kornet_ip@kt.com
+address:        Seoul
+address:        206, Jungja-Dong, Bundang-Gu, Sungnam, Gyunggi-Do
+address:        463-711
+phone:          +82-2-500-6630
+fax-no:         +82-2-3674-5721
+country:        KR
+changed:        hostmaster@nic.or.kr 20111229
+mnt-by:         MNT-KRNIC-AP
+source:         APNIC
+
+% Information related to '14.32.0.0 - 14.95.255.255'
+
+inetnum:        14.32.0.0 - 14.95.255.255
+netname:        KORNET-KR
+descr:          Korea Telecom
+country:        KR
+admin-c:        IA9-KR
+tech-c:         IM9-KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+remarks:        This information has been partially mirrored by APNIC from
+remarks:        KRNIC. To obtain more specific information, please use the
+remarks:        KRNIC whois server at whois.krnic.net.
+changed:        hostmaster@nic.or.kr
+source:         KRNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+
