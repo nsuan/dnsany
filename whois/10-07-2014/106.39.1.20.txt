@@ -1,0 +1,57 @@
+Host 20.1.39.106.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '106.37.0.0 - 106.39.255.255'
+
+inetnum:        106.37.0.0 - 106.39.255.255
+netname:        CHINANET-BJ
+descr:          CHINANET BEIJING PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+admin-c:        HC55-AP
+tech-c:         HC55-AP
+country:        CN
+status:         ALLOCATED NON-PORTABLE
+remarks:        service provider
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20110318
+changed:        chenyiq@gsta.com 20130614
+mnt-by:         MAINT-CHINANET-BJ
+mnt-lower:      MAINT-CHINANET-BJ
+mnt-irt:        IRT-CHINANET-CN
+source:         APNIC
+
+irt:            IRT-CHINANET-CN
+address:        No.31 ,jingrong street,beijing
+address:        100032
+e-mail:         anti-spam@ns.chinanet.cn.net
+abuse-mailbox:  anti-spam@ns.chinanet.cn.net
+admin-c:        CH93-AP
+tech-c:         CH93-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET
+changed:        anti-spam@ns.chinanet.cn.net 20101115
+source:         APNIC
+
+person:         Hostmaster of Beijing Telecom corporation CHINA   TELECOM
+nic-hdl:        HC55-AP
+e-mail:         bjnic@bjtelecom.net
+address:        Beijing Telecom
+address:        No. 107 XiDan Beidajie, Xicheng District Beijing
+phone:          +86-010-58503461
+fax-no:         +86-010-58503054
+country:        cn
+changed:        bjnic@bjtelecom.net 20040115
+mnt-by:         MAINT-CHINATELECOM-BJ
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

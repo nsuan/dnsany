@@ -1,0 +1,104 @@
+218.80.236.173.in-addr.arpa domain name pointer node.uvgonline.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=173.236.80.218?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       173.236.0.0 - 173.236.127.255
+CIDR:           173.236.0.0/17
+OriginAS:       AS32475
+NetName:        SINGLEHOP
+NetHandle:      NET-173-236-0-0-1
+Parent:         NET-173-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2010-03-23
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-173-236-0-0-1
+
+
+OrgName:        SingleHop, Inc.
+OrgId:          SINGL-8
+Address:        215 W. Ohio St.
+Address:        5th Floor
+City:           Chicago
+StateProv:      IL
+PostalCode:     60654
+Country:        US
+RegDate:        2007-03-07
+Updated:        2012-11-19
+Comment:        http://www.singlehop.com/
+Ref:            http://whois.arin.net/rest/org/SINGL-8
+
+ReferralServer: rwhois://rwhois.singlehop.net:4321
+
+OrgNOCHandle: NETWO1546-ARIN
+OrgNOCName:   Network Operations
+OrgNOCPhone:  +1-866-817-2811 
+OrgNOCEmail:  netops@singlehop.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETWO1546-ARIN
+
+OrgTechHandle: NETWO1546-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-866-817-2811 
+OrgTechEmail:  netops@singlehop.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO1546-ARIN
+
+OrgAbuseHandle: ABUSE2492-ARIN
+OrgAbuseName:   Abuse Department
+OrgAbusePhone:  +1-866-817-2811 
+OrgAbuseEmail:  abuse@singlehop.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2492-ARIN
+
+RTechHandle: NETWO1546-ARIN
+RTechName:   Network Operations
+RTechPhone:  +1-866-817-2811 
+RTechEmail:  netops@singlehop.com
+RTechRef:    http://whois.arin.net/rest/poc/NETWO1546-ARIN
+
+RAbuseHandle: ABUSE2492-ARIN
+RAbuseName:   Abuse Department
+RAbusePhone:  +1-866-817-2811 
+RAbuseEmail:  abuse@singlehop.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2492-ARIN
+
+RNOCHandle: NETWO1546-ARIN
+RNOCName:   Network Operations
+RNOCPhone:  +1-866-817-2811 
+RNOCEmail:  netops@singlehop.com
+RNOCRef:    http://whois.arin.net/rest/poc/NETWO1546-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to rwhois.singlehop.net:4321.
+
+%rwhois V-1.5:003eff:00 rwhois.singlehop.com (by Network Solutions, Inc. V-1.5.9.5)
+network:Class-Name:network
+network:ID:ORG-SINGL-8.173-236-80-216/29
+network:Auth-Area:173.236.0.0/17
+network:IP-Network:173.236.80.216/29
+network:Organization:DSH
+network:Street-Address:Calle magenta 229
+network:City:Tuxtla Gtz.
+network:Postal-Code:29025
+network:Country-Code:MX
+network:Tech-Contact;I:NETWO1546-ARIN
+network:Admin-Contact;I:NETWO1546-ARIN
+network:Abuse-Contact;I:ABUSE2492-ARIN
+network:Created:20100630
+network:Updated:20100630
+
+%referral rwhois://root.rwhois.net:4321/auth-area=.
+%ok
