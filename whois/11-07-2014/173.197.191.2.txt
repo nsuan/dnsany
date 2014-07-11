@@ -1,0 +1,111 @@
+2.191.197.173.in-addr.arpa domain name pointer rrcs-173-197-191-2.west.biz.rr.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=173.197.191.2?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       173.196.0.0 - 173.198.159.255
+CIDR:           173.196.0.0/15, 173.198.0.0/17, 173.198.128.0/19
+OriginAS:       
+NetName:        RCWE
+NetHandle:      NET-173-196-0-0-1
+Parent:         NET-173-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-08-20
+Updated:        2010-09-17
+Ref:            http://whois.arin.net/rest/net/NET-173-196-0-0-1
+
+OrgName:        Time Warner Cable Internet LLC
+OrgId:          RCWE
+Address:        13820 Sunrise Valley Drive
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2001-09-26
+Updated:        2013-04-25
+Comment:        Allocations for this OrgID serve Road Runner commercial customers out of the Honolulu, HI, Kansas City, KS, Orange, CA and San Diego, CA RDCs.
+Ref:            http://whois.arin.net/rest/org/RCWE
+
+ReferralServer: rwhois://ipmt.rr.com:4321
+
+OrgAbuseHandle: ABUSE10-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-703-345-3416 
+OrgAbuseEmail:  abuse@rr.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE10-ARIN
+
+OrgTechHandle: IPTEC-ARIN
+OrgTechName:   IP Tech
+OrgTechPhone:  +1-703-345-3416 
+OrgTechEmail:  abuse@rr.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPTEC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+
+Found a referral to ipmt.rr.com:4321.
+
+%rwhois V-1.5:0020b0:00 ipmt.rr.com (by Time Warner Cable, Inc. V-1.0)
+network:Class-Name:network
+network:ID:NETBLK-ISRC-173.197.128.0-18
+network:Auth-Area:173.197.128.0/18
+network:Org-Name:Road Runner Commercial
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-07-10 10:44:45
+network:IP-Network:173.197.128.0/18
+network:Admin-Contact:IPADD-ARIN
+network:IP-Network-Range:173.197.128.0 - 173.197.191.255
+
+network:Class-Name:network
+network:ID:NETBLK-ISRC-173.197.128.0-18
+network:Auth-Area:173.197.191.0/28
+network:Org-Name:Chickadee Wireless Inc - DIA
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-07-10 10:44:45
+network:IP-Network:173.197.191.0/28
+network:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRC-173.197.128.0-18
+organization:Auth-Area:173.197.128.0/18
+organization:Org-Name:Road Runner Commercial
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:13820 Sunrise Valley Drive
+organization:City:Herndon
+organization:State:VA
+organization:Postal-Code:20171
+organization:Country-Code:US
+organization:Phone:703-345-3151
+organization:Updated:2014-07-10 10:44:45
+organization:Created:2014-07-10 10:44:45
+organization:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRC-173.197.128.0-18
+organization:Auth-Area:173.197.191.0/28
+organization:Org-Name:Chickadee Wireless Inc - DIA
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:8929 W Conkling Rd
+organization:City:Worley
+organization:State:ID
+organization:Postal-Code:83876
+organization:Country-Code:US
+organization:Phone:208-696-1189
+organization:Updated:2014-07-10 10:44:45
+organization:Created:2014-07-10 10:44:45
+organization:Admin-Contact:IPADD-ARIN
+
+%ok

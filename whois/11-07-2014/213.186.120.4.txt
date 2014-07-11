@@ -1,0 +1,63 @@
+4.120.186.213.in-addr.arpa domain name pointer serv1.kibergrad.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.186.120.0 - 213.186.120.255'
+
+% Abuse contact for '213.186.120.0 - 213.186.120.255' is 'abuse@utel.ua'
+
+inetnum:        213.186.120.0 - 213.186.120.255
+netname:        UTEL-DC-120
+descr:          Utel DataCenter
+country:        UA
+admin-c:        UNOC-RIPE
+tech-c:         UNOC-RIPE
+status:         ASSIGNED PA
+mnt-by:         AS6877-MNT
+remarks:        INFRA-AW
+remarks:        net or SPAM abuses please mail to complaint@mbx.dc.utel.ua
+source:         RIPE # Filtered
+
+role:           Utel NOC
+address:        59, Turgenivska str.
+address:        04050 Kyiv, Ukraine
+phone:          +380 44 2359001
+phone:          +38 800 5050500
+fax-no:         +380 44 2880278
+remarks:        -----------------------------------------------------------------
+remarks:        Ukrtelecom DataCenter is available 365 x 24 x 7
+remarks:        -----------------------------------------------------------------
+remarks:        Contact information for Ukrtelecom DataCenter
+remarks:        -----------------------------------------------------------------
+remarks:        Network routing & peering issues:  noc at dc.ukrtelecom.ua
+remarks:        SPAM and Network security issues:  abuse at dc.ukrtelecom.ua
+remarks:        E-Mail issues:                     postmaster at dc.ukrtelecom.ua
+remarks:        Domain management:                 hostmaster at dc.ukrtelecom.ua
+remarks:        Customer support:                  support at dc.ukrtelecom.ua
+remarks:        General information:               info at dc.ukrtelecom.ua
+remarks:        Customer contracts issues:         sales at dc.ukrtelecom.ua
+remarks:        -----------------------------------------------------------------
+admin-c:        OLE-RIPE
+tech-c:         OLE-RIPE
+tech-c:         UHM-RIPE
+nic-hdl:        UNOC-RIPE
+mnt-by:         AS6877-MNT
+source:         RIPE # Filtered
+
+% Information related to '213.186.112.0/20AS16124'
+
+route:          213.186.112.0/20
+descr:          Utel DataCenter, Ukraine
+origin:         AS16124
+mnt-by:         AS6877-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-4)
+
+

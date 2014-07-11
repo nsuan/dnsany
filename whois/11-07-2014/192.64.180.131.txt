@@ -1,0 +1,68 @@
+131.180.64.192.in-addr.arpa domain name pointer virtual.quicklaunchcloud.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=192.64.180.131?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       192.64.176.0 - 192.64.191.255
+CIDR:           192.64.176.0/20
+OriginAS:       AS62605
+NetName:        BH-CLE1-CLOUD1
+NetHandle:      NET-192-64-176-0-1
+Parent:         NET-192-0-0-0-0
+NetType:        Direct Assignment
+Comment:        http://www.brainhost.com/help
+RegDate:        2013-01-03
+Updated:        2013-10-18
+Ref:            http://whois.arin.net/rest/net/NET-192-64-176-0-1
+
+OrgName:        Brain Host, LLC
+OrgId:          BHL-24
+Address:        405 Rothrock Rd.
+Address:        Suite 106
+City:           Copley
+StateProv:      OH
+PostalCode:     44321
+Country:        US
+RegDate:        2012-11-15
+Updated:        2013-10-18
+Comment:        Customer Service 800-311-9418
+Ref:            http://whois.arin.net/rest/org/BHL-24
+
+OrgTechHandle: DEW35-ARIN
+OrgTechName:   Wright, Dustin Eric
+OrgTechPhone:  +1-330-576-4781 
+OrgTechEmail:  dustin.wright@brainhost.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DEW35-ARIN
+
+OrgNOCHandle: DEW35-ARIN
+OrgNOCName:   Wright, Dustin Eric
+OrgNOCPhone:  +1-330-576-4781 
+OrgNOCEmail:  dustin.wright@brainhost.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/DEW35-ARIN
+
+OrgAbuseHandle: COMPL8-ARIN
+OrgAbuseName:   Compliance Department
+OrgAbusePhone:  +1-330-576-4781 
+OrgAbuseEmail:  abuse@quicklaunchcloud.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/COMPL8-ARIN
+
+RAbuseHandle: COMPL8-ARIN
+RAbuseName:   Compliance Department
+RAbusePhone:  +1-330-576-4781 
+RAbuseEmail:  abuse@quicklaunchcloud.com
+RAbuseRef:    http://whois.arin.net/rest/poc/COMPL8-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
