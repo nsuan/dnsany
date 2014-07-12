@@ -1,0 +1,67 @@
+83.2.86.92.in-addr.arpa domain name pointer mail.paolarom.eu.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '92.80.0.0 - 92.87.255.255'
+
+% Abuse contact for '92.80.0.0 - 92.87.255.255' is 'abuse@romtelecom.ro'
+
+inetnum:        92.80.0.0 - 92.87.255.255
+netname:        RO-ARTELECOM-20070815
+descr:          ROMTelecom S.A.
+country:        RO
+org:            ORG-AA45-RIPE
+admin-c:        AL3618-RIPE
+tech-c:         AL3618-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MNT-ARTELECOM-LIR
+mnt-routes:     MNT-ARTELECOM-LIR
+mnt-domains:    MNT-ARTELECOM-LIR
+source:         RIPE # Filtered
+
+organisation:   ORG-AA45-RIPE
+org-name:       ROMTelecom S.A.
+org-type:       LIR
+address:        Romtelecom
+address:        George Nicolae
+address:        City Gate North Tower, Piata Presei Libere 3 sector 1
+address:        013702 Bucuresti
+address:        ROMANIA
+phone:          +40214005682
+fax-no:         +40214005643
+descr:          Romtelecom Local Internet Registry
+mnt-ref:        MNT-ARTELECOM-LIR
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        GPN4-RIPE
+admin-c:        CD297-RIPE
+abuse-c:        RA6992-RIPE
+source:         RIPE # Filtered
+
+role:           ARtelecom LIR
+address:        Garlei 1B sector 1 013721 Bucuresti Romania
+abuse-mailbox:  abuse@romtelecom.ro
+admin-c:        DC478-RIPE
+tech-c:         CD297-RIPE
+mnt-by:         MNT-ARTELECOM-LIR
+nic-hdl:        AL3618-RIPE
+source:         RIPE # Filtered
+
+% Information related to '92.86.0.0/16AS9050'
+
+route:          92.86.0.0/16
+descr:          Romtelecom
+origin:         AS9050
+mnt-by:         MNT-ARTELECOM-LIR
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-4)
+
+

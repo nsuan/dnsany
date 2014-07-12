@@ -1,0 +1,88 @@
+186.181.85.197.in-addr.arpa domain name pointer 197-85-181-186.cpt.mweb.co.za.
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '197.85.181.184 - 197.85.181.191'
+
+inetnum: 	197.85.181.184 - 197.85.181.191
+netname: 	MWEB-NET-197-85-181-184
+descr:		MWEB-BUSINESS-CPT-HOSTING-MartinandEastPtyLtd
+descr:		100 Fairway close
+descr:		N1 City
+descr:		South Africa
+descr:		7500
+country: 	ZA
+org: 		ORG-MA20-AFRINIC
+admin-c: 	GP4-AFRINIC
+tech-c: 	NOC1327-AFRINIC
+tech-c: 	EF1-AFRINIC
+status: 	ASSIGNED PA
+remarks: 	abuse e-mail: abuse@mweb.com, phone: +27 21 596 8300
+remarks:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+mnt-by: 	MWEB-CONNECT-MNT
+source: 	AFRINIC # Filtered
+parent:         197.80.0.0 - 197.87.255.255
+
+organisation:   ORG-MA20-AFRINIC
+org-name:       MWEB CONNECT (PROPRIETARY) LIMITED
+org-type:       LIR
+country:        ZA
+address:        MWeb Connect Pty Ltd
+address:        100 Fairway close
+address:        Parow
+address:        7463
+address:        Cape Town 7463
+e-mail:         abuse@mweb.com
+e-mail:         finance@optinet.net
+e-mail:         keith.churchill@optinet.net
+e-mail:         networks.core@optinet.net
+phone:          +27 21 596 8300
+phone:          +27 21 596 8855
+admin-c:        NOC1327-AFRINIC
+tech-c:         NOC1327-AFRINIC
+mnt-ref:        AFRINIC-HM-MNT
+mnt-ref:        MWEB-CONNECT-MNT
+mnt-by:         AFRINIC-HM-MNT
+remarks:        abuse e-mail: <abuse@mweb.com>, phone: +27 21 596 8300
+source:         AFRINIC # Filtered
+
+person:         Gail Philander
+address:	M-Web Connect (Pty) Ltd
+address:        Mweb Building
+address:	100 Fairway Close
+address:	Parow
+address:	7500
+address:	Cape Town
+address:	South Africa
+phone:          +27 21 596 8472
+phone:		+27 21 596 6472
+e-mail:         gphilander@mweb.com
+org:            ORG-MA20-AFRINIC
+nic-hdl:        GP4-AFRINIC
+mnt-by:         AFRINIC-HM-MNT
+source:         AFRINIC # Filtered
+
+person:       Noc Noc
+address:      Private Bag X001
+address:      N1 City
+address:      7463
+address:      ZA
+phone:        +27215968300
+e-mail:       networks@mweb.com
+nic-hdl:      NOC1327-AFRINIC
+mnt-by:       MWEB-maint
+source:       AFRINIC # Filtered
+
+person:         Etienne Fourie
+nic-hdl:        EF1-AFRINIC
+address:        Mweb Building
+address:        100 Fairway Close
+address:        Parow
+address:        Cape Town 7500
+address:        South Africa
+e-mail:         etfourie@mweb.com
+phone:          +27 21 596 8300
+source:         AFRINIC # Filtered
+
+

@@ -1,0 +1,75 @@
+Host 210.245.208.221.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '221.208.0.0 - 221.212.255.255'
+
+inetnum:        221.208.0.0 - 221.212.255.255
+netname:        UNICOM-HL
+descr:          China Unicom Heilongjiang Province Network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         BG63-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-HL
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+mnt-irt:        IRT-CU-CN
+changed:        hm-changed@apnic.net 20031110
+changed:        hm-changed@apnic.net 20060124
+changed:        hm-changed@apnic.net 20090508
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         Binghui Gao
+nic-hdl:        BG63-AP
+e-mail:         luanfuyu@vip.hl.cn
+address:        Shuniu Building,No.155 Zhongshan road,Harbin,Heilongjiang
+phone:          +86-451-82651467
+fax-no:         +86-451-82651464
+country:        CN
+changed:        luanfuyu@vip.hl.cn 20100310
+mnt-by:         MAINT-CNCGROUP-HL
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+% Information related to '221.208.0.0/14AS4837'
+
+route:          221.208.0.0/14
+descr:          CNC Group CHINA169 Heilongjiang Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20060118
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

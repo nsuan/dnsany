@@ -1,0 +1,44 @@
+10.16.241.80.in-addr.arpa domain name pointer cmsrv1.catv-kabelmedien.at.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '80.241.16.0 - 80.241.16.127'
+
+% Abuse contact for '80.241.16.0 - 80.241.16.127' is 'abuse@upc.at'
+
+inetnum:        80.241.16.0 - 80.241.16.127
+netname:        CATV_SERVER
+descr:          CATV Server Net
+country:        AT
+admin-c:        MP13024-RIPE
+tech-c:         MP13024-RIPE
+status:         ASSIGNED PA
+mnt-by:         CATV-KABEL-MNT
+source:         RIPE # Filtered
+
+person:         Matthias Poettinger
+address:        iCable Service GmbH
+address:        Inn 9
+address:        A-4632, Pichl bei Wels
+address:        Austria
+phone:          +43724242820
+nic-hdl:        MP13024-RIPE
+source:         RIPE # Filtered
+
+% Information related to '80.241.16.0/20AS39210'
+
+route:          80.241.16.0/20
+descr:          AT-CATVNET-80-241-16-0-20
+origin:         AS39210
+mnt-by:         CATV-KABEL-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-4)
+
+

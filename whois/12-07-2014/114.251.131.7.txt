@@ -1,0 +1,31 @@
+Host 7.131.251.114.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '114.251.131.0 - 114.251.131.31'
+
+inetnum:        114.251.131.0 - 114.251.131.31
+netname:        BJXYRH
+descr:          BJXYRH
+country:        CN
+admin-c:        ZX1787-AP
+tech-c:         ZX1787-AP
+mnt-by:         MAINT-CNCGROUP-BJ
+changed:        hostmast@publicf.bta.net.cn 20100809
+status:         ASSIGNED NON-PORTABLE
+source:         APNIC
+
+person:         zhao xiaowei
+address:        BJXYRH
+country:        CN
+nic-hdl:        ZX1787-AP
+phone:          +86-010-84471136
+fax-no:         +86-010-84471136
+e-mail:         123465@sina.com
+mnt-by:         MAINT-CNCGROUP-BJ
+changed:        hostmast@publicf.bta.net.cn 20100809
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+
