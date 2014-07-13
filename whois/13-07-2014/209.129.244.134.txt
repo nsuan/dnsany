@@ -1,0 +1,72 @@
+Host 134.244.129.209.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=209.129.244.134?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       209.129.0.0 - 209.129.255.255
+CIDR:           209.129.0.0/16
+OriginAS:       
+NetName:        CSUNET-S5
+NetHandle:      NET-209-129-0-0-1
+Parent:         NET-209-0-0-0-0
+NetType:        Direct Allocation
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+RegDate:        1997-08-19
+Updated:        2005-01-31
+Ref:            http://whois.arin.net/rest/net/NET-209-129-0-0-1
+
+OrgName:        California State University Network
+OrgId:          CSU
+Address:        401 Golden Shore
+City:           Long Beach
+StateProv:      CA
+PostalCode:     90802
+Country:        US
+RegDate:        1990-11-08
+Updated:        2011-11-09
+Ref:            http://whois.arin.net/rest/org/CSU
+
+OrgTechHandle: CDA56-ARIN
+OrgTechName:   CSU DNS Administrator
+OrgTechPhone:  +1-562-951-8500 
+OrgTechEmail:  wedns@calstate.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/CDA56-ARIN
+
+OrgAbuseHandle: CDA56-ARIN
+OrgAbuseName:   CSU DNS Administrator
+OrgAbusePhone:  +1-562-951-8500 
+OrgAbuseEmail:  wedns@calstate.edu
+OrgAbuseRef:    http://whois.arin.net/rest/poc/CDA56-ARIN
+
+RAbuseHandle: ABUSE711-ARIN
+RAbuseName:   CENIC Abuse
+RAbusePhone:  +1-714-220-3494 
+RAbuseEmail:  abuse@cenic.org
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE711-ARIN
+
+RTechHandle: OPERA63-ARIN
+RTechName:   Admin Domain
+RTechPhone:  +1-714-220-3494 
+RTechEmail:  noc@cenic.org
+RTechRef:    http://whois.arin.net/rest/poc/OPERA63-ARIN
+
+RNOCHandle: OPERA63-ARIN
+RNOCName:   Admin Domain
+RNOCPhone:  +1-714-220-3494 
+RNOCEmail:  noc@cenic.org
+RNOCRef:    http://whois.arin.net/rest/poc/OPERA63-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+

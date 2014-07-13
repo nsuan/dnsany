@@ -1,0 +1,51 @@
+Host 111.67.185.203.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '203.185.64.0 - 203.185.95.255'
+
+inetnum:        203.185.64.0 - 203.185.95.255
+netname:        THAISARN-TH
+country:        TH
+descr:          Non-Commercial Internet Providers
+descr:          For ThaiSARN  in Thailand
+descr:          National Electronics and Computer Technology Center(NECTEC)
+admin-c:        CC1626-AP
+tech-c:         CC1626-AP
+status:         ALLOCATED PORTABLE
+mnt-irt:        IRT-NECTEC-TH
+changed:        chatchai@nectec.or.th 20051206
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NECTEC-AP
+changed:        hm-changed@apnic.net 20051212
+source:         APNIC
+
+irt:            IRT-NECTEC-TH
+address:        National Electronic and Computer Technology Center (NECTEC)
+address:        11th Floor , Bangkok Thai Tower,
+address:        Phayathai, Bangkok
+e-mail:         noc@thaisarn.net.th
+abuse-mailbox:  noc@thaisarn.net.th
+admin-c:        AA6-AP
+tech-c:         NM25-AP
+auth:           # Filtered
+mnt-by:         MAINT-NECTEC-AP
+changed:        noc@thaisarn.net.th 20130506
+source:         APNIC
+
+person:         Chatchai Chan-In
+nic-hdl:        CC1626-AP
+e-mail:         chatchai@nectec.or.th
+address:        112  Phahon Yothin Rd.,
+address:        Klong Luang, Pathumthani 12120,
+address:        Thailand
+phone:          +66-2-564-6900
+fax-no:         +66-2-564-6863
+country:        TH
+changed:        chalermpol@nectec.or.th 20051031
+mnt-by:         MAINT-TH-NECTEC
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+
