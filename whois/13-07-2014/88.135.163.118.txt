@@ -1,0 +1,73 @@
+118.163.135.88.in-addr.arpa domain name pointer 88.135.163.118.static.kolnet.eu.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '88.135.160.0 - 88.135.191.255'
+
+% Abuse contact for '88.135.160.0 - 88.135.191.255' is 'abuse@kolnet.eu'
+
+inetnum:        88.135.160.0 - 88.135.191.255
+netname:        KOLNETSC
+descr:          KOLNET s.c.
+remarks:        ul. Dojazdowa 7, 43-502 Czechowice-Dz., PL
+country:        PL
+org:            ORG-KA203-RIPE
+admin-c:        PSK4-RIPE
+tech-c:         PSK4-RIPE
+status:         ASSIGNED PI
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-by:         RIPE-NCC-END-MNT
+mnt-routes:     LEON-MNT
+mnt-domains:    LEON-MNT
+mnt-by:         KOLNET-MNT
+mnt-routes:     KOLNET-MNT
+mnt-domains:    KOLNET-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-KA203-RIPE
+org-name:       KOLNET s. c.
+org-type:       OTHER
+address:        KOLNET s.c. G. Knycz, P. Knycz
+address:        Dojazdowa 7
+address:        43-502 Czechowice-Dziedzice
+address:        POLAND
+admin-c:        PSK4-RIPE
+tech-c:         PSK4-RIPE
+abuse-c:        KSAT3-RIPE
+mnt-ref:        LEON-MNT
+mnt-by:         LEON-MNT
+mnt-ref:        KOLNET-MNT
+mnt-by:         KOLNET-MNT
+source:         RIPE # Filtered
+
+person:         Przemyslaw Stanislaw Knycz
+address:        KOLNET s.c. G. Knycz, P. Knycz
+address:        Dojazdowa 7
+address:        43-502 Czechowice-Dziedzice
+address:        POLAND
+phone:          +48601391681
+phone:          +48327202020
+fax-no:         +48324446099
+abuse-mailbox:  abuse@kolnet.eu
+nic-hdl:        PSK4-RIPE
+mnt-by:         KOLNET-MNT
+source:         RIPE # Filtered
+
+% Information related to '88.135.160.0/19AS50188'
+
+route:          88.135.160.0/19
+descr:          KOLNETSC Providing
+descr:          for abuse: abuse@kolnet.eu
+origin:         AS50188
+mnt-by:         KOLNET-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-1)
+
+

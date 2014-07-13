@@ -1,0 +1,59 @@
+Host 250.202.168.68.in-addr.arpa not found: 2(SERVFAIL)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=68.168.202.250?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       68.168.192.0 - 68.168.207.255
+CIDR:           68.168.192.0/20
+OriginAS:       AS40317
+NetName:        PEOPLES-COMMUNICATION-ISP
+NetHandle:      NET-68-168-192-0-1
+Parent:         NET-68-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2010-03-29
+Updated:        2014-07-07
+Ref:            http://whois.arin.net/rest/net/NET-68-168-192-0-1
+
+OrgName:        Peoples Communications Inc.
+OrgId:          PEOPL-18
+Address:        102 N. Stephens
+City:           Quitman
+StateProv:      TX
+PostalCode:     75783
+Country:        US
+RegDate:        2006-08-09
+Updated:        2013-11-14
+Ref:            http://whois.arin.net/rest/org/PEOPL-18
+
+OrgTechHandle: DAVID179-ARIN
+OrgTechName:   Davidson, Derek 
+OrgTechPhone:  +1-903-878-2800 
+OrgTechEmail:  ddavidson@peoplescom.net
+OrgTechRef:    http://whois.arin.net/rest/poc/DAVID179-ARIN
+
+OrgNOCHandle: DAVID179-ARIN
+OrgNOCName:   Davidson, Derek 
+OrgNOCPhone:  +1-903-878-2800 
+OrgNOCEmail:  ddavidson@peoplescom.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/DAVID179-ARIN
+
+OrgAbuseHandle: DAVID179-ARIN
+OrgAbuseName:   Davidson, Derek 
+OrgAbusePhone:  +1-903-878-2800 
+OrgAbuseEmail:  ddavidson@peoplescom.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/DAVID179-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+
