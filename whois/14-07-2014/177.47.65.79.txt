@@ -1,0 +1,49 @@
+79.65.47.177.in-addr.arpa domain name pointer 177-47-65-79.ipinfo.net.br.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% Brazilian resource: whois.registro.br
+
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, comercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2014-07-14 01:00:59 (BRT -03:00)
+
+inetnum:     177.47.64/20
+aut-num:     AS262402
+abuse-c:     SSL171
+owner:       IPINFO TELECOMUNICACOES LTDA
+ownerid:     003.455.506/0001-83
+responsible: Adriano Morais
+country:     BR
+owner-c:     SSL171
+tech-c:      SSL171
+inetrev:     177.47.65/24
+nserver:     ns1.ipinfoserver.com.br 
+nsstat:      20140711 AA
+nslastaa:    20140711
+nserver:     ns2.ipinfoserver.com.br 
+nsstat:      20140711 AA
+nslastaa:    20140711
+created:     20110509
+changed:     20110509
+
+nic-hdl-br:  SSL171
+person:      Smart system informatica ltda
+e-mail:      ipinfo@ipinfo.com.br
+created:     20000723
+changed:     20080806
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/, respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
+

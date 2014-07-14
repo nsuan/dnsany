@@ -1,0 +1,78 @@
+Host 90.158.10.113.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '113.10.158.0 - 113.10.158.255'
+
+inetnum:        113.10.158.0 - 113.10.158.255
+netname:        NWTiDC-HK
+descr:          NWT iDC Data Service
+country:        HK
+admin-c:        NC315-AP
+admin-c:        IDC1-AP
+tech-c:         KW315-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        For network abuse email <abuse@newworldtel.com>
+mnt-irt:        IRT-NEWWORLDTEL-HK
+changed:        kmmwong@newworldtel.com 20101208
+mnt-by:         MAINT-HK-NEWWORLDTEL
+source:         APNIC
+
+irt:            IRT-NEWWORLDTEL-HK
+address:        17/F Chevalier Commercial Centre,8 Wang Hoi Road, Kowloon Bay,Hong Kong.
+e-mail:         abuse@newworldtel.com
+abuse-mailbox:  abuse@newworldtel.com
+admin-c:        KW315-AP
+tech-c:         IDC1-AP
+tech-c:         NC315-AP
+auth:           # Filtered
+mnt-by:         MAINT-HK-NEWWORLDTEL
+changed:        abuse@newworldtel.com 20101207
+source:         APNIC
+
+person:         internet Data Centre
+address:        17/F Chevalier Commercial Centre,8 Wang Hoi Road, Kowloon Bay, Hong Kong
+country:        HK
+phone:          +852-2133 4277
+e-mail:         idc@newworldtel.com
+nic-hdl:        IDC1-AP
+mnt-by:         MAINT-HK-NEWWORLDTEL
+changed:        kmmwong@newworldtel.com 20101004
+source:         APNIC
+
+person:         Kwong Ming Wong
+nic-hdl:        KW315-AP
+e-mail:         kmmwong@newworldtel.com
+address:        17/F Chevalier Commercial Centre,8 Wang Hoi Road, Kowloon Bay,Hong Kong.
+phone:          +852-21300120
+fax-no:         + 852 - 2133 2175
+country:        HK
+changed:        kmmwong@newworldtel.com 20060814
+mnt-by:         MAINT-HK-NEWWORLDTEL
+source:         APNIC
+
+person:         Network Management Center
+nic-hdl:        NC315-AP
+e-mail:         nmc@newworldtel.com
+address:        17/F Chevalier Commercial Centre,
+address:        8 Wang Hoi Road, Kowloon Bay,
+address:        Hong Kong.
+phone:          + 852 - 2130-0120
+fax-no:         + 852 - 2133 2175
+country:        HK
+changed:        kmmwong@newworldtel.com 20080804
+mnt-by:         MAINT-HK-NEWWORLDTEL
+source:         APNIC
+
+% Information related to '113.10.158.0/24AS17444'
+
+route:          113.10.158.0/24
+descr:          NWT Route Object
+origin:         AS17444
+mnt-by:         MAINT-HK-NEWWORLDTEL
+changed:        kmmwong@newworldtel.com  20110114
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+
