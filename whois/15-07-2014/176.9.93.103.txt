@@ -1,0 +1,94 @@
+103.93.9.176.in-addr.arpa domain name pointer media.geniroom.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '176.9.93.96 - 176.9.93.127'
+
+% Abuse contact for '176.9.93.96 - 176.9.93.127' is 'abuse@hetzner.de'
+
+inetnum:        176.9.93.96 - 176.9.93.127
+netname:        HETZNER-RZ15
+descr:          Hetzner Online AG
+descr:          Datacenter 15
+country:        DE
+admin-c:        HOAC1-RIPE
+tech-c:         HOAC1-RIPE
+status:         ASSIGNED PA
+mnt-by:         HOS-GUN
+mnt-lower:      HOS-GUN
+mnt-routes:     HOS-GUN
+source:         RIPE # Filtered
+
+role:           Hetzner Online AG - Contact Role
+address:        Hetzner Online AG
+address:        Stuttgarter Strasse 1
+address:        D-91710 Gunzenhausen
+address:        Germany
+phone:          +49 9831 61 00 61
+fax-no:         +49 9831 61 00 62
+abuse-mailbox:  abuse@hetzner.de
+remarks:        *************************************************
+remarks:        * For spam/abuse/security issues please contact *
+remarks:        *   abuse@hetzner.de, not this address.         *
+remarks:        *   The contents of your abuse email will be    *
+remarks:        *   forwarded directly on to our client for     *
+remarks:        *   handling.                                   *
+remarks:        *************************************************
+remarks:
+remarks:        *************************************************
+remarks:        *    Any questions on Peering please send to    *
+remarks:        *              peering@hetzner.de               *
+remarks:        *************************************************
+org:            ORG-HOA1-RIPE
+admin-c:        MH375-RIPE
+tech-c:         GM834-RIPE
+tech-c:         SK2374-RIPE
+tech-c:         TF2013-RIPE
+tech-c:         MF1400-RIPE
+tech-c:         SK8441-RIPE
+nic-hdl:        HOAC1-RIPE
+mnt-by:         HOS-GUN
+source:         RIPE # Filtered
+
+% Information related to '176.9.0.0/16AS24940'
+
+route:          176.9.0.0/16
+descr:          HETZNER-RZ-FKS-BLK4
+origin:         AS24940
+org:            ORG-HOA1-RIPE
+mnt-by:         HOS-GUN
+source:         RIPE # Filtered
+
+organisation:   ORG-HOA1-RIPE
+org-name:       Hetzner Online AG
+org-type:       LIR
+address:        Hetzner Online AG
+address:        Attn. Martin Hetzner
+address:        Industriestrasse 25
+address:        91710
+address:        Gunzenhausen
+address:        GERMANY
+phone:          +49 9831 610061
+fax-no:         +49 9831 610062
+admin-c:        TF2013-RIPE
+admin-c:        MF1400-RIPE
+admin-c:        GM834-RIPE
+admin-c:        HOAC1-RIPE
+admin-c:        MH375-RIPE
+admin-c:        SK2374-RIPE
+admin-c:        SK8441-RIPE
+mnt-ref:        HOS-GUN
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        HOAC1-RIPE
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-1)
+
+

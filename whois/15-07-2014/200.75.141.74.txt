@@ -1,0 +1,53 @@
+74.141.75.200.in-addr.arpa domain name pointer host-200-75-141-74.cliente-74-net-uno.net.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-07-15 01:01:39 (BRT -03:00)
+
+inetnum:     200.75.128/20
+status:      allocated
+aut-num:     N/A
+owner:       Net Uno, C.A.
+ownerid:     VE-NUCA-LACNIC
+responsible: Joel Gomez
+address:     Urb. Los Naranjos. Prolong. Av Sur 7. Qta Cabletel, 1, 1
+address:     1061 - Caracas - DF
+country:     VE
+phone:       +58 212 9862020 [002]
+owner-c:     VIL4
+tech-c:      VIL4
+abuse-c:     VIL4
+inetrev:     200.75.128/20
+nserver:     N1.NET-UNO.NET  
+nsstat:      20140712 AA
+nslastaa:    20140712
+nserver:     DNS2.NET-UNO.NET  
+nsstat:      20140712 AA
+nslastaa:    20140712
+created:     20011018
+changed:     20070918
+
+nic-hdl:     VIL4
+person:      Joel Gomez
+e-mail:      jogomez@NETUNO.NET
+address:     Urb Los Naranjos, Prolong Av Sur 7, Qta Cabletel, n/a, n/a
+address:     1061 - Caracas - DC
+country:     VE
+phone:       +58 212 7100003 []
+created:     20070905
+changed:     20110207
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

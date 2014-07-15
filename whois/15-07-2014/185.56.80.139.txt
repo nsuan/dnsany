@@ -1,0 +1,68 @@
+Host 139.80.56.185.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.56.80.0 - 185.56.83.255'
+
+% No abuse contact registered for 185.56.80.0 - 185.56.83.255
+
+inetnum:        185.56.80.0 - 185.56.83.255
+netname:        IN-SHOCK-SRV-20140501
+descr:          Anhad Dhingra
+country:        IN
+country:        NL
+org:            ORG-AD46-RIPE
+admin-c:        SSRV1-RIPE
+tech-c:         SSRV1-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      shocksrv-mntnr
+mnt-routes:     OCOM-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-AD46-RIPE
+org-name:       Anhad Dhingra
+org-type:       LIR
+address:        ShockSRV
+address:        Levels 7, Maximus Towers, Mindspace Complex
+address:        500081
+address:        Hyderabad
+address:        INDIA
+phone:          +91 183 5016129
+mnt-ref:        shocksrv-mntnr
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+person:         Shock SRV
+address:        Levels 7 Maximus Towers Mindspace Complex Hi-Tech City Hyderabad 500081
+phone:          +91 183 5016129
+nic-hdl:        SSRV1-RIPE
+mnt-by:         shocksrv-mntnr
+source:         RIPE # Filtered
+
+% Information related to '185.56.80.0/24AS16265'
+
+route:          185.56.80.0/24
+descr:          routed via Leaseweb
+origin:         AS16265
+mnt-by:         OCOM-MNT
+source:         RIPE # Filtered
+
+% Information related to '185.56.80.0/24AS60781'
+
+route:          185.56.80.0/24
+descr:          routed via Leaseweb
+origin:         AS60781
+mnt-by:         OCOM-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-1)
+
+

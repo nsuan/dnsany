@@ -1,0 +1,50 @@
+19.173.127.82.in-addr.arpa domain name pointer LNantes-156-75-14-19.w82-127.abo.wanadoo.fr.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '82.127.173.0 - 82.127.173.255'
+
+% Abuse contact for '82.127.173.0 - 82.127.173.255' is 'gestionip.ft@orange.com'
+
+inetnum:        82.127.173.0 - 82.127.173.255
+netname:        IP2000-ADSL-BAS
+descr:          LNNAN156 Nantes  Bloc 1
+country:        FR
+admin-c:        WITR1-RIPE
+tech-c:         WITR1-RIPE
+status:         ASSIGNED PA
+remarks:        for hacking, spamming or security problems send mail to
+remarks:        abuse@orange.fr
+mnt-by:         FT-BRX
+source:         RIPE # Filtered
+
+role:           Wanadoo France Technical Role
+address:        FRANCE TELECOM/SCR
+address:        48 rue Camille Desmoulins
+address:        92791 ISSY LES MOULINEAUX CEDEX 9
+address:        FR
+phone:          +33 1 58 88 50 00
+abuse-mailbox:  abuse@orange.fr
+admin-c:        BRX1-RIPE
+tech-c:         BRX1-RIPE
+nic-hdl:        WITR1-RIPE
+mnt-by:         FT-BRX
+source:         RIPE # Filtered
+
+% Information related to '82.127.0.0/16AS3215'
+
+route:          82.127.0.0/16
+descr:          France Telecom IP2000-ADSL-BAS
+origin:         AS3215
+mnt-by:         FT-BRX
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-2)
+
+
