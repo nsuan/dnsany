@@ -1,0 +1,71 @@
+Host 33.43.98.118.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '118.98.32.0 - 118.98.63.255'
+
+inetnum:        118.98.32.0 - 118.98.63.255
+netname:        TLKM_BB_INF_118_98
+country:        ID
+descr:          PT TELKOM INDONESIA
+descr:          Menara Multimedia Lt. 7
+descr:          Jl. Kebonsirih No.12
+descr:          JAKARTA
+admin-c:        AR165-AP
+tech-c:         HM444-AP
+remarks:        -----------------------------------------------------------
+remarks:        These IP was used for PT TELKOM Indonesia's Infrastructure.
+remarks:        -----------------------------------------------------------
+status:         ASSIGNED NON-PORTABLE
+changed:        hostmaster@telkom.net.id 20060109
+mnt-by:         MAINT-TELKOMNET
+source:         APNIC
+
+role:           PT Telkom Indonesia APNIC Resources Management
+address:        PT. TELKOM INDONESIA
+address:        Menara Multimedia Lt. 7
+address:        Jl. Kebonsirih No.12
+address:        JAKARTA
+country:        ID
+phone:          +62-21-3860500
+fax-no:         +62-21-3861215
+e-mail:         ip-admin@telkom.net.id
+admin-c:        HM444-AP
+tech-c:         HM444-AP
+nic-hdl:        AR165-AP
+notify:         hostmaster@telkom.net.id
+mnt-by:         MAINT-TELKOMNET
+changed:        hostmaster@telkom.net.id 20060105
+source:         APNIC
+
+person:         PT Telkom Indonesia Hostmaster
+nic-hdl:        HM444-AP
+e-mail:         hostmaster@telkom.net.id
+address:        PT. TELKOM INDONESIA
+address:        Menara Multimedia Lt. 7
+address:        Jl. Kebonsirih No.12
+address:        JAKARTA
+phone:          +62-21-3860500
+fax-no:         +62-21-3861215
+country:        ID
+notify:         hostmaster@telkom.net.id
+mnt-by:         MAINT-TELKOMNET
+changed:        hostmaster@telkom.net.id 20060105
+source:         APNIC
+
+% Information related to '118.98.43.0/24AS17974'
+
+route:          118.98.43.0/24
+descr:          PT. TELKOM INDONESIA
+descr:          Menara Multimedia Lt. 7
+descr:          Jln. Kebonsirih No.12
+descr:          JAKARTA
+country:        ID
+origin:         AS17974
+mnt-by:         MAINT-TELKOMNET
+changed:        hostmaster@telkom.net.id 20130612
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

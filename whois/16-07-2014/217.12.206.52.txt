@@ -1,0 +1,61 @@
+Host 52.206.12.217.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '217.12.206.0 - 217.12.207.255'
+
+% Abuse contact for '217.12.206.0 - 217.12.207.255' is 'abuse@uaservers.net'
+
+inetnum:        217.12.206.0 - 217.12.207.255
+netname:        NAVIGATORCAFE
+descr:          Internet Caffee Navigator
+descr:          Kharkov Ukraine
+descr:          www.nv.kharkov.ua
+country:        UA
+admin-c:        DD518-RIPE
+admin-c:        AYK7-RIPE
+tech-c:         DD518-RIPE
+tech-c:         AYK7-RIPE
+status:         ASSIGNED PA
+mnt-by:         ITL-MNT
+source:         RIPE # Filtered
+
+person:         Alex Kasatkin
+address:        6, Krasnooktyabrskaya str.
+address:        Kharkov, Ukraine
+phone:          +380 57 763 00 01
+phone:          +380 57 763 06 41
+fax-no:         +380 57 763 00 04
+nic-hdl:        AYK7-RIPE
+mnt-by:         SNP-MNT
+source:         RIPE # Filtered
+
+person:         Dmitry Deineka
+remarks:        Please use abuse mailbox for any reports about network abuse. Thank you.
+address:        26, Kosmichna street
+address:        Kharkov, Ukraine, 61145
+mnt-by:         DEINEKA-MNT
+phone:          +380 57 7630763
+fax-no:         +380 57 7630004
+nic-hdl:        DD518-RIPE
+abuse-mailbox:  abuse@layer6.net
+abuse-mailbox:  abuse@uaservers.net
+source:         RIPE # Filtered
+
+% Information related to '217.12.192.0/19AS15626'
+
+route:          217.12.192.0/19
+descr:          ITL Company
+origin:         AS15626
+mnt-by:         ITL-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.73.1 (DB-4)
+
+
