@@ -1,0 +1,94 @@
+Host 43.102.169.68.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=68.169.102.43?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       68.169.64.0 - 68.169.111.255
+CIDR:           68.169.96.0/20, 68.169.64.0/19
+OriginAS:       AS23393
+NetName:        ISPRIME-ARIN-4
+NetHandle:      NET-68-169-64-0-1
+Parent:         NET-68-0-0-0-0
+NetType:        Direct Allocation
+Comment:        Please send abuse complaints to abuse@isprime.com
+Comment:        This space is statically assigned
+RegDate:        2009-01-30
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-68-169-64-0-1
+
+OrgName:        ISPrime, Inc.
+OrgId:          IPRM
+Address:        300 Boulevard East
+Address:        Suite 100
+City:           Weehawken
+StateProv:      NJ
+PostalCode:     07086-6702
+Country:        US
+RegDate:        2002-02-15
+Updated:        2012-01-12
+Comment:        Please send abuse complaints to:
+Comment:        abuse@isprime.com
+Ref:            http://whois.arin.net/rest/org/IPRM
+
+ReferralServer: rwhois://rwhois.isprime.net:4321
+
+OrgNOCHandle: ISPRI-ARIN
+OrgNOCName:   ISPrime NOC
+OrgNOCPhone:  +1-212-812-9028 
+OrgNOCEmail:  noc@isprime.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/ISPRI-ARIN
+
+OrgTechHandle: ITS7-ARIN
+OrgTechName:   ISPrime Technical Support
+OrgTechPhone:  +1-212-812-9028 
+OrgTechEmail:  support@isprime.com
+OrgTechRef:    http://whois.arin.net/rest/poc/ITS7-ARIN
+
+OrgAbuseHandle: ISPRI1-ARIN
+OrgAbuseName:   ISPrime Abuse
+OrgAbusePhone:  +1-212-812-9028 
+OrgAbuseEmail:  abuse@isprime.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ISPRI1-ARIN
+
+RTechHandle: ITS7-ARIN
+RTechName:   ISPrime Technical Support
+RTechPhone:  +1-212-812-9028 
+RTechEmail:  support@isprime.com
+RTechRef:    http://whois.arin.net/rest/poc/ITS7-ARIN
+
+RAbuseHandle: ISPRI1-ARIN
+RAbuseName:   ISPrime Abuse
+RAbusePhone:  +1-212-812-9028 
+RAbuseEmail:  abuse@isprime.com
+RAbuseRef:    http://whois.arin.net/rest/poc/ISPRI1-ARIN
+
+RNOCHandle: ISPRI-ARIN
+RNOCName:   ISPrime NOC
+RNOCPhone:  +1-212-812-9028 
+RNOCEmail:  noc@isprime.com
+RNOCRef:    http://whois.arin.net/rest/poc/ISPRI-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to rwhois.isprime.net:4321.
+

@@ -1,0 +1,50 @@
+Host 132.222.84.88.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '88.84.222.0 - 88.84.222.255'
+
+% Abuse contact for '88.84.222.0 - 88.84.222.255' is 'abuse@flex.ru'
+
+inetnum:        88.84.222.0 - 88.84.222.255
+netname:        FlexHome
+descr:          Homelan network in Moscow region
+remarks:        INFRA-AW
+country:        RU
+admin-c:        PNB5-RIPE
+tech-c:         PNB5-RIPE
+tech-c:         PNB5-RIPE
+status:         ASSIGNED PA
+mnt-by:         FLEX-MNT
+mnt-lower:      FLEX-MNT
+source:         RIPE # Filtered
+
+person:         Pavel N. Bespalov
+address:        for Flex Home
+address:        Lenina sq 11
+address:        142403 Noginsk, Moscow region
+address:        Russian Federation
+phone:          +7 495 7029449
+fax-no:         +7 495 7029449
+nic-hdl:        PNB5-RIPE
+mnt-by:         FLEX-MNT
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+% Information related to '88.84.222.0/23AS21453'
+
+route:          88.84.222.0/23
+descr:          Flex ISP
+origin:         AS21453
+mnt-by:         FLEX-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74 (DB-2)
+
+

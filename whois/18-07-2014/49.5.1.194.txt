@@ -1,0 +1,57 @@
+Host 194.1.5.49.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '49.5.0.0 - 49.5.255.255'
+
+inetnum:        49.5.0.0 - 49.5.255.255
+netname:        DH-NET-BJ
+descr:          Beijing Digital Home Network Technology corporation
+descr:          901 Room,9F,E-Center Plaza,No.52 Northwest 4th Ring Road,
+descr:          Haidian District,Beijing,P.R.C.
+country:        CN
+admin-c:        AUTO1-HS
+tech-c:         AUTO1-CJ
+mnt-by:         MAINT-AP-CNISP
+mnt-irt:        IRT-CNISP-CN
+status:         allocated non-portable
+changed:        ip@cnisp.org.cn 20130816
+source:         APNIC
+
+irt:            IRT-CNISP-CN
+address:        CNISP-Union Technology (Beijing) Co., Ltd
+e-mail:         ip@cnisp.org.cn
+abuse-mailbox:  ip@cnisp.org.cn
+admin-c:        DY1-AUTO
+tech-c:         WF1-AUTO
+auth:           # Filtered
+mnt-by:         MAINT-AP-CNISP
+changed:        ip@cnisp.org.cn 20101109
+changed:        hm-changed@apnic.net 20101111
+source:         APNIC
+
+person:         Chi Juwei
+nic-hdl:        AUTO1-CJ
+e-mail:         chijw@founder.com
+address:        901 Room,9F,E-Center Plaza,No.52 Northwest 4th Ring Road,
+address:        Haidian District,Beijing,P.R.C.
+phone:          +86-10-82524019
+country:        CN
+changed:        ip@cnisp.org.cn 20130816
+mnt-by:         MAINT-AP-CNISP
+source:         APNIC
+
+person:         He Shan
+nic-hdl:        AUTO1-HS
+e-mail:         heshan@founder.com
+address:        901 Room,9F,E-Center Plaza,No.52 Northwest 4th Ring Road,
+address:        Haidian District,Beijing,P.R.C.
+phone:          +86-10-82524119
+country:        CN
+changed:        ip@cnisp.org.cn 20130816
+mnt-by:         MAINT-AP-CNISP
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+
