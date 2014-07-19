@@ -1,0 +1,48 @@
+211.209.212.88.in-addr.arpa domain name pointer workbeecorp.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '88.212.204.0 - 88.212.220.255'
+
+% Abuse contact for '88.212.204.0 - 88.212.220.255' is 'abuse@exepto.ru'
+
+inetnum:        88.212.204.0 - 88.212.220.255
+netname:        SKYMEDIA-NET
+descr:          Sky-Media Ltd. network
+country:        RU
+admin-c:        SKYM-RIPE
+tech-c:         SKYM-RIPE
+status:         ASSIGNED PA
+mnt-by:         SKYMEDIA-MNT
+source:         RIPE # Filtered
+
+role:           SKYMEDIA NOC
+address:        United Network Operation Center
+address:        3, Novolesnaya
+address:        127055, Moscow, Russia
+phone:          +7 (495) 783-60-12
+fax-no:         +7 (495) 783-60-15
+abuse-mailbox:  abuse@exepto.ru
+admin-c:        SO796-RIPE
+tech-c:         SO796-RIPE
+nic-hdl:        SKYM-RIPE
+mnt-by:         SKYMEDIA-MNT
+source:         RIPE # Filtered
+
+% Information related to '88.212.192.0/19AS39134'
+
+route:          88.212.192.0/19
+descr:          United Network LLC more-specific route
+origin:         AS39134
+mnt-by:         SKYMEDIA-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-4)
+
+

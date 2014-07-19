@@ -1,0 +1,44 @@
+Host 235.43.144.61.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.144.43.224 - 61.144.43.239'
+
+inetnum:        61.144.43.224 - 61.144.43.239
+netname:        shawanligong
+descr:          fanyu
+country:        CN
+admin-c:        GZ-AP
+tech-c:         IC83-AP
+mnt-by:         MAINT-CHINANET-GD
+changed:        gdtel_ipreg@163.com 20100113
+status:         Allocated non-portable
+source:         APNIC
+
+person:         GUANGZHOU WANJIAN
+address:        No.17, Jiao Chang Xi Road, Guangzhou ,China
+country:        CN
+phone:          +86-20-86002309
+e-mail:         ipadm@gddc.com.cn
+remarks:        IPMASTER is not for spam complaint,please send spam complaint to abuse@gddc.com.cn
+nic-hdl:        GZ-AP
+mnt-by:         MAINT-CHINANET-GD
+changed:        CHENYIQ@GSTA.COM 20080328
+source:         APNIC
+
+person:         IPMASTER CHINANET-GD
+nic-hdl:        IC83-AP
+e-mail:         ipadm@189.cn
+address:        NO.1,RO.DONGYUANHENG,YUEXIUNAN,GUANGZHOU
+phone:          +86-20-83877223
+fax-no:         +86-20-83877223
+country:        CN
+changed:        ipadm@189.cn 20110418
+mnt-by:         MAINT-CHINANET-GD
+remarks:        IPMASTER is not for spam complaint,please send spam complaint to abuse_gdnoc@189.cn
+abuse-mailbox:  antispam_gdnoc@189.cn
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

@@ -1,0 +1,117 @@
+42.160.3.192.in-addr.arpa domain name pointer .
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=192.3.160.42?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       192.3.0.0 - 192.3.255.255
+CIDR:           192.3.0.0/16
+OriginAS:       AS36352
+NetName:        CC-15
+NetHandle:      NET-192-3-0-0-1
+Parent:         NET-192-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2013-06-07
+Updated:        2013-06-07
+Ref:            http://whois.arin.net/rest/net/NET-192-3-0-0-1
+
+OrgName:        ColoCrossing
+OrgId:          VGS-9
+Address:        8469 Sheridan Drive
+Address:        ATTN: ARIN
+City:           Williamsville
+StateProv:      NY
+PostalCode:     14221
+Country:        US
+RegDate:        2005-06-20
+Updated:        2012-01-10
+Ref:            http://whois.arin.net/rest/org/VGS-9
+
+OrgNOCHandle: VIALA-ARIN
+OrgNOCName:   Vial, Alex 
+OrgNOCPhone:  +1-800-518-9716 
+OrgNOCEmail:  avial@colocrossing.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/VIALA-ARIN
+
+OrgAbuseHandle: ABUSE3246-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-518-9716 
+OrgAbuseEmail:  abuse@colocrossing.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3246-ARIN
+
+OrgTechHandle: NETWO882-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-800-518-9716 
+OrgTechEmail:  support@colocrossing.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO882-ARIN
+
+# end
+
+
+# start
+
+NetRange:       192.3.160.0 - 192.3.160.127
+CIDR:           192.3.160.0/25
+OriginAS:       AS36352
+NetName:        CC-192-3-160-0-25
+NetHandle:      NET-192-3-160-0-1
+Parent:         NET-192-3-0-0-1
+NetType:        Reallocated
+RegDate:        2013-11-19
+Updated:        2013-11-19
+Ref:            http://whois.arin.net/rest/net/NET-192-3-160-0-1
+
+OrgName:        123Systems Solutions
+OrgId:          SYSTE-82
+Address:        600 S Madison AVE. PO BOX 2106
+City:           Douglas
+StateProv:      GA
+PostalCode:     31534
+Country:        US
+RegDate:        2010-08-09
+Updated:        2013-12-18
+Ref:            http://whois.arin.net/rest/org/SYSTE-82
+
+OrgAbuseHandle: ABUSE2738-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-678-701-8545 
+OrgAbuseEmail:  abuse@123systems.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2738-ARIN
+
+OrgTechHandle: SUPPO936-ARIN
+OrgTechName:   Support
+OrgTechPhone:  +1-678-701-8545 
+OrgTechEmail:  support@123systems.net
+OrgTechRef:    http://whois.arin.net/rest/poc/SUPPO936-ARIN
+
+OrgNOCHandle: NOC11574-ARIN
+OrgNOCName:   NOC
+OrgNOCPhone:  +1-678-701-8545 
+OrgNOCEmail:  noc@123systems.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11574-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

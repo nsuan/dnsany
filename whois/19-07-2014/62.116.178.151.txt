@@ -1,0 +1,55 @@
+151.178.116.62.in-addr.arpa domain name pointer 151-178-116-62.rev.customer-net.de.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.116.178.128 - 62.116.178.159'
+
+% Abuse contact for '62.116.178.128 - 62.116.178.159' is 'abuse@internetx.com'
+
+inetnum:        62.116.178.128 - 62.116.178.159
+netname:        DW-Server-NET
+descr:          DynamicWare
+descr:          Wildenbruchstrasse 15
+descr:          07745 Jena
+descr:          Germany
+country:        DE
+remarks:        ---------------------------------------
+remarks:        Please send all Abuse, Spam, Scans and
+remarks:        Illegal Activity complaints to:
+remarks:        abuse@dynamicware.de
+remarks:        ---------------------------------------
+admin-c:        IF1040-RIPE
+tech-c:         IF1040-RIPE
+status:         ASSIGNED PA
+mnt-by:         IX1-MNT
+mnt-lower:      IX1-MNT
+mnt-routes:     IX1-MNT
+source:         RIPE # Filtered
+
+person:         Ingo Faulstich
+address:        DynamicWare
+address:        Wildenbruchstrasse 15
+address:        07745 Jena
+address:        Germany
+phone:          +49-3641-386900
+nic-hdl:        IF1040-RIPE
+source:         RIPE # Filtered
+mnt-by:         IX1-MNT
+
+% Information related to '62.116.160.0/19AS15456'
+
+route:          62.116.160.0/19
+descr:          INTERNETX-MUC-2
+origin:         AS15456
+mnt-by:         IX1-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+
