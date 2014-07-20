@@ -1,0 +1,82 @@
+162.61.241.58.in-addr.arpa domain name pointer mail.blackpeony.com.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '58.240.0.0 - 58.241.255.255'
+
+inetnum:        58.240.0.0 - 58.241.255.255
+netname:        UNICOM-JS
+descr:          China Unicom Jiangsu province network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         LL58-AP
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP
+mnt-lower:      MAINT-CNCGROUP-JS
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+mnt-irt:        IRT-CU-CN
+changed:        hm-changed@apnic.net 20050603
+changed:        hm-changed@apnic.net 20050621
+changed:        hm-changed@apnic.net 20090508
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+person:         Lan Li
+nic-hdl:        LL58-AP
+e-mail:         js-cu-ipmanage@chinaunicom.cn
+address:        No. 65 Beijing West Road,Nanjing,China
+phone:          +86257900060
+fax-no:         +86252900280
+country:        CN
+changed:        js-cu-ipmanage@chinaunicom.cn 20130815
+mnt-by:         MAINT-NEW
+source:         APNIC
+
+% Information related to '58.240.0.0/15AS4837'
+
+route:          58.240.0.0/15
+descr:          CNC Group Jiangsu province network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20050603
+changed:        hm-changed@apnic.net 20050622
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

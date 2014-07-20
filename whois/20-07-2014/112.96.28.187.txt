@@ -1,0 +1,91 @@
+Host 187.28.96.112.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '112.96.0.0 - 112.97.255.255'
+
+inetnum:        112.96.0.0 - 112.97.255.255
+netname:        UNICOM-GD
+descr:          China Unicom Guangdong province network
+descr:          China Unicom
+country:        CN
+admin-c:        CH1302-AP
+tech-c:         RP181-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CNCGROUP-GD
+mnt-routes:     MAINT-CNCGROUP-RR
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-irt:        IRT-CU-CN
+changed:        hm-changed@apnic.net 20090112
+changed:        hm-changed@apnic.net 20090507
+changed:        hm-changed@apnic.net 20090508
+source:         APNIC
+
+irt:            IRT-CU-CN
+address:        No.21,Jin-Rong Street
+address:        Beijing,100140
+address:        P.R.China
+e-mail:         zhouxm@chinaunicom.cn
+abuse-mailbox:  zhouxm@chinaunicom.cn
+admin-c:        CH1302-AP
+tech-c:         CH1302-AP
+auth:           # Filtered
+mnt-by:         MAINT-CNCGROUP
+changed:        zhouxm@chinaunicom.cn 20101110
+changed:        hm-changed@apnic.net 20101116
+source:         APNIC
+
+person:         ChinaUnicom Hostmaster
+nic-hdl:        CH1302-AP
+e-mail:         abuse@cnc-noc.net
+address:        No.21,Jin-Rong Street
+address:        Beijing,100033
+address:        P.R.China
+phone:          +86-10-66259764
+fax-no:         +86-10-66259764
+country:        CN
+changed:        abuse@cnc-noc.net 20090408
+mnt-by:         MAINT-CNCGROUP
+source:         APNIC
+
+person:         runkeng pan
+nic-hdl:        RP181-AP
+e-mail:         wangjj238@chinaunicom.cn
+address:        XinShiKong Plaza,No 666 Huangpu Rd. Guangzhou 510627,China
+phone:          +86-20-22214174
+fax-no:         +86-20-22212266-4174
+country:        CN
+changed:        wangjj238@chinaunicom.cn 20071221
+mnt-by:         MAINT-CNCGROUP-GD
+source:         APNIC
+
+% Information related to '112.96.0.0/15AS17816'
+
+route:          112.96.0.0/15
+descr:          China Unicom CHINA169 Guangdong Province Network
+country:        CN
+origin:         AS17816
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20090112
+source:         APNIC
+
+% Information related to '112.96.0.0/15AS4837'
+
+route:          112.96.0.0/15
+descr:          China Unicom CHINA169 Guangdong Province Network
+country:        CN
+origin:         AS4837
+mnt-by:         MAINT-CNCGROUP-RR
+changed:        abuse@cnc-noc.net 20090112
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+
