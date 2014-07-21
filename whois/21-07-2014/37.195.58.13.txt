@@ -1,0 +1,61 @@
+13.58.195.37.in-addr.arpa domain name pointer l37-195-58-13.novotelecom.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '37.195.56.0 - 37.195.63.255'
+
+% Abuse contact for '37.195.56.0 - 37.195.63.255' is 'noc@novotelecom.ru'
+
+inetnum:        37.195.56.0 - 37.195.63.255
+netname:        RU-NTK-20120321
+descr:          subnet 37.195.56-63 ethernet pool
+country:        RU
+admin-c:        CYBS-RIPE
+tech-c:         SHAN-RIPE
+tech-c:         RAIF-RIPE
+status:         ASSIGNED PA
+mnt-by:         RU-NTK-MNT
+remarks:        INFRA-AW
+source:         RIPE # Filtered
+
+person:         Mikhail Lomov
+address:        Novotelecom ltd.
+address:        Deputatskaya, 48
+address:        630099 Novosibirsk Russia
+phone:          +7 383 2090000
+nic-hdl:        CYBS-RIPE
+source:         RIPE # Filtered
+
+person:         Pavel V Stepanov
+address:        Novotelecom Ltd.
+address:        Novosibirsk, Russia
+phone:          +7 383 2090000
+nic-hdl:        RAIF-RIPE
+mnt-by:         RU-NTK-MNT
+source:         RIPE # Filtered
+
+person:         Andrei A. Shulzhenko
+address:        Novotelecom Ltd.
+address:        Deputatskaya, 48
+address:        630099 Novosibirsk Russia
+phone:          +7 383 2090000
+nic-hdl:        SHAN-RIPE
+source:         RIPE # Filtered
+
+% Information related to '37.195.0.0/16AS31200'
+
+route:          37.195.0.0/16
+descr:          Novotelecom Ltd.
+origin:         AS31200
+mnt-by:         RU-NTK-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-4)
+
+

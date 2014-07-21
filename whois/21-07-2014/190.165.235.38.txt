@@ -1,0 +1,53 @@
+38.235.165.190.in-addr.arpa domain name pointer adsl-190-165-235-38.une.net.co.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-07-21 01:01:19 (BRT -03:00)
+
+inetnum:     190.165.128/17
+status:      allocated
+aut-num:     N/A
+owner:       EPM Telecomunicaciones S.A. E.S.P.
+ownerid:     CO-EPME1-LACNIC
+responsible: Administrador EPMNET
+address:     Carrera 77 39b-16, -, -
+address:     940 - Medellin - CO
+country:     CO
+phone:       +57 4 4152280 []
+owner-c:     YGO2
+tech-c:      YGO2
+abuse-c:     YGO2
+inetrev:     190.165.128/17
+nserver:     LAUTA.UNE.NET.CO  
+nsstat:      20140717 AA
+nslastaa:    20140717
+nserver:     BIRLOCHA.UNE.NET.CO  
+nsstat:      20140717 AA
+nslastaa:    20140717
+created:     20081218
+changed:     20100115
+
+nic-hdl:     YGO2
+person:      Juan Molina
+e-mail:      adminternet@UNE.NET.CO
+address:     Cra. 16 Nro. 11A Sur 100, 100, --
+address:     NA - Medellin - An
+country:     CO
+phone:       +57 4 5150505 [0]
+created:     20030120
+changed:     20110928
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

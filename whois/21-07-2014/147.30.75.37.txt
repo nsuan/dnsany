@@ -1,0 +1,113 @@
+Host 37.75.30.147.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=147.30.75.37?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       147.29.0.0 - 147.30.255.255
+CIDR:           147.29.0.0/16, 147.30.0.0/16
+OriginAS:       
+NetName:        RIPE-ERX-147-29-0-0
+NetHandle:      NET-147-29-0-0-1
+Parent:         NET-147-0-0-0-0
+NetType:        Early Registrations, Transferred to RIPE NCC
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region.  Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+RegDate:        2003-10-08
+Updated:        2003-10-08
+Ref:            http://whois.arin.net/rest/net/NET-147-29-0-0-1
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+Country:        NL
+RegDate:        
+Updated:        2013-07-29
+Ref:            http://whois.arin.net/rest/org/RIPE
+
+ReferralServer: whois://whois.ripe.net:43
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    http://whois.arin.net/rest/poc/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31205354444 
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3850-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to whois.ripe.net:43.
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '147.30.64.0 - 147.30.79.255'
+
+% Abuse contact for '147.30.64.0 - 147.30.79.255' is 'abuse@telecom.kz'
+
+inetnum:        147.30.64.0 - 147.30.79.255
+netname:        GPON_FTTH_SERVICES_KT
+descr:          JSC Kazakhtelecom, Kazakhstan Online Backbone
+descr:          Dynamic GPON-FTTH
+descr:          Astana
+country:        KZ
+admin-c:        KN913-RIPE
+tech-c:         KN913-RIPE
+status:         ASSIGNED PA
+mnt-by:         KNIC-MNT
+source:         RIPE # Filtered
+
+person:         Kazakhtelecom NOC
+address:        Kazakhtelecom Data Network Administration
+address:        129 Panfilov st.
+address:        050091, Almaty
+phone:          +7 727 2587999
+mnt-by:         KNIC-MNT
+nic-hdl:        KN913-RIPE
+source:         RIPE # Filtered
+
+% Information related to '147.30.72.0/22AS9198'
+
+route:          147.30.72.0/22
+descr:          Kazakhtelecom Data Network Administration
+origin:         AS9198
+mnt-by:         KNIC-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+
