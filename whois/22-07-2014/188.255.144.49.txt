@@ -1,0 +1,53 @@
+49.144.255.188.in-addr.arpa domain name pointer free-144-49.mediaworksit.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '188.255.144.0 - 188.255.159.255'
+
+% Abuse contact for '188.255.144.0 - 188.255.159.255' is 'abuse@oriontelekom.rs'
+
+inetnum:        188.255.144.0 - 188.255.159.255
+netname:        ORIONTELEKOMTIM-NET
+descr:          Orion Telekom Tim  Wifi Users
+country:        RS
+admin-c:        OTN7-RIPE
+tech-c:         OTN7-RIPE
+status:         ASSIGNED PA
+remarks:        INFRA-AW
+mnt-by:         ORIONTELEKOM-MNT
+source:         RIPE # Filtered
+
+role:           Orion Telekom NOC
+address:        Orion Telekom
+address:        Gandijeva 76a, Belgrade, Serbia
+phone:          +381 11 2228 388
+fax-no:         +381 11 2228 334
+remarks:        *******************************************************************
+remarks:        Please send abuse reports to abuse@oriontelekom.rs
+remarks:        *******************************************************************
+abuse-mailbox:  abuse@oriontelekom.rs
+admin-c:        TERZ1-RIPE
+admin-c:        BL3549-RIPE
+admin-c:        ZA1048-RIPE
+tech-c:         VG1799-RIPE
+nic-hdl:        OTN7-RIPE
+mnt-by:         ORIONTELEKOM-MNT
+source:         RIPE # Filtered
+
+% Information related to '188.255.144.0/20AS9125'
+
+route:          188.255.144.0/20
+descr:          Orion Telekom WiFi users in Belgrade
+origin:         AS9125
+mnt-by:         ORIONTELEKOM-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+

@@ -1,0 +1,48 @@
+Host 171.137.243.103.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '103.243.136.0 - 103.243.139.255'
+
+inetnum:        103.243.136.0 - 103.243.139.255
+netname:        CU-CDC
+descr:          CHINA UNICOM CLOUD DATA COMPANY LIMITED
+descr:          A133, Xidan North Avenue, Xicheng District, Beijing.
+admin-c:        ZM909-AP
+tech-c:         ZM909-AP
+country:        CN
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+status:         ALLOCATED PORTABLE
+changed:        hm-changed@apnic.net 20131012
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110428
+source:         APNIC
+
+person:         Xin Xing
+address:        A133,Xidan North Avenue, Xicheng District, Beijing
+country:        CN
+phone:          +86-18618215599
+e-mail:         xingxin2@chinaunicom.cn
+nic-hdl:        ZM909-AP
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.net 20131012
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+

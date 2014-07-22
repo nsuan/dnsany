@@ -1,0 +1,46 @@
+Host 101.58.54.190.in-addr.arpa. not found: 3(NXDOMAIN)
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-07-22 01:01:23 (BRT -03:00)
+
+inetnum:     190.54.58.96/29
+status:      reallocated
+owner:       Asesorias y Sistemas Habilis Ltda.
+ownerid:     CL-AYSH-LACNIC
+responsible: Asesorias y Sistemas Habilis Ltda.
+address:     Avenida America Vespucio Sur, 80, 1
+address:     NONE - Las Condes - cl
+country:     CL
+phone:       +56 2 5825000 []
+owner-c:     AIC2
+tech-c:      AIC2
+abuse-c:     AIC2
+created:     20070323
+changed:     20070323
+inetnum-up:  190.54.0/17
+
+nic-hdl:     AIC2
+person:      Core Internet Telmex Chile
+e-mail:      netadmin@IP.TELMEXCHILE.CL
+address:     Rinconada el Salto, 202, Huechuraba
+address:     -- - Santiago - 
+country:     CL
+phone:       +56 2 5825365 []
+created:     20030314
+changed:     20070417
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+
