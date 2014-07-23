@@ -1,0 +1,52 @@
+94.88.173.109.in-addr.arpa domain name pointer broadband-109-173-88-94.nationalcablenetworks.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '109.173.64.0 - 109.173.127.255'
+
+% Abuse contact for '109.173.64.0 - 109.173.127.255' is 'ripe@rt.ru'
+
+inetnum:        109.173.64.0 - 109.173.127.255
+netname:        NCN-BBCUST
+descr:          NCNET Broadband customers
+country:        RU
+admin-c:        NCN7-RIPE
+tech-c:         NCN7-RIPE
+status:         ASSIGNED PA
+mnt-by:         NCNET-MNT
+mnt-lower:      NCNET-MNT
+mnt-routes:     NCNET-MNT
+source:         RIPE # Filtered
+
+role:           NCNET NCC Operations
+address:        National Cable Networks
+address:        Nagatinskaya str., 1, bldn. 26
+address:        117105 Moscow, Russia
+org:            ORG-NCN1-RIPE
+admin-c:        RVP-RIPE
+tech-c:         RVP-RIPE
+phone:          +7 495 6859542
+fax-no:         +7 495 6859530
+mnt-by:         NCNET-MNT
+nic-hdl:        NCN7-RIPE
+source:         RIPE # Filtered
+abuse-mailbox:  abuse@ncnet.ru
+
+% Information related to '109.173.64.0/18AS42610'
+
+route:          109.173.64.0/18
+descr:          NCNET
+origin:         AS42610
+mnt-by:         NCNET-MNT
+mnt-lower:      NCNET-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-3)
+
+

@@ -1,0 +1,68 @@
+216.50.174.61.in-addr.arpa domain name pointer 216.50.174.61.dial.wz.zj.dynamic.163data.com.cn.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.174.48.0 - 61.174.55.255'
+
+inetnum:        61.174.48.0 - 61.174.55.255
+netname:        CHINANET-ZJ-HU
+country:        CN
+descr:          CHINANET-ZJ Huzhou node network
+descr:          Zhejiang Telecom
+admin-c:        CZ4-AP
+tech-c:         CH119-AP
+mnt-irt:        IRT-CHINANET-ZJ
+status:         ALLOCATED NON-PORTABLE
+changed:        15325819758@189.cn 20111231
+mnt-by:         MAINT-CHINANET-ZJ
+mnt-lower:      MAINT-CN-CHINANET-ZJ-HU
+source:         APNIC
+
+irt:            IRT-CHINANET-ZJ
+address:        Hangzhou, 288 fucun Road, China
+e-mail:         lfliu@pubinfo.com.cn
+abuse-mailbox:  antispam@dcb.hz.zj.cn
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        auto-dbm@dcb.hz.zj.cn 20101129
+source:         APNIC
+
+role:           CHINANET-ZJ Huzhou
+address:        No.18 Hongqi Road,Huzhou,Zhejiang.313000
+country:        CN
+phone:          +86-572-2022163
+fax-no:         +86-572-2210609
+e-mail:         anti_spam@mail.huptt.zj.cn
+remarks:        send spam reports to anti_spam@mail.huptt.zj.cn
+remarks:        and abuse reports to anti_spam@mail.huptt.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH50-AP
+tech-c:         CH50-AP
+nic-hdl:        CH119-AP
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        master@dcb.hz.zj.cn 20031204
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+role:           CHINANET ZHEJIANG
+address:        No. 257 Qingjiang Road, Hangzhou, Zhejiang.310066
+country:        CN
+phone:          +86-571-86821752
+fax-no:         +86-571-86988329
+e-mail:         antispam@dcb.hz.zj.cn
+remarks:        send spam reports to antispam@dcb.hz.zj.cn
+remarks:        and abuse reports to antispam@dcb.hz.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+nic-hdl:        CZ4-AP
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        hjh@dcb.hz.zj.cn 20050914
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

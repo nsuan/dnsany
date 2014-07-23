@@ -1,0 +1,53 @@
+121.8.5.190.in-addr.arpa domain name pointer host121.190-5-8.steel.net.ar.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-07-23 01:05:22 (BRT -03:00)
+
+inetnum:     190.5.8/24
+status:      reallocated
+owner:       Cooperativa de Obras y Servicios Oliveros Limitada
+ownerid:     AR-COYS19-LACNIC
+responsible: Miguel Donato
+address:     Sarmiento, 368, 
+address:     2206 - Oliveros - 
+country:     AR
+phone:       +54 3476 498055 []
+owner-c:     GEG5
+tech-c:      GEG5
+abuse-c:     GEG5
+inetrev:     190.5.8/24
+nserver:     GANDALF.STEEL.NET.AR  
+nsstat:      20140722 AA
+nslastaa:    20140722
+nserver:     SMAIL.STEEL.NET.AR  
+nsstat:      20140722 AA
+nslastaa:    20140722
+created:     20110906
+changed:     20110906
+inetnum-up:  190.5.0/19
+
+nic-hdl:     GEG5
+person:      Gerardo Gonzalez
+e-mail:      ggonzalez@STEEL.COM.AR
+address:     Pueyrredón, 868, 
+address:     2152 - Granadero Baigorria - SF
+country:     AR
+phone:       +54 341 4711242 []
+created:     20051214
+changed:     20110811
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

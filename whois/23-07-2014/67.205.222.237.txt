@@ -1,0 +1,242 @@
+Host 237.222.205.67.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=67.205.222.237?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       67.205.192.0 - 67.205.255.255
+CIDR:           67.205.192.0/18
+OriginAS:       
+NetName:        HOTWI
+NetHandle:      NET-67-205-192-0-1
+Parent:         NET-67-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2007-12-07
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-67-205-192-0-1
+
+OrgName:        Hotwire Communications
+OrgId:          HOTWI
+Address:        1 Belmont Avenue
+Address:        Suite 1100
+City:           Bala Cynwyd
+StateProv:      PA
+PostalCode:     19004
+Country:        US
+RegDate:        2004-05-10
+Updated:        2013-08-26
+Ref:            http://whois.arin.net/rest/org/HOTWI
+
+ReferralServer: rwhois://rwhois.gethotwired.net:4321
+
+OrgAbuseHandle: JSL39-ARIN
+OrgAbuseName:   Slattery, Jim 
+OrgAbusePhone:  +1-610-324-6303 
+OrgAbuseEmail:  JSlattery@hotwirecommunication.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: DRK9-ARIN
+OrgTechName:   Ketterhagen, Donald Robert
+OrgTechPhone:  +1-919-608-6178 
+OrgTechEmail:  bob@ketterhagen.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DRK9-ARIN
+
+OrgTechHandle: JSL39-ARIN
+OrgTechName:   Slattery, Jim 
+OrgTechPhone:  +1-610-324-6303 
+OrgTechEmail:  JSlattery@hotwirecommunication.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: CMR33-ARIN
+OrgTechName:   Rios, Chris M
+OrgTechPhone:  +1-267-575-0528 
+OrgTechEmail:  crios@hotwirecommunication.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+OrgTechHandle: NRG-ARIN
+OrgTechName:   Goodman, Nathan R
+OrgTechPhone:  +1-209-669-1488 
+OrgTechEmail:  ngoodman@oc12.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NRG-ARIN
+
+OrgTechHandle: LAWSO19-ARIN
+OrgTechName:   Lawson, Jeff 
+OrgTechPhone:  +1-215-720-4028 
+OrgTechEmail:  jlawson@hotwiremail.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LAWSO19-ARIN
+
+OrgNOCHandle: JSL39-ARIN
+OrgNOCName:   Slattery, Jim 
+OrgNOCPhone:  +1-610-324-6303 
+OrgNOCEmail:  JSlattery@hotwirecommunication.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RTechHandle: CMR33-ARIN
+RTechName:   Rios, Chris M
+RTechPhone:  +1-267-575-0528 
+RTechEmail:  crios@hotwirecommunication.com
+RTechRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+RNOCHandle: CMR33-ARIN
+RNOCName:   Rios, Chris M
+RNOCPhone:  +1-267-575-0528 
+RNOCEmail:  crios@hotwirecommunication.com
+RNOCRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+RAbuseHandle: JSL39-ARIN
+RAbuseName:   Slattery, Jim 
+RAbusePhone:  +1-610-324-6303 
+RAbuseEmail:  JSlattery@hotwirecommunication.com
+RAbuseRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RNOCHandle: JSL39-ARIN
+RNOCName:   Slattery, Jim 
+RNOCPhone:  +1-610-324-6303 
+RNOCEmail:  JSlattery@hotwirecommunication.com
+RNOCRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RTechHandle: JSL39-ARIN
+RTechName:   Slattery, Jim 
+RTechPhone:  +1-610-324-6303 
+RTechEmail:  JSlattery@hotwirecommunication.com
+RTechRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RAbuseHandle: CMR33-ARIN
+RAbuseName:   Rios, Chris M
+RAbusePhone:  +1-267-575-0528 
+RAbuseEmail:  crios@hotwirecommunication.com
+RAbuseRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+# end
+
+
+# start
+
+NetRange:       67.205.222.0 - 67.205.223.255
+CIDR:           67.205.222.0/23
+OriginAS:       AS23089
+NetName:        EUROSUITES
+NetHandle:      NET-67-205-222-0-1
+Parent:         NET-67-205-192-0-1
+NetType:        Reassigned
+RegDate:        2010-08-10
+Updated:        2010-08-10
+Ref:            http://whois.arin.net/rest/net/NET-67-205-222-0-1
+
+CustName:       Private Customer - Hotwire Communications
+Address:        1750 Northwest & 107th Avenue
+City:           Doral
+StateProv:      FL
+PostalCode:     33172
+Country:        US
+RegDate:        2010-08-10
+Updated:        2011-03-19
+Ref:            http://whois.arin.net/rest/customer/C02565683
+
+OrgAbuseHandle: JSL39-ARIN
+OrgAbuseName:   Slattery, Jim 
+OrgAbusePhone:  +1-610-324-6303 
+OrgAbuseEmail:  JSlattery@hotwirecommunication.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: DRK9-ARIN
+OrgTechName:   Ketterhagen, Donald Robert
+OrgTechPhone:  +1-919-608-6178 
+OrgTechEmail:  bob@ketterhagen.com
+OrgTechRef:    http://whois.arin.net/rest/poc/DRK9-ARIN
+
+OrgTechHandle: JSL39-ARIN
+OrgTechName:   Slattery, Jim 
+OrgTechPhone:  +1-610-324-6303 
+OrgTechEmail:  JSlattery@hotwirecommunication.com
+OrgTechRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+OrgTechHandle: CMR33-ARIN
+OrgTechName:   Rios, Chris M
+OrgTechPhone:  +1-267-575-0528 
+OrgTechEmail:  crios@hotwirecommunication.com
+OrgTechRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+OrgTechHandle: NRG-ARIN
+OrgTechName:   Goodman, Nathan R
+OrgTechPhone:  +1-209-669-1488 
+OrgTechEmail:  ngoodman@oc12.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NRG-ARIN
+
+OrgTechHandle: LAWSO19-ARIN
+OrgTechName:   Lawson, Jeff 
+OrgTechPhone:  +1-215-720-4028 
+OrgTechEmail:  jlawson@hotwiremail.com
+OrgTechRef:    http://whois.arin.net/rest/poc/LAWSO19-ARIN
+
+OrgNOCHandle: JSL39-ARIN
+OrgNOCName:   Slattery, Jim 
+OrgNOCPhone:  +1-610-324-6303 
+OrgNOCEmail:  JSlattery@hotwirecommunication.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RTechHandle: CMR33-ARIN
+RTechName:   Rios, Chris M
+RTechPhone:  +1-267-575-0528 
+RTechEmail:  crios@hotwirecommunication.com
+RTechRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+RNOCHandle: CMR33-ARIN
+RNOCName:   Rios, Chris M
+RNOCPhone:  +1-267-575-0528 
+RNOCEmail:  crios@hotwirecommunication.com
+RNOCRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+RAbuseHandle: JSL39-ARIN
+RAbuseName:   Slattery, Jim 
+RAbusePhone:  +1-610-324-6303 
+RAbuseEmail:  JSlattery@hotwirecommunication.com
+RAbuseRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RNOCHandle: JSL39-ARIN
+RNOCName:   Slattery, Jim 
+RNOCPhone:  +1-610-324-6303 
+RNOCEmail:  JSlattery@hotwirecommunication.com
+RNOCRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RTechHandle: JSL39-ARIN
+RTechName:   Slattery, Jim 
+RTechPhone:  +1-610-324-6303 
+RTechEmail:  JSlattery@hotwirecommunication.com
+RTechRef:    http://whois.arin.net/rest/poc/JSL39-ARIN
+
+RAbuseHandle: CMR33-ARIN
+RAbuseName:   Rios, Chris M
+RAbusePhone:  +1-267-575-0528 
+RAbuseEmail:  crios@hotwirecommunication.com
+RAbuseRef:    http://whois.arin.net/rest/poc/CMR33-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to rwhois.gethotwired.net:4321.
+
