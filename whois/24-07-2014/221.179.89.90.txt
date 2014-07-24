@@ -1,0 +1,77 @@
+Host 90.89.179.221.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '221.176.0.0 - 221.183.255.255'
+
+inetnum:        221.176.0.0 - 221.183.255.255
+netname:        CMNET
+descr:          China Mobile Communications Corporation
+descr:          Mobile Communications Network Operator in China
+descr:          Internet Service Provider in China
+country:        CN
+admin-c:        JS686-AP
+tech-c:         CT74-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CN-CMCC
+mnt-routes:     MAINT-CN-CMCC
+remarks:        ------------------------------
+remarks:        Please send abuse e-mail to
+remarks:        abuse@chinamobile.com
+remarks:        Please send probe e-mail to
+remarks:        security@chinamobile.com
+remarks:        -------------------------------
+changed:        hm-changed@apnic.net 20030909
+changed:        hm-changed@apnic.net 20030923
+status:         ALLOCATED PORTABLE
+source:         APNIC
+
+role:           chinamobile tech
+address:        29, Jinrong Ave.,Xicheng district
+address:        Beijing
+country:        CN
+phone:          +86 6600 6688
+fax-no:         +86 6600 6187
+e-mail:         hostmaster@chinamobile.com
+remarks:        send spam reports to spam@chinamobile.com
+remarks:        and abuse reports to abuse@chinamobile.com
+remarks:        Please include detailed information and
+remarks:        times in UTC
+admin-c:        HL1318-AP
+tech-c:         JS686-AP
+nic-hdl:        ct74-AP
+notify:         hostmaster@chinamobile.com
+mnt-by:         MAINT-cn-cmcc
+changed:        hostmaster@chinamobile.com 20091019
+source:         APNIC
+
+person:         Jinxia Sun
+address:        China Mobile Communications Corporation
+address:        29, Jinrong Ave., Xicheng District, Beijing, 100032
+country:        CN
+phone:          +86-10-66006688-1755
+fax-no:         +86-10-66006012
+e-mail:         sunjinxia@chinamobile.com
+nic-hdl:        JS686-AP
+remarks:        ------------------------------
+remarks:        Please send abuse e-mail to
+remarks:        abuse@chinamobile.com
+remarks:        Please send probe e-mail to
+remarks:        security@chinamobile.com
+remarks:        -------------------------------
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20030130
+source:         APNIC
+
+% Information related to '221.176.0.0/13AS9808'
+
+route:          221.176.0.0/13
+descr:          China Mobile communications corporation
+origin:         AS9808
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20120215
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+
