@@ -1,0 +1,63 @@
+118.87.116.212.in-addr.arpa domain name pointer h-212-116-87-118.na.cust.bahnhof.se.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.116.87.116 - 212.116.87.119'
+
+% Abuse contact for '212.116.87.116 - 212.116.87.119' is 'abuse@bahnhof.net'
+
+inetnum:        212.116.87.116 - 212.116.87.119
+netname:        RID-0000054463
+descr:          RID-0000054463
+country:        SE
+admin-c:        BD856-RIPE
+tech-c:         BD856-RIPE
+status:         ASSIGNED PA
+mnt-by:         BAHNHOF-NCC
+source:         RIPE # Filtered
+
+role:           Bahnhof DBM
+address:        Bahnhof AB
+address:        Isafjordsgatan 32B
+address:        164 40 Kista
+address:        Sweden
+admin-c:        BD856-RIPE
+tech-c:         BD856-RIPE
+nic-hdl:        BD856-RIPE
+mnt-by:         BAHNHOF-NCC
+source:         RIPE # Filtered
+
+% Information related to '212.116.64.0/19AS16261'
+
+route:          212.116.64.0/19
+descr:          GlobeCom Network AB
+descr:          Klostergatan 14
+descr:          SE-22222 LUND
+descr:          Sweden
+descr:          ********************************************
+descr:          *                                          *
+descr:          * Questions regarding our routing policy   *
+descr:          * should be sent to: noc@globecom.se       *
+descr:          *                                          *
+descr:          ********************************************
+origin:         AS16261
+mnt-by:         GLOBECOM-MNT
+source:         RIPE # Filtered
+
+% Information related to '212.116.64.0/19AS8473'
+
+route:          212.116.64.0/19
+descr:          Bahnhof Internet, Sweden
+origin:         AS8473
+mnt-by:         BAHNHOF-NCC
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-1)
+
+

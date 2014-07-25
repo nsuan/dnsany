@@ -1,0 +1,74 @@
+162.223.226.213.in-addr.arpa domain name pointer holusa.hermanuv-mestec.net.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.226.223.0 - 213.226.223.255'
+
+% Abuse contact for '213.226.223.0 - 213.226.223.255' is 'stefan@becolink.cz'
+
+inetnum:        213.226.223.0 - 213.226.223.255
+netname:        OMEGA-HERMANUVMESTEC-NET
+descr:          Omega plus
+descr:          Hermanuv Mestec
+country:        CZ
+admin-c:        MK283-RIPE
+tech-c:         MH283-RIPE
+tech-c:         MB750701-RIPE
+status:         ASSIGNED PA
+mnt-by:         BECOLINK-MNT
+source:         RIPE # Filtered
+
+person:         Martin Brazda
+address:        Omega PLUS Chrudim s.r.o.
+address:        Palackeho trida 314
+address:        Chrudim
+address:        53701
+address:        Czech Republic
+phone:          +420469603311
+fax-no:         +420469603310
+nic-hdl:        MB750701-RIPE
+mnt-by:         BECOLINK-MNT
+source:         RIPE # Filtered
+
+person:         Milan Hostovsky
+address:        Omega plus
+address:        Kozeluzska  554
+address:        Chrudim
+address:        537 01
+address:        The Czech Republic
+phone:          +420 469637585
+fax-no:         +420 469637585
+nic-hdl:        MH283-RIPE
+mnt-by:         BECOLINK-MNT
+source:         RIPE # Filtered
+
+person:         Milan Kusta
+address:        Omega plus
+address:        Palackeho 314
+address:        Chrudim
+address:        537 01
+address:        The Czech Republic
+phone:          +420 469637585
+fax-no:         +420 469637585
+nic-hdl:        MK283-RIPE
+mnt-by:         BECOLINK-MNT
+source:         RIPE # Filtered
+
+% Information related to '213.226.208.0/20AS35046'
+
+route:          213.226.208.0/20
+descr:          Omegaplus Chrudim
+descr:          The Czech Republic
+origin:         AS35046
+mnt-by:         BECOLINK-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+
