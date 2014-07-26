@@ -1,0 +1,50 @@
+Host 239.150.162.14.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '14.160.0.0 - 14.191.255.255'
+
+inetnum:        14.160.0.0 - 14.191.255.255
+netname:        VNPT-VNNIC-VN
+descr:          VietNam Post and Telecom Corporation
+descr:          57 Huynh Thuc Khang str, Dong Da Dist, Ha Noi
+country:        VN
+admin-c:        NXC1-AP
+tech-c:         KNH1-AP
+remarks:        for admin contact mail to Nguyen Xuan Cuong -->NXC1-AP
+remarks:        for Tech contact mail to Nguyen Hien Khanh --> KNH1-AP
+status:         Allocated portable
+changed:        hm-changed@apnic.net 20100816
+mnt-by:         MAINT-VN-VNNIC
+mnt-lower:      MAINT-VN-VNPT
+mnt-routes:     MAINT-VN-VNPT
+source:         APNIC
+
+person:         Khanh Nguyen Hien
+nic-hdl:        KNH1-AP
+e-mail:         hathm@vdc.com.vn
+address:        Vietnam Datacommunications Company (VDC)
+address:        Lo IIA Lang Quoc te Thang Long, Cau Giay, Ha Noi
+phone:          +84-4-3793 0563
+fax-no:         +84-4-32811506
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20090227
+mnt-by:         VNPT
+source:         APNIC
+
+person:         Nguyen Xuan Cuong
+nic-hdl:        NXC1-AP
+e-mail:         cuongnx@vnpt.com.vn
+address:        Vietnam Posts and Telecommunications (VNPT)
+address:        57 Huynh Thuc Khang
+address:        Hanoi, Vietnam
+phone:          +84-4-37741236
+fax-no:         +84-4-37741205
+country:        VN
+changed:        hm-changed@vnnic.net.vn 20090922
+mnt-by:         MAINT-VN-VNPT
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

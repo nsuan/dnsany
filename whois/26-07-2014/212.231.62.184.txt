@@ -1,0 +1,81 @@
+Host 184.62.231.212.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '212.230.0.0 - 212.231.255.255'
+
+% Abuse contact for '212.230.0.0 - 212.231.255.255' is 'abuse@xtratelecom.es'
+
+inetnum:        212.230.0.0 - 212.231.255.255
+netname:        ES-MUNDITELECOM-20000914
+descr:          Xtra Telecom, S.L.
+country:        ES
+org:            ORG-PTS1-RIPE
+admin-c:        JLP46-RIPE
+tech-c:         JCM13-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      MUNDI-MNT
+mnt-routes:     MUNDI-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-PTS1-RIPE
+org-name:       Xtra Telecom, S.L.
+org-type:       LIR
+address:        Xtratelecom, S.L.
+address:        Jose Luis Perez Diaz.
+address:        Via de las Dos Castillas 33,
+                complejo Atica, edificio I.
+address:        28224
+address:        Madrid
+address:        SPAIN
+phone:          +34918290000
+fax-no:         +34918290099
+mnt-ref:        MUNDI-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+admin-c:        JAR30-RIPE
+admin-c:        JLP46-RIPE
+admin-c:        JAM44-RIPE
+abuse-c:        XAT2-RIPE
+source:         RIPE # Filtered
+
+person:         Juan Carlos Moreno
+address:        PMI-MAD.org
+address:        Avda. de Europa 14
+address:        Alcobendas, Madrid 28108
+phone:          +34 911 890 560
+fax-no:         +34 916 625 019
+nic-hdl:        JCM13-RIPE
+mnt-by:         jcm-mnt
+source:         RIPE # Filtered
+
+person:         Jose Luis Perez
+address:        Xtratelecom, S.A.
+address:        Via de las dos Castillas, 33.
+address:        Edificio Atica 1.
+address:        28224 Pozuelo de Alarcon (Madrid).
+address:        SPAIN
+phone:          +34918290067
+fax-no:         +34918290099
+nic-hdl:        JLP46-RIPE
+mnt-by:         MUNDI-MNT
+source:         RIPE # Filtered
+
+% Information related to '212.230.0.0/15AS15704'
+
+route:          212.230.0.0/15
+descr:          Global ISP by PriorityTelecom Spain, S.A.
+origin:         AS15704
+mnt-by:         MUNDI-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-3)
+
+

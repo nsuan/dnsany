@@ -1,0 +1,56 @@
+145.140.239.91.in-addr.arpa domain name pointer client-91.239.140.145.napalm.ekys.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.239.140.0 - 91.239.143.255'
+
+% No abuse contact registered for 91.239.140.0 - 91.239.143.255
+
+inetnum:        91.239.140.0 - 91.239.143.255
+netname:        EKUS
+descr:          Ekus Ltd
+country:        RU
+org:            ORG-EKUS1-RIPE
+admin-c:        VV2637-RIPE
+tech-c:         VV2637-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-by:         EKUS-MNT
+mnt-routes:     EKUS-MNT
+mnt-domains:    EKUS-MNT
+source:         RIPE # Filtered
+sponsoring-org: ORG-Vs35-RIPE
+
+organisation:   ORG-EKUS1-RIPE
+org-name:       Ekus Ltd.
+org-type:       OTHER
+address:        Russia, Moscow, Myasnitskaya Str. 35
+mnt-ref:        EKUS-MNT
+mnt-by:         EKUS-MNT
+source:         RIPE # Filtered
+
+person:         Vergilis Vadim
+address:        Moscow, Nagatinskaja naberezhnaja 10
+phone:          +7 926 3920977
+nic-hdl:        VV2637-RIPE
+mnt-by:         EKUS-MNT
+source:         RIPE # Filtered
+
+% Information related to '91.239.140.0/22AS58219'
+
+route:          91.239.140.0/22
+descr:          Ekus Ltd.
+origin:         AS58219
+mnt-by:         EKUS-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-1)
+
+

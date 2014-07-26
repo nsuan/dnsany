@@ -1,0 +1,65 @@
+Host 235.17.114.74.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=74.114.17.235?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       74.114.16.0 - 74.114.23.255
+CIDR:           74.114.16.0/21
+OriginAS:       AS32535
+NetName:        GAW
+NetHandle:      NET-74-114-16-0-1
+Parent:         NET-74-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-05-21
+Updated:        2013-01-03
+Ref:            http://whois.arin.net/rest/net/NET-74-114-16-0-1
+
+OrgName:        GAW High-Speed Internet Inc
+OrgId:          GHI-5
+Address:        PO Box 3
+City:           Somers
+StateProv:      CT
+PostalCode:     06071
+Country:        US
+RegDate:        2011-12-16
+Updated:        2013-08-09
+Ref:            http://whois.arin.net/rest/org/GHI-5
+
+OrgAbuseHandle: ABUSE1888-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-877-543-8429 
+OrgAbuseEmail:  abuse@gaw.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE1888-ARIN
+
+OrgTechHandle: NETOP48-ARIN
+OrgTechName:   netops
+OrgTechPhone:  +1-877-543-8429 
+OrgTechEmail:  netops@gaw.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETOP48-ARIN
+
+OrgNOCHandle: NETOP48-ARIN
+OrgNOCName:   netops
+OrgNOCPhone:  +1-877-543-8429 
+OrgNOCEmail:  netops@gaw.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NETOP48-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

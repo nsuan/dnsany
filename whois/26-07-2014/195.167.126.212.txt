@@ -1,0 +1,61 @@
+212.126.167.195.in-addr.arpa domain name pointer ooqb93.static.otenet.gr.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '195.167.100.0 - 195.167.127.255'
+
+% Abuse contact for '195.167.100.0 - 195.167.127.255' is 'abuse@ote.gr'
+
+inetnum:        195.167.100.0 - 195.167.127.255
+netname:        OTENET
+descr:          Multiprotocol Service Provider to other ISP's and End Users
+descr:          located in Greece and having nodes in 63 cities
+country:        GR
+admin-c:        OIA15-RIPE
+tech-c:         OIA15-RIPE
+remarks:        rev-srv:        ns1.otenet.gr
+remarks:        rev-srv:        ns2.otenet.gr
+status:         ASSIGNED PA
+remarks:        +---------------------------------
+remarks:        |General enquiries: noc@otenet.gr |
+remarks:        |Abuse & Spam:   abuse@otenet.gr  |
+remarks:        |DNS & RIPE: hostmaster@otenet.gr |
+remarks:        +---------------------------------
+mnt-by:         OTENET-GR-MNT
+mnt-domains:    OTENET-GR-MNT
+source:         RIPE # Filtered
+remarks:        rev-srv attribute deprecated by RIPE NCC on 02/09/2009
+
+role:           OTENET IP ADM
+address:        OTEnet S.A.
+address:        109 Kifissias Ave & Sina Str.Marousi
+address:        GR-15124 Athens
+address:        Greece
+phone:          +30 210 6151600
+fax-no:         +30 210 6151900
+admin-c:        AV323-RIPE
+tech-c:         PP5896-RIPE
+tech-c:         GZ1021-RIPE
+nic-hdl:        OIA15-RIPE
+abuse-mailbox:  abuse@ote.gr
+mnt-by:         OTENET-GR-MNT
+source:         RIPE # Filtered
+
+% Information related to '195.167.0.0/17AS6799'
+
+route:          195.167.0.0/17
+descr:          OTEnet
+origin:         AS6799
+remarks:        OTEnet S.A. Multiprotocol Backbone & ISP
+mnt-by:         OTENET-GR-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+
