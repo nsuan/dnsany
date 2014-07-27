@@ -1,0 +1,46 @@
+196.110.225.190.in-addr.arpa domain name pointer host196.190-225-110.telecom.net.ar.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-07-27 01:03:46 (BRT -03:00)
+
+inetnum:     190.225.110/24
+status:      reallocated
+owner:       Cooperativa de Servicios Publicos de Colonia San Jose Ltda
+ownerid:     AR-CSPC3-LACNIC
+responsible: Frappa Mauricio
+address:     Ruta 19 Km 8, -, -
+address:     - - SAN JOSE - -
+country:     AR
+phone:       +54 0354 15596780 [-]
+owner-c:     MAF3
+tech-c:      MAF3
+abuse-c:     MAF3
+created:     20080710
+changed:     20080710
+inetnum-up:  190.224/15
+
+nic-hdl:     MAF3
+person:      Mauricio Frappa
+e-mail:      mauricio@DCC.COM.AR
+address:     Maipú, 242, 
+address:     X5121AOP - Despeñaderos - CB
+country:     AR
+phone:       +54 3547 15596780 []
+created:     20040302
+changed:     20040302
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+

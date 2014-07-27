@@ -1,0 +1,62 @@
+Host 85.122.137.188.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '188.137.0.0 - 188.137.127.255'
+
+% Abuse contact for '188.137.0.0 - 188.137.127.255' is 'abuse@leon.pl'
+
+inetnum:        188.137.0.0 - 188.137.127.255
+netname:        PL-LEON-20090506
+descr:          Leon Sp. z o.o.
+country:        pl
+org:            ORG-LSzo6-RIPE
+admin-c:        MK2139-RIPE
+tech-c:         MK2139-RIPE
+status:         ALLOCATED PA
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      LEON-MNT
+mnt-routes:     LEON-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-LSzo6-RIPE
+org-name:       Leon Sp. z o.o.
+org-type:       LIR
+address:        Leon Sp. z o.o.
+address:        ul. Kilinskiego 33d
+address:        44-200 Rybnik
+address:        PL
+mnt-ref:        LEON-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        LSZO1-RIPE
+source:         RIPE # Filtered
+
+person:         Marcin Kuczera
+address:        Leon Sp. z o.o.
+address:        ul. Kilinskiego 33D
+address:        44-200 Rybnik
+address:        POLAND
+phone:          +48327557575
+nic-hdl:        MK2139-RIPE
+mnt-by:         LEON-MNT
+source:         RIPE # Filtered
+
+% Information related to '188.137.0.0/17AS13000'
+
+route:          188.137.0.0/17
+descr:          Leon Providing
+descr:          for abuse: abuse@leon.pl
+origin:         AS13000
+mnt-by:         LEON-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-4)
+
+
