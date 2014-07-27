@@ -1,0 +1,60 @@
+189.73.192.91.in-addr.arpa domain name pointer indra.commaster.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '91.192.72.0 - 91.192.75.255'
+
+% No abuse contact registered for 91.192.72.0 - 91.192.75.255
+
+inetnum:        91.192.72.0 - 91.192.75.255
+netname:        COMMASTER-NET
+descr:          Commaster Ltd.
+country:        RU
+org:            ORG-CL62-RIPE
+admin-c:        VYG-RIPE
+tech-c:         VYG-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         PLUSINFO-MNT
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-routes:     MNT-COMMASTER
+mnt-domains:    MNT-COMMASTER
+source:         RIPE # Filtered
+
+organisation:   ORG-CL62-RIPE
+descr:          Commaster Ltd.
+descr:          Commaster Ltd.
+org-name:       OOO COMMASTER
+org-type:       OTHER
+address:        107120, Melnicky str., 1/3, bldg. 1, Moscow, Russia
+abuse-mailbox:  abuse@commaster.ru
+mnt-ref:        MNT-COMMASTER
+mnt-by:         MNT-COMMASTER
+source:         RIPE # Filtered
+
+person:         Vitaliy Y Golov
+address:        81, Stolovaya str.,
+address:        123491, Moscow, Russia
+phone:          +7 495 9169007
+fax-no:         +7 495 9169007
+mnt-by:         MNT-COMMASTER
+source:         RIPE # Filtered
+nic-hdl:        VYG-RIPE
+
+% Information related to '91.192.73.0/24AS35824'
+
+route:          91.192.73.0/24
+descr:          Commaster 2/4 net
+origin:         AS35824
+mnt-by:         MNT-COMMASTER
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-4)
+
+

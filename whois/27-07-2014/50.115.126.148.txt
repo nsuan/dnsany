@@ -1,0 +1,1 @@
+148.126.115.50.in-addr.arpa domain name pointer 50.115.126.148.static.westdc.net.

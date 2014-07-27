@@ -1,0 +1,71 @@
+34.80.165.213.in-addr.arpa domain name pointer s15363457.onlinehome-server.info.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.165.80.0 - 213.165.95.255'
+
+% Abuse contact for '213.165.80.0 - 213.165.95.255' is 'abuse@oneandone.net'
+
+inetnum:        213.165.80.0 - 213.165.95.255
+netname:        SCHLUND-CUSTOMERS
+descr:          1&1 Internet AG
+country:        DE
+admin-c:        IPAD-RIPE
+tech-c:         IPOP-RIPE
+remarks:        INFRA-AW
+remarks:        in case of abuse or spam, please mailto: abuse@oneandone.net
+status:         ASSIGNED PA
+mnt-by:         AS8560-MNT
+source:         RIPE # Filtered
+
+role:           IP Administration
+address:        1&1 Internet AG
+admin-c:        AFI5-RIPE
+admin-c:        RME9-RIPE
+admin-c:        JR2342-RIPE
+admin-c:        LTO3-RIPE
+admin-c:        ZIG-RIPE
+admin-c:        MI-RIPE
+admin-c:        MINK-RIPE
+admin-c:        VR-RIPE
+tech-c:         AFI5-RIPE
+tech-c:         RME9-RIPE
+tech-c:         JR2342-RIPE
+tech-c:         LTO3-RIPE
+nic-hdl:        IPAD-RIPE
+abuse-mailbox:  abuse@oneandone.net
+mnt-by:         AS8560-MNT
+source:         RIPE # Filtered
+
+role:           IP Operations
+address:        1&1 Internet AG
+admin-c:        AFI5-RIPE
+admin-c:        RME9-RIPE
+admin-c:        JR2342-RIPE
+admin-c:        LTO3-RIPE
+tech-c:         AFI5-RIPE
+tech-c:         RME9-RIPE
+tech-c:         JR2342-RIPE
+tech-c:         LTO3-RIPE
+nic-hdl:        IPOP-RIPE
+abuse-mailbox:  abuse@oneandone.net
+mnt-by:         AS8560-MNT
+source:         RIPE # Filtered
+
+% Information related to '213.165.64.0/19AS8560'
+
+route:          213.165.64.0/19
+descr:          SCHLUND-GMX-213-165-64-0
+origin:         AS8560
+mnt-by:         AS8560-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-3)
+
+

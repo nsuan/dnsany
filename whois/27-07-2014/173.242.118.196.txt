@@ -1,0 +1,1 @@
+196.118.242.173.in-addr.arpa domain name pointer raspiserver.com.
