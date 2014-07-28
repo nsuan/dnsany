@@ -1,0 +1,62 @@
+Host 244.91.79.117.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '117.79.80.0 - 117.79.95.255'
+
+inetnum:        117.79.80.0 - 117.79.95.255
+netname:        SANXIN
+descr:          Beijing Sanxin Shidai Co.Ltd
+descr:          1513 Xinjishu building Beijing link west road
+descr:          Haidian District, Beijing, PRC
+country:        CN
+admin-c:        SJ1535-AP
+tech-c:         AUTO1-SK
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+changed:        ipas@cnnic.cn 20101229
+source:         APNIC
+
+irt:            IRT-CNNIC-CN
+address:        Beijing, China
+e-mail:         ipas@cnnic.cn
+abuse-mailbox:  ipas@cnnic.cn
+admin-c:        IP50-AP
+tech-c:         IP50-AP
+auth:           # Filtered
+remarks:        Please note that CNNIC is not an ISP and is not
+remarks:        empowered to investigate complaints of network abuse.
+remarks:        Please contact the tech-c or admin-c of the network.
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20110428
+source:         APNIC
+
+person:         Shi Kai
+nic-hdl:        AUTO1-SK
+address:        65th Haidian xinjishu building 1513
+address:        Beijing Haidian District North four link west road
+country:        CN
+phone:          +86-10-52789029
+fax-no:         +86-10-52789032
+e-mail:         sailor0156@hotmail.com
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20090513
+source:         APNIC
+
+person:         Shi Jianmin
+nic-hdl:        SJ1535-AP
+address:        65th Haidian xinjishu building 1513
+address:        Beijing Haidian District North four link west road
+country:        CN
+phone:          +86-10-82888393
+fax-no:         +86-10-82610575-15131
+e-mail:         antepc@sina.com
+mnt-by:         MAINT-CNNIC-AP
+changed:        ipas@cnnic.cn 20090513
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+
