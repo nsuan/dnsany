@@ -1,0 +1,65 @@
+Host 226.29.33.120.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '120.32.0.0 - 120.39.255.255'
+
+inetnum:        120.32.0.0 - 120.39.255.255
+netname:        CHINANET-FJ
+descr:          CHINANET FUJIAN PROVINCE NETWORK
+descr:          China Telecom
+descr:          No.31,jingrong street
+descr:          Beijing 100032
+country:        CN
+admin-c:        CH93-AP
+tech-c:         CA67-AP
+remarks:        service provider
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20080319
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-FJ
+mnt-routes:     MAINT-CHINANET-FJ
+source:         APNIC
+
+role:           CHINANETFJ IP ADMIN
+address:        7,East Street,Fuzhou,Fujian,PRC
+country:        CN
+phone:          +86-591-83309761
+fax-no:         +86-591-83371954
+e-mail:         fjnic@fjdcb.fz.fj.cn
+remarks:        send spam reports  and abuse reports
+remarks:        to abuse@fjdcb.fz.fj.cn
+remarks:        Please include detailed information and
+remarks:        times in UTC
+admin-c:        FH71-AP
+tech-c:         FH71-AP
+nic-hdl:        CA67-AP
+remarks:        www.fjtelecom.com
+notify:         fjnic@fjdcb.fz.fj.cn
+mnt-by:         MAINT-CHINANET-FJ
+changed:        fjnic@fjdcb.fz.fj.cn 20100108
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Chinanet Hostmaster
+nic-hdl:        CH93-AP
+e-mail:         anti-spam@ns.chinanet.cn.net
+address:        No.31 ,jingrong street,beijing
+address:        100032
+phone:          +86-10-58501724
+fax-no:         +86-10-58501724
+country:        CN
+changed:        dingsy@cndata.com 20070416
+changed:        zhengzm@gsta.com 20140227
+mnt-by:         MAINT-CHINANET
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+
