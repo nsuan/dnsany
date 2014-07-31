@@ -1,0 +1,41 @@
+Host 58.18.140.211.in-addr.arpa not found: 2(SERVFAIL)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '211.140.0.0 - 211.140.191.255'
+
+inetnum:        211.140.0.0 - 211.140.191.255
+netname:        CMNET-zhejiang
+country:        CN
+descr:          China Mobile Communications Corporation - zhejiang
+admin-c:        HQ108-AP
+tech-c:         HQ108-AP
+status:         ALLOCATED NON-PORTABLE
+changed:        weichenguang@chinamobile.com 20050411
+mnt-by:         MAINT-CN-CMCC
+source:         APNIC
+
+person:         haifeng quan
+nic-hdl:        HQ108-AP
+e-mail:         quanhf@zj.chinamobile.com
+address:        406 Ti Yuchang RD HangZhou, Zhejiang Province China
+address:        310006
+phone:          +86 13588881253
+fax-no:         +86 0571 85160753
+country:        cn
+changed:        weichenguang@chinamobile.com 20050408
+mnt-by:         MAINT-CN-CMCC
+source:         APNIC
+
+% Information related to '211.140.0.0/15AS9808'
+
+route:          211.140.0.0/15
+descr:          China Mobile communications corporation
+origin:         AS9808
+mnt-by:         MAINT-CN-CMCC
+changed:        hostmaster@chinamobile.com 20120215
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+
