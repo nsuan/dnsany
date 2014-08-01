@@ -1,0 +1,120 @@
+Host 175.166.54.195.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '193.0.0.0 - 195.255.255.255'
+
+% No abuse contact registered for 193.0.0.0 - 195.255.255.255
+
+inetnum:        193.0.0.0 - 195.255.255.255
+netname:        EU-ZZ-193-194-195
+descr:          European Regional Registry
+descr:          Europe
+country:        EU
+remarks:        These addreses are allocated
+                to network operators who assign
+                them to users' networks. RIPE NCC
+                does not operate any networks using
+                addresses from this block.
+                An explanation of how to contact
+                network operators is available at
+                <http://www.ripe.net/nicdb.html>
+remarks:        193/19 is used by the RIPE NCC
+                for its own network.
+                Information on the RIPE NCC
+                is available at: <http://www.ripe.net>
+org:            ORG-NCC1-RIPE
+admin-c:        CREW-RIPE
+tech-c:         CREW-RIPE
+tech-c:         OPS4-RIPE
+status:         ALLOCATED UNSPECIFIED
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-lower:      RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-NCC1-RIPE
+org-name:       RIPE Network Coordination Centre
+org-type:       RIR
+address:        RIPE NCC
+address:        Singel 258
+address:        1016AB
+address:        Amsterdam
+address:        NETHERLANDS
+phone:          +31 20 535 4444
+fax-no:         +31 20 535 4445
+admin-c:        CREW-RIPE
+admin-c:        AP110-RIPE
+tech-c:         CREW-RIPE
+mnt-ref:        RIPE-NCC-RIS-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+role:           RIPE NCC Registration Services Department
+address:        RIPE Network Coordination Centre
+address:        P.O. Box 10096
+address:        1001 EB Amsterdam
+address:        the Netherlands
+phone:          +31 20 535 4444
+fax-no:         +31 20 535 4445
+org:            ORG-NCC1-RIPE
+admin-c:        AdlH1-RIPE
+admin-c:        ACM2-RIPE
+admin-c:        IW112-RIPE
+tech-c:         TIM4-RIPE
+tech-c:         KL1200-RIPE
+tech-c:         XAV
+tech-c:         SD1131-RIPE
+tech-c:         MPRA-RIPE
+tech-c:         ARNE
+tech-c:         MSCH2-RIPE
+tech-c:         GAV
+tech-c:         MATT2
+tech-c:         DH2607-RIPE
+tech-c:         GIAN123
+tech-c:         SPEN
+tech-c:         NP3260-RIPE
+tech-c:         LH47-RIPE
+tech-c:         SG7828-RIPE
+tech-c:         TORL
+tech-c:         ME3132-RIPE
+nic-hdl:        CREW-RIPE
+abuse-mailbox:  abuse@ripe.net
+mnt-by:         RIPE-NCC-HM-MNT
+source:         RIPE # Filtered
+
+role:           RIPE NCC Operations
+address:        Singel 258
+address:        1016 AB Amsterdam
+address:        The Netherlands
+phone:          +31 20 535 4444
+fax-no:         +31 20 535 4445
+abuse-mailbox:  abuse@ripe.net
+admin-c:        JDR-RIPE
+admin-c:        BRD-RIPE
+tech-c:         GL7321-RIPE
+tech-c:         MENN1-RIPE
+tech-c:         EMIL-RIPE
+tech-c:         RCO-RIPE
+tech-c:         CNAG-RIPE
+tech-c:         RPM-RIPE
+tech-c:         SO2011-RIPE
+tech-c:         RH5357-RIPE
+tech-c:         DCW-RIPE
+tech-c:         FMUL-RIPE
+tech-c:         TOL666-RIPE
+tech-c:         ADM6699-RIPE
+tech-c:         MG18669-RIPE
+nic-hdl:        OPS4-RIPE
+mnt-by:         RIPE-NCC-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-1)
+
+

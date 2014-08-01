@@ -1,0 +1,73 @@
+43.48.244.121.in-addr.arpa domain name pointer 121.244.48.43.static-pune.vsnl.net.in.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '121.240.0.0 - 121.247.255.255'
+
+inetnum:        121.240.0.0 - 121.247.255.255
+netname:        TATACOMM-IN
+descr:          Internet Service Provider
+descr:          TATA Communications formerly VSNL is Leading ISP,
+descr:          Data and Voice Carrier in India
+admin-c:        TC651-AP
+tech-c:         TC651-AP
+country:        IN
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-TATACOMM-IN
+mnt-routes:     MAINT-TATACOMM-IN
+mnt-irt:        IRT-TATACOMM-IN
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20060814
+changed:        hm-changed@apnic.net 20080826
+changed:        hm-changed@apnic.net 20080827
+changed:        hm-changed@apnic.net 20120221
+source:         APNIC
+
+irt:            IRT-TATACOMM-IN
+address:        6th Floor, LVSB, VSNL
+address:        Kashinath Dhuru marg, Prabhadevi
+address:        Dadar(W), Mumbai 400028
+address:        India
+e-mail:         ip.admin@tatacommunications.com
+abuse-mailbox:  4755abuse@tatacommunications.com
+admin-c:        IA15-AP
+tech-c:         IA15-AP
+auth:           # Filtered
+mnt-by:         MAINT-TATACOMM-IN
+changed:        4755abuse@tatacommunications.com 20101123
+source:         APNIC
+
+role:           TATA Communications
+nic-hdl:        TC651-AP
+address:        6th Floor,A Tower, BKC
+address:        Plot Nos. C-21 & C-36
+address:        'G' Block, Bandra Kurla Complex, Mumbai
+phone:          +91-22-66591637
+country:        IN
+e-mail:         ip.admin@tatacommunications.com
+admin-c:        IA15-AP
+tech-c:         VT43-AP
+mnt-by:         MAINT-TATACOMM-IN
+changed:        hm-changed@apnic.net 20080826
+changed:        hm-changed@apnic.net 20080827
+source:         APNIC
+
+% Information related to '121.240.0.0/13AS4755'
+
+route:          121.240.0.0/13
+descr:          Route for VSNL
+origin:         AS4755
+mnt-by:         MAINT-VSNL-AP
+changed:        ip.admin@vsnl.co.in 20061124
+changed:        hm-changed@apnic.net 20080827
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

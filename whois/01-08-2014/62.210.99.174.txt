@@ -1,0 +1,76 @@
+174.99.210.62.in-addr.arpa domain name pointer 62-210-99-174.rev.poneytelecom.eu.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.210.99.0 - 62.210.99.255'
+
+% Abuse contact for '62.210.99.0 - 62.210.99.255' is 'abuse@proxad.net'
+
+inetnum:        62.210.99.0 - 62.210.99.255
+netname:        TISCALI-FRANCE-20040916
+descr:          Tiscali France DSL pools
+country:        FR
+admin-c:        BG34
+tech-c:         TTFR1-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-TISCALIFR
+mnt-lower:      MNT-TISCALIFR
+mnt-routes:     MNT-TISCALIFR
+source:         RIPE # Filtered
+
+role:           Tiscali Telecom France Registry
+remarks:        now known as Online S.A.S. / Iliad-Entreprises
+address:        8 rue de la ville l'évèque
+address:        75008 Paris
+address:        France
+abuse-mailbox:  abuse@iliad-entreprises.fr
+admin-c:        IENT-RIPE
+tech-c:         IENT-RIPE
+tech-c:         NR1053-RIPE
+nic-hdl:        TTFR1-RIPE
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+person:         Benoit Grange
+address:        Tiscali Telecom
+address:        37 bis rue Greneta
+address:        75002 Paris - France
+phone:          +33 1 45 08 20 00
+fax-no:         +33 1 45 08 20 01
+remarks:        +-----------------------------------------------------------------------+
+remarks:        | ATTENTION: Pour nous signaler un probleme (intrusion, spam, etc),     |
+remarks:        | merci de respecter la procedure suivante:                             |
+remarks:        | Envoyer un mail a "abuse@tiscali.fr" avec les informations suivantes: |
+remarks:        | - date & heure (y compris le fuseau horaire ou l'heure GMT)           |
+remarks:        | - adresse IP source ou toutes les en-tetes du mail                    |
+remarks:        | - nature du probleme (en quelques mots)                               |
+remarks:        | Nous ne repondons pas aux demandes par telephone.                     |
+remarks:        | - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+remarks:        | Je ne suis que le representant legal de Tiscali et non pas            |
+remarks:        | l'utilisateur final de l'adresse IP renvoyee par votre firewall       |
+remarks:        | Les adresses IP sont generalement allouees dynamiquement a nos abonnes|
+remarks:        | et donc votre logiciel ne peut PAS connaitre le nom de l'utilisateur  |
+remarks:        | reel de l'IP. Merci d'avoir lu jusqu'au bout.                         |
+remarks:        +-----------------------------------------------------------------------+
+nic-hdl:        BG34
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+% Information related to '62.210.0.0/16AS12876'
+
+route:          62.210.0.0/16
+descr:          Online SAS
+descr:          Paris, France
+origin:         AS12876
+mnt-by:         MNT-TISCALIFR
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+

@@ -1,0 +1,77 @@
+51.61.246.213.in-addr.arpa domain name pointer ik61051.ikexpress.com.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.246.61.0 - 213.246.61.255'
+
+% Abuse contact for '213.246.61.0 - 213.246.61.255' is 'abuse@ikoula.com'
+
+inetnum:        213.246.61.0 - 213.246.61.255
+netname:        IKOULA
+descr:          ikoula france serveur dedie
+country:        FR
+admin-c:        JG10236-RIPE
+tech-c:         NI181-RIPE
+status:         ASSIGNED PA
+mnt-by:         IKOULA-MNT
+mnt-lower:      IKOULA-MNT
+mnt-routes:     IKOULA-MNT
+source:         RIPE # Filtered
+
+role:           NOC IKOULA
+address:        175 rue d?Aguesseau
+address:        92100 Boulogne Billancourt
+address:        Fr
+remarks:        trouble:      Information : http://www.ikoula.fr
+remarks:        trouble:      Spam : mailto:ikoula@ikoula.com
+admin-c:        JG10236-RIPE
+tech-c:         JDS15-RIPE
+tech-c:         AP4912-RIPE
+nic-hdl:        NI181-RIPE
+mnt-by:         IKOULA-MNT
+source:         RIPE # Filtered
+abuse-mailbox:  ikoula@ikoula.com
+phone:          +33184010250
+remarks:        http://express.ikoula.com
+remarks:        For any question contact ikoula@ikoula.com
+remarks:        or http://express.ikoula.com
+remarks:        For Dedicated Server http://express.ikoula.com/serveur-dedie
+remarks:        For Domain Name http://express.ikoula.com/nom-de-domaine
+remarks:        For Virtual Server http://express.ikoula.com/serveur-virtuel
+remarks:        For Managed Hosting http://ies.ikoula.com/
+remarks:        For Managed Hosting http://ies.ikoula.com/
+remarks:        For Cloud Storage http://www.ikeepincloud.com/
+remarks:        For MailService http://www.ex10.biz/
+remarks:        For  Public Cloud http://express.ikoula.com/cloud-public
+remarks:        For Private Cloud http://ies.ikoula.com/cloud-prive
+
+person:         Jules-Henri Gavetti
+address:        Ikoula / Gamikzone
+address:        175 rue d’Aguesseau
+address:        92100 Boulogne Billancourt
+address:        Fr
+mnt-by:         IKOULA-MNT
+phone:          +33 1 71 14 00 01
+fax-no:         +33 1 71 14 00 05
+nic-hdl:        JG10236-RIPE
+source:         RIPE # Filtered
+
+% Information related to '213.246.32.0/19AS21409'
+
+route:          213.246.32.0/19
+descr:          Ikoula Ripe Block
+origin:         AS21409
+remarks:        Abuse reports to ikoula@ikoula.com
+remarks:        Peering contact is peering@ikoula.com
+mnt-by:         IKOULA-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+
