@@ -1,0 +1,109 @@
+148.126.115.50.in-addr.arpa domain name pointer 50.115.126.148.static.westdc.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=50.115.126.148?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       50.115.112.0 - 50.115.127.255
+CIDR:           50.115.112.0/20
+OriginAS:       AS29854, AS32780
+NetName:        HSI-NET-50-115-112-0-1
+NetHandle:      NET-50-115-112-0-1
+Parent:         NET-50-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2011-09-14
+Updated:        2014-01-02
+Ref:            http://whois.arin.net/rest/net/NET-50-115-112-0-1
+
+OrgName:        Hosting Services, Inc.
+OrgId:          HOSTI-20
+Address:        517 W 100 N STE 225
+City:           Providence
+StateProv:      UT
+PostalCode:     84332
+Country:        US
+RegDate:        2008-03-03
+Updated:        2013-07-26
+Ref:            http://whois.arin.net/rest/org/HOSTI-20
+
+ReferralServer: rwhois://secure.mpcustomer.com:4321
+
+OrgAbuseHandle: HSIAB-ARIN
+OrgAbuseName:   HSI Abuse
+OrgAbusePhone:  +1-435-755-3433 
+OrgAbuseEmail:  abuse@uk2group.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HSIAB-ARIN
+
+OrgTechHandle: MMC281-ARIN
+OrgTechName:   McBride, Matt 
+OrgTechPhone:  +1-435-755-3433 
+OrgTechEmail:  mmcbride@westhost.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MMC281-ARIN
+
+RNOCHandle: NOC12189-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-435-755-3433 
+RNOCEmail:  noc@uk2group.com
+RNOCRef:    http://whois.arin.net/rest/poc/NOC12189-ARIN
+
+RAbuseHandle: HSIAB-ARIN
+RAbuseName:   HSI Abuse
+RAbusePhone:  +1-435-755-3433 
+RAbuseEmail:  abuse@uk2group.com
+RAbuseRef:    http://whois.arin.net/rest/poc/HSIAB-ARIN
+
+RTechHandle: NOC12189-ARIN
+RTechName:   NOC
+RTechPhone:  +1-435-755-3433 
+RTechEmail:  noc@uk2group.com
+RTechRef:    http://whois.arin.net/rest/poc/NOC12189-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to secure.mpcustomer.com:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 secure.mpcustomer.com (Ubersmith RWhois Server V-2.4.0)
+autharea=50.115.112.0/20
+xautharea=50.115.112.0/20
+network:Class-Name:network
+network:Auth-Area:50.115.112.0/20
+network:ID:NET-11686.50.115.126.144/29
+network:Network-Name:Dedicated Server
+network:IP-Network:50.115.126.144/29
+network:IP-Network-Block:50.115.126.144 - 50.115.126.151
+network:Org-Name:Zenex 5ive Limited
+network:Street-Address:5 Jupiter House, Calleva Park, Aldermaston
+network:City:Reading
+network:State:Berkshire
+network:Postal-Code:RG7 8NN
+network:Country-Code:GB
+network:Tech-Contact:MAINT-11686.50.115.126.144/29
+network:Created:20120426095335000
+network:Updated:20120509093953000
+network:Updated-By:abuse@uk2group.com
+contact:POC-Name:Network Administrator
+contact:POC-Email:abuse@uk2group.com
+contact:POC-Phone:+1-435-787-7101
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:abuse@uk2group.com
+contact:Tech-Phone:+1-435-787-7101
+%ok

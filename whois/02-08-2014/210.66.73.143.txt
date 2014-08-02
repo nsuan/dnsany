@@ -1,0 +1,55 @@
+Host 143.73.66.210.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '210.66.0.0 - 210.66.255.255'
+
+inetnum:        210.66.0.0 - 210.66.255.255
+netname:        NCICNET-NET
+descr:          New Century InfoComm Tech. Co., Ltd.
+descr:          1F~11F, No. 218, Rueiguang Road
+descr:          Taipei, Taiwan
+country:        TW
+admin-c:        nNA3-AP
+tech-c:         nNA3-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-TW-TWNIC
+mnt-irt:        IRT-TWNIC-AP
+changed:        hostmaster@twnic.net 20000113
+changed:        hm-changed@apnic.net 20021219
+changed:        hostmaster@twnic.net.tw 20110202
+source:         APNIC
+
+irt:            IRT-TWNIC-AP
+address:        Taipei, Taiwan, 100
+e-mail:         hostmaster@twnic.net.tw
+abuse-mailbox:  abuse@twnic.net.tw
+admin-c:        TWA2-AP
+tech-c:         TWA2-AP
+auth:           # Filtered
+remarks:        Please note that TWNIC is not an ISP and is not empowered
+remarks:        to investigate complaints of network abuse.
+mnt-by:         MAINT-TW-TWNIC
+changed:        hostmaster@twnic.net.tw 20101108
+source:         APNIC
+
+role:           ncic Network Administrator
+address:        1F~11F, No. 218, Rueiguang Road
+address:        Taipei, Taiwan, 114, R.O.C
+country:        TW
+phone:          +886-2-7715-5128
+fax-no:         +886-2-7715-5299
+e-mail:         DavidLin1@fareastone.com.tw
+admin-c:        JC256-AP
+tech-c:         JC256-AP
+nic-hdl:        nNA3-AP
+remarks:        The role object should be used when making
+remarks:        changes to admin-c or tech-c handle.
+notify:         hostmaster@twnic.net.tw
+mnt-by:         MAINT-TW-TWNIC
+changed:        hostmaster@twnic.net.tw 20100531
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS2)
+
+
