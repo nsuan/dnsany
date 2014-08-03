@@ -1,0 +1,74 @@
+210.197.252.178.in-addr.arpa domain name pointer aerosoll.ru.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '178.252.192.0 - 178.252.223.255'
+
+% Abuse contact for '178.252.192.0 - 178.252.223.255' is 'abuse@rosintel.com'
+
+inetnum:        178.252.192.0 - 178.252.223.255
+netname:        ROSINTEL-NET
+descr:          JSC "Rosintel"
+country:        RU
+org:            ORG-JR11-RIPE
+admin-c:        AVS36-RIPE
+tech-c:         YVL1-RIPE
+status:         ASSIGNED PA
+mnt-by:         ROSINTEL-MNT
+mnt-domains:    ROSINTEL-MNT
+mnt-routes:     ROSINTEL-MNT
+source:         RIPE # Filtered
+
+organisation:   ORG-JR11-RIPE
+org-name:       JSC Rosintel
+org-type:       LIR
+address:        JSC Rosintel Albert Scherbinin KALININA 24B 301650 NOVOMOSKOVSK RUSSIAN FEDERATION
+phone:          +7 4876273004
+fax-no:         +7 4876273004
+admin-c:        AVS36-RIPE
+admin-c:        EVK10-RIPE
+admin-c:        LY10-RIPE
+admin-c:        YVL1-RIPE
+mnt-ref:        ROSINTEL-MNT
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+abuse-c:        RNL1998
+tech-c:         RNL1998
+source:         RIPE # Filtered
+
+person:         Albert V Scherbinin
+address:        301670, Russia, Tula region,
+address:        Novomoskovsk City, Kalinina Str., 24b
+address:        JSC "Rosintel"
+phone:          +7 48762 73004
+fax-no:         +7 48762 73314
+nic-hdl:        AVS36-RIPE
+source:         RIPE # Filtered
+remarks:        modified for Russian phone area changes
+
+person:         Yury V Lazarev
+address:        301670, Russia, Tula region,
+address:        Novomoskovsk City, Kalinina Str., 24b
+address:        JSC "Rosintel"
+phone:          +7 48762 73004
+fax-no:         +7 48762 73004
+nic-hdl:        YVL1-RIPE
+source:         RIPE # Filtered
+
+% Information related to '178.252.197.0/24AS24689'
+
+route:          178.252.197.0/24
+descr:          JSC "Rosintel"
+origin:         AS24689
+mnt-by:         ROSINTEL-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-1)
+
+

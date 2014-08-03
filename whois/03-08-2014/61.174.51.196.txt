@@ -1,0 +1,60 @@
+196.51.174.61.in-addr.arpa domain name pointer 196.51.174.61.dial.wz.zj.dynamic.163data.com.cn.
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '61.174.51.192 - 61.174.51.255'
+
+inetnum:        61.174.51.192 - 61.174.51.255
+netname:        HANGZHOU-SRT-TECHNOLOGY-CO-LTD
+country:        CN
+descr:          HANGZHOU SRT TECHNOLOGY CO., LTD
+descr:
+admin-c:        BB324-AP
+tech-c:         CH119-AP
+mnt-irt:        IRT-CHINANET-ZJ
+status:         ASSIGNED NON-PORTABLE
+changed:        zjnoc_ip_4@163.com 20130508
+mnt-by:         MAINT-CN-CHINANET-ZJ-HU
+source:         APNIC
+
+irt:            IRT-CHINANET-ZJ
+address:        Hangzhou, 288 fucun Road, China
+e-mail:         lfliu@pubinfo.com.cn
+abuse-mailbox:  antispam@dcb.hz.zj.cn
+admin-c:        CZ61-AP
+tech-c:         CZ61-AP
+auth:           # Filtered
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        auto-dbm@dcb.hz.zj.cn 20101129
+source:         APNIC
+
+role:           CHINANET-ZJ Huzhou
+address:        No.18 Hongqi Road,Huzhou,Zhejiang.313000
+country:        CN
+phone:          +86-572-2022163
+fax-no:         +86-572-2210609
+e-mail:         anti_spam@mail.huptt.zj.cn
+remarks:        send spam reports to anti_spam@mail.huptt.zj.cn
+remarks:        and abuse reports to anti_spam@mail.huptt.zj.cn
+remarks:        Please include detailed information and times in UTC
+admin-c:        CH50-AP
+tech-c:         CH50-AP
+nic-hdl:        CH119-AP
+mnt-by:         MAINT-CHINANET-ZJ
+changed:        master@dcb.hz.zj.cn 20031204
+source:         APNIC
+changed:        hm-changed@apnic.net 20111114
+
+person:         Bing Bai
+nic-hdl:        BB324-AP
+e-mail:         anti_spam@mail.huptt.zj.cn
+address:        Huzhou,Zhejiang.Postcode:313000
+phone:          +86-13666633017
+country:        CN
+changed:        zjnoc_ip_3@163.com 20131107
+mnt-by:         MAINT-CN-CHINANET-ZJ-HU
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS4)
+
+

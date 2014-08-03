@@ -1,0 +1,52 @@
+187.3.199.31.in-addr.arpa domain name pointer host187-3-static.199-31-b.business.telecomitalia.it.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '31.199.3.160 - 31.199.3.191'
+
+% Abuse contact for '31.199.3.160 - 31.199.3.191' is 'abuse@business.telecomitalia.it'
+
+inetnum:        31.199.3.160 - 31.199.3.191
+netname:        ERICSSON-TELECOMUNICAZIONI
+descr:          ERICSSON TELECOMUNICAZIONI S.P.A.
+country:        IT
+admin-c:        PT6067-RIPE
+tech-c:         PT6067-RIPE
+status:         ASSIGNED PA
+mnt-by:         INTERB-MNT
+source:         RIPE # Filtered
+
+person:         PIERO TOLLIS
+address:        ERICSSON TELECOMUNICAZIONI S.P.A.
+address:        VIA ANAGNINA 203
+address:        00100 ROMA
+address:        IT
+phone:          +39 0672582887
+nic-hdl:        PT6067-RIPE
+mnt-by:         INTERB-MNT
+source:         RIPE # Filtered
+
+% Information related to '31.198.0.0/15AS3269'
+
+route:          31.198.0.0/15
+descr:          INTERBUSINESS
+origin:         AS3269
+remarks:        ************************************************
+remarks:        *                Pay attention                 *
+remarks:        *   Any communication sent to email different  *
+remarks:        *   from the following will be ignored!        *
+remarks:        *   Any abuse reports, please send them to     *
+remarks:        *       abuse@business.telecomitalia.it        *
+remarks:        ************************************************
+mnt-by:         INTERB-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-3)
+
+
