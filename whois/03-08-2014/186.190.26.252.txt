@@ -1,0 +1,53 @@
+252.26.190.186.in-addr.arpa domain name pointer 186-190-26-252.accesshaiti.net.
+
+% Joint Whois - whois.lacnic.net
+%  This server accepts single ASN, IPv4 or IPv6 queries
+ 
+% LACNIC resource: whois.lacnic.net
+
+
+% Copyright LACNIC lacnic.net
+%  The data below is provided for information purposes
+%  and to assist persons in obtaining information about or
+%  related to AS and IP numbers registrations
+%  By submitting a whois query, you agree to use this data
+%  only for lawful purposes.
+%  2014-08-03 09:03:16 (BRT -03:00)
+
+inetnum:     186.190.0/17
+status:      allocated
+aut-num:     N/A
+owner:       ACCESS HAITI S.A.
+ownerid:     HT-AHSA-LACNIC
+responsible: Allen Bayard
+address:     RUE DARGUIN, 23, 
+address:     00046 - PETION-VILLE - 
+country:     HT
+phone:       +011 509 510-3875 []
+owner-c:     ALB8
+tech-c:      ALB8
+abuse-c:     ALB8
+inetrev:     186.190.0/17
+nserver:     NS1.ACCESSHAITI.COM  
+nsstat:      20140803 AA
+nslastaa:    20140803
+nserver:     NS2.ACCESSHAITI.COM  
+nsstat:      20140803 AA
+nslastaa:    20140803
+created:     20101112
+changed:     20130116
+
+nic-hdl:     ALB8
+person:      Allen Bayard
+e-mail:      abayard@ACCESSHAITI.COM
+address:     60, Rue Geffrard, 1973, 
+address:     HT-6140 - Petion-Ville - na
+country:     HT
+phone:       +011 509 37017777 []
+created:     20040529
+changed:     20140408
+
+% whois.lacnic.net accepts only direct match queries.
+% Types of queries are: POCs, ownerid, CIDR blocks, IP
+% and AS numbers.
+
