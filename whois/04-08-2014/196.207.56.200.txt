@@ -1,0 +1,60 @@
+Host 200.56.207.196.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '196.207.48.0 - 196.207.63.255'
+
+inetnum:        196.207.48.0 - 196.207.63.255
+netname:        DA2-20050903
+descr:          Data Communications Limited DCL
+descr:          Cnr Mgr Gonin & Lislet Geoffroy Streets
+descr:          Port Louis, Mauritius
+country:        MU
+org:            ORG-DA2-AFRINIC
+admin-c:        RG1-AFRINIC
+tech-c:         SNT1-AFRINIC
+status:         ALLOCATED PA
+remarks:        IP SERVICES
+mnt-by:         AFRINIC-HM-MNT
+mnt-lower:      MU-DCL-MNT
+source:         AFRINIC # Filtered
+parent:         196.0.0.0 - 196.255.255.255
+
+organisation:   ORG-DA2-AFRINIC
+org-name:       DCLISP
+org-type:       LIR
+country:        MU
+address:        First Floor,
+address:        Cnr Mgr Gonin & Lislet Geoffroy Streets
+address:        Port Louis
+e-mail:         ganesh@dclweb.org
+e-mail:         nawaaz@dclweb.org
+e-mail:         issen@dclweb.org
+phone:          +230-210-1327
+fax-no:         +230-211-9467
+admin-c:        RG1-AFRINIC
+tech-c:         SNT1-AFRINIC
+mnt-ref:        MU-DCL-MNT
+mnt-by:         AFRINIC-HM-MNT
+source:         AFRINIC # Filtered
+
+person:         Ramalingum Ganesh
+address:        Cnr Mgr Gonin & Lislet Geoffroy Streets
+address:        Port Louis
+phone:          +230 210 1327
+fax-no:         +230 211 9467
+e-mail:         ganesh@dclweb.org
+nic-hdl:        RG1-AFRINIC
+source:         AFRINIC # Filtered
+
+person:         Shah Nawaaz Toonah
+address:        Cnr Mgr Gonin & Lislet Geoffroy Streets
+address:        Port Louis
+phone:          +230 210 1327
+fax-no:         +230 211 9467
+e-mail:         nawaaz@dclweb.org
+nic-hdl:        SNT1-AFRINIC
+source:         AFRINIC # Filtered
+
+

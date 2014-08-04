@@ -1,0 +1,65 @@
+Host 42.114.199.69.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=69.199.114.42?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       69.198.0.0 - 69.199.255.255
+CIDR:           69.198.0.0/15
+OriginAS:       AS17184
+NetName:        CBEY-69-198-0-0
+NetHandle:      NET-69-198-0-0-1
+Parent:         NET-69-0-0-0-0
+NetType:        Direct Allocation
+Comment:        This space is statically assigned to our customers. For prompt attention, please send all abuse (spam, DOS, etc) correspondence to our Abuse handle...(abuse@cbeyond.net) -Cbeyond
+Comment:        rwhois.cbeyond.net:4321
+RegDate:        2008-03-10
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-69-198-0-0-1
+
+OrgName:        CBEYOND COMMUNICATIONS, LLC
+OrgId:          CBEY
+Address:        320 Interstate North Parkway
+Address:        Suite 300
+City:           Atlanta
+StateProv:      GA
+PostalCode:     30339
+Country:        US
+RegDate:        2000-08-03
+Updated:        2011-07-13
+Comment:        For prompt attention, please send all abuse
+Comment:        (spam, DOS, etc) correspondence to our
+Comment:        Abuse handle. -Cbeyond
+Ref:            http://whois.arin.net/rest/org/CBEY
+
+OrgTechHandle: AI93-ARIN
+OrgTechName:   Admin IP
+OrgTechPhone:  +1-678-424-2400 
+OrgTechEmail:  ip-admin@cbeyond.net
+OrgTechRef:    http://whois.arin.net/rest/poc/AI93-ARIN
+
+OrgAbuseHandle: ABUSE294-ARIN
+OrgAbuseName:   Cbeyond-Abuse
+OrgAbusePhone:  +1-678-424-2400 
+OrgAbuseEmail:  abuse@cbeyond.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE294-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

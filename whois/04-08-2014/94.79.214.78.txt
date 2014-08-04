@@ -1,0 +1,52 @@
+Host 78.214.79.94.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '94.79.192.0 - 94.79.223.255'
+
+% Abuse contact for '94.79.192.0 - 94.79.223.255' is 'bb_isp@bh.zain.com'
+
+inetnum:        94.79.192.0 - 94.79.223.255
+netname:        BH-MTC
+descr:          ZAINBahrain WiMax
+country:        BH
+admin-c:        AIS70-RIPE
+tech-c:         AI77-RIPE
+status:         ASSIGNED PA
+mnt-by:         MTC-VB
+source:         RIPE # Filtered
+
+person:         Alessandro Izzo
+address:        CPU Web Architecture
+address:        Via della Moscova 13
+address:        I-20121 Milano MI
+address:        Italy
+phone:          +39 02 29060981
+fax-no:         +39 02 29060822
+nic-hdl:        AI77-RIPE
+source:         RIPE # Filtered
+
+person:         AGMIN ITALY SRL
+address:        STRADA DUOMO, 7
+address:        I-43100 PARMA
+phone:          +39 0000000
+nic-hdl:        AIS70-RIPE
+source:         RIPE # Filtered
+
+% Information related to '94.79.214.0/23AS31452'
+
+route:          94.79.214.0/23
+descr:          MTC-VB
+origin:         AS31452
+mnt-by:         MTC-VB
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+

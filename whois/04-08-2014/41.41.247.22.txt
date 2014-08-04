@@ -1,0 +1,44 @@
+22.247.41.41.in-addr.arpa domain name pointer host-41.41.247.22.tedata.net.
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '41.40.0.0 - 41.43.255.255'
+
+inetnum:        41.40.0.0 - 41.43.255.255
+netname:        All-04
+descr:          TE Data
+country:        EG
+admin-c:        TDCR1-AFRINIC
+tech-c:         TDCR2-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         GEGA-MNT
+remarks:        ====================================================
+remarks:        For Internet Abuse & Spam reports : admins@tedata.net
+remarks:        ====================================================
+source:         AFRINIC # Filtered
+parent:         41.32.0.0 - 41.47.255.255
+
+role:		TE Data Contact Role
+address:	94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:		+202 33320700
+fax-no:		+202 33320800
+admin-c: 	TDCR2-AFRINIC
+tech-c: 	MH7-AFRINIC
+abuse-mailbox:	abuse@tedata.net
+nic-hdl:        TDCR1-AFRINIC
+mnt-by:		TE-Data-MNT
+source:		AFRINIC # Filtered
+
+role:		TE Data Contact Role-2
+address:	94 Tahrir Street, Dokki, 12311, Giza, Egypt
+phone:		+202 33320700
+fax-no:		+202 33320800
+admin-c: 	TDCR2-AFRINIC
+tech-c: 	MH7-AFRINIC
+abuse-mailbox:	abuse@tedata.net
+nic-hdl:        TDCR2-AFRINIC
+mnt-by:		TE-Data-MNT
+source:		AFRINIC # Filtered
+
+
