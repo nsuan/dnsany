@@ -1,0 +1,101 @@
+Host 148.232.47.96.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=96.47.232.148?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       96.47.224.0 - 96.47.239.255
+CIDR:           96.47.224.0/20
+OriginAS:       AS8100
+NetName:        IPTELLIGENT
+NetHandle:      NET-96-47-224-0-1
+Parent:         NET-96-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2009-11-23
+Updated:        2014-04-09
+Ref:            http://whois.arin.net/rest/net/NET-96-47-224-0-1
+
+OrgName:        IPTelligent LLC
+OrgId:          IPTEL-1
+Address:        2115 NW 22nd Street
+Address:        #C110
+City:           Miami
+StateProv:      FL
+PostalCode:     33142
+Country:        US
+RegDate:        2009-03-31
+Updated:        2014-06-08
+Ref:            http://whois.arin.net/rest/org/IPTEL-1
+
+ReferralServer: rwhois://rwhois.iptelligent.com:4321
+
+OrgNOCHandle: NOC3572-ARIN
+OrgNOCName:   Network Operations Center
+OrgNOCPhone:  +1-888-638-5893 
+OrgNOCEmail:  abuse@mia-noc.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC3572-ARIN
+
+OrgAbuseHandle: NOC3572-ARIN
+OrgAbuseName:   Network Operations Center
+OrgAbusePhone:  +1-888-638-5893 
+OrgAbuseEmail:  abuse@mia-noc.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NOC3572-ARIN
+
+OrgTechHandle: NOC3572-ARIN
+OrgTechName:   Network Operations Center
+OrgTechPhone:  +1-888-638-5893 
+OrgTechEmail:  abuse@mia-noc.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC3572-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to rwhois.iptelligent.com:4321.
+
+%rwhois V-1.0,V-1.5:00090h:00 manage.quadranet.com (Ubersmith RWhois Server V-3.1.5)
+autharea=96.47.224.0/20
+xautharea=96.47.224.0/20
+network:Class-Name:network
+network:Auth-Area:96.47.224.0/20
+network:ID:NET-32481.96.47.232.0/22
+network:Network-Name:Customer Leased IP Range
+network:IP-Network:96.47.232.0/22
+network:IP-Network-Block:96.47.232.0 - 96.47.235.255
+network:Org-Name:DIAHOSTING LIMITED
+network:Street-Address:914 South Street
+network:City:Sacramento
+network:State:CA
+network:Postal-Code:95814
+network:Country-Code:US
+network:Tech-Contact:MAINT-32481.96.47.232.0/22
+network:Created:20111208233815000
+network:Updated:20111208233815000
+network:Updated-By:support@quadranet.com
+contact:POC-Name:Network Administrator
+contact:POC-Email:support@quadranet.com
+contact:POC-Phone:1-888-5-QUADRA
+contact:Tech-Name:Network Administrator
+contact:Tech-Email:support@quadranet.com
+contact:Tech-Phone:1-888-5-QUADRA
+contact:Abuse-Name:Abuse Dept
+contact:Abuse-Email:abuse@quadranet.com
+contact:Abuse-Phone:EMAIL ONLY
+%ok

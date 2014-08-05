@@ -1,0 +1,123 @@
+64.175.221.74.in-addr.arpa domain name pointer 74-221-175-64.wimax.northern-wireless.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=74.221.175.64?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       74.221.172.0 - 74.221.175.255
+CIDR:           74.221.172.0/22
+OriginAS:       AS14955
+NetName:        NET-74-221-172-0-22
+NetHandle:      NET-74-221-172-0-1
+Parent:         NET-74-221-160-0-1
+NetType:        Reassigned
+RegDate:        2010-11-09
+Updated:        2010-11-09
+Ref:            http://whois.arin.net/rest/net/NET-74-221-172-0-1
+
+OrgName:        Northern Rural Cable Television
+OrgId:          NRCT-1
+Address:        39456 133rd Street
+City:           Bath
+StateProv:      SD
+PostalCode:     57427
+Country:        US
+RegDate:        2004-08-02
+Updated:        2011-09-24
+Ref:            http://whois.arin.net/rest/org/NRCT-1
+
+OrgAbuseHandle: NRCTV-ARIN
+OrgAbuseName:   NRCTV NOC
+OrgAbusePhone:  +1-605-225-0310 
+OrgAbuseEmail:  support@nrctv.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NRCTV-ARIN
+
+OrgTechHandle: NRCTV-ARIN
+OrgTechName:   NRCTV NOC
+OrgTechPhone:  +1-605-225-0310 
+OrgTechEmail:  support@nrctv.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NRCTV-ARIN
+
+RTechHandle: NRCTV-ARIN
+RTechName:   NRCTV NOC
+RTechPhone:  +1-605-225-0310 
+RTechEmail:  support@nrctv.com
+RTechRef:    http://whois.arin.net/rest/poc/NRCTV-ARIN
+
+# end
+
+
+# start
+
+NetRange:       74.221.160.0 - 74.221.175.255
+CIDR:           74.221.160.0/20
+OriginAS:       AS14955
+NetName:        NOVC-03
+NetHandle:      NET-74-221-160-0-1
+Parent:         NET-74-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2007-01-23
+Updated:        2012-03-02
+Ref:            http://whois.arin.net/rest/net/NET-74-221-160-0-1
+
+OrgName:        Northern Valley Communications LLC
+OrgId:          NOVC
+Address:        2211 NE 8th Ave
+Address:        Suite 1101
+City:           Aberdeen
+StateProv:      SD
+PostalCode:     57401
+Country:        US
+RegDate:        2000-02-16
+Updated:        2013-02-20
+Ref:            http://whois.arin.net/rest/org/NOVC
+
+ReferralServer: rwhois://rwhois.nvc.net:4321
+
+OrgAbuseHandle: ZN66-ARIN
+OrgAbuseName:   NOC
+OrgAbusePhone:  +1-605-725-1000 
+OrgAbuseEmail:  noc@nvc.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ZN66-ARIN
+
+OrgTechHandle: ZN66-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-605-725-1000 
+OrgTechEmail:  noc@nvc.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZN66-ARIN
+
+RTechHandle: ZN66-ARIN
+RTechName:   NOC
+RTechPhone:  +1-605-725-1000 
+RTechEmail:  noc@nvc.net
+RTechRef:    http://whois.arin.net/rest/poc/ZN66-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to rwhois.nvc.net:4321.
+

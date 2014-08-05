@@ -1,0 +1,43 @@
+Host 115.183.61.183.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '183.0.0.0 - 183.63.255.255'
+
+inetnum:        183.0.0.0 - 183.63.255.255
+netname:        CHINANET-GD
+descr:          CHINANET Guangdong province network
+descr:          Data Communication Division
+descr:          China Telecom
+country:        CN
+admin-c:        IC83-AP
+tech-c:         IC83-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+changed:        hm-changed@apnic.net 20091009
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CHINANET-GD
+source:         APNIC
+
+person:         IPMASTER CHINANET-GD
+nic-hdl:        IC83-AP
+e-mail:         ipadm@189.cn
+address:        NO.1,RO.DONGYUANHENG,YUEXIUNAN,GUANGZHOU
+phone:          +86-20-83877223
+fax-no:         +86-20-83877223
+country:        CN
+changed:        ipadm@189.cn 20110418
+mnt-by:         MAINT-CHINANET-GD
+remarks:        IPMASTER is not for spam complaint,please send spam complaint to abuse_gdnoc@189.cn
+abuse-mailbox:  antispam_gdnoc@189.cn
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS3)
+
+

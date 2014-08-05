@@ -1,0 +1,66 @@
+178.94.49.129.in-addr.arpa domain name pointer 094-178.csb.sunysb.edu.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=129.49.94.178?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       129.49.0.0 - 129.49.255.255
+CIDR:           129.49.0.0/16
+OriginAS:       
+NetName:        SUNY-SB
+NetHandle:      NET-129-49-0-0-1
+Parent:         NET-129-0-0-0-0
+NetType:        Direct Assignment
+RegDate:        1987-08-03
+Updated:        2014-03-24
+Ref:            http://whois.arin.net/rest/net/NET-129-49-0-0-1
+
+OrgName:        State University of New York at Stony Brook
+OrgId:          SUNYASB
+Address:        247 ECC Building
+City:           Stony Brook
+StateProv:      NY
+PostalCode:     11794-2620
+Country:        US
+RegDate:        1985-08-07
+Updated:        2013-12-17
+Comment:        Contact abuse@stonybrook.edu
+Ref:            http://whois.arin.net/rest/org/SUNYASB
+
+OrgAbuseHandle: BB3872-ARIN
+OrgAbuseName:   Barzideh, Behzad 
+OrgAbusePhone:  +1-631-632-2899 
+OrgAbuseEmail:  abuse@stonybrook.edu
+OrgAbuseRef:    http://whois.arin.net/rest/poc/BB3872-ARIN
+
+OrgTechHandle: BB3872-ARIN
+OrgTechName:   Barzideh, Behzad 
+OrgTechPhone:  +1-631-632-2899 
+OrgTechEmail:  abuse@stonybrook.edu
+OrgTechRef:    http://whois.arin.net/rest/poc/BB3872-ARIN
+
+RTechHandle: BB3872-ARIN
+RTechName:   Barzideh, Behzad 
+RTechPhone:  +1-631-632-2899 
+RTechEmail:  abuse@stonybrook.edu
+RTechRef:    http://whois.arin.net/rest/poc/BB3872-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
