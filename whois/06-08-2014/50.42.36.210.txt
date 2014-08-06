@@ -1,0 +1,137 @@
+210.36.42.50.in-addr.arpa domain name pointer static-50-42-36-210.mybh.sc.frontiernet.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=50.42.36.210?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       50.32.0.0 - 50.55.255.255
+CIDR:           50.32.0.0/12, 50.48.0.0/13
+OriginAS:       AS5650
+NetName:        FRONTIER-COMMUNICATIONS
+NetHandle:      NET-50-32-0-0-1
+Parent:         NET-50-0-0-0-0
+NetType:        Direct Allocation
+Comment:        All abuse issues will only be responded to by the Abuse
+Comment:        Team through the contact info found on handle ABUSE223-ARIN
+RegDate:        2010-09-24
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-50-32-0-0-1
+
+
+OrgName:        Frontier Communications of America, Inc.
+OrgId:          FRTR
+Address:        180 South Clinton AVE
+City:           Rochester
+StateProv:      NY
+PostalCode:     14646
+Country:        US
+RegDate:        1996-05-09
+Updated:        2009-09-29
+Comment:        all abuse complaints will only be answered when sent to abuse@frontiernet.net
+Ref:            http://whois.arin.net/rest/org/FRTR
+
+ReferralServer: rwhois://rwhois.frontiernet.net:4321
+
+OrgAbuseHandle: ABUSE223-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-866-474-7662 
+OrgAbuseEmail:  abuse@frontiernet.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE223-ARIN
+
+OrgTechHandle: ZF47-ARIN
+OrgTechName:   Frontier Communications
+OrgTechPhone:  +1-866-474-7662 
+OrgTechEmail:  netreg@epix.net
+OrgTechRef:    http://whois.arin.net/rest/poc/ZF47-ARIN
+
+RTechHandle: ZF47-ARIN
+RTechName:   Frontier Communications
+RTechPhone:  +1-866-474-7662 
+RTechEmail:  netreg@epix.net
+RTechRef:    http://whois.arin.net/rest/poc/ZF47-ARIN
+
+RAbuseHandle: ABUSE223-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-866-474-7662 
+RAbuseEmail:  abuse@frontiernet.net
+RAbuseRef:    http://whois.arin.net/rest/poc/ABUSE223-ARIN
+
+RNOCHandle: ZF47-ARIN
+RNOCName:   Frontier Communications
+RNOCPhone:  +1-866-474-7662 
+RNOCEmail:  netreg@epix.net
+RNOCRef:    http://whois.arin.net/rest/poc/ZF47-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to rwhois.frontiernet.net:4321.
+
+%rwhois V-1.5:002090:00 whois.frontiernet.net (by Network Solutions, Inc. V-1.5.9.6)
+network:Auth-Area:50.42.32.0/19
+network:ID:NET-50-42-36-208-28
+network:Network-Name:50-42-36-208-28
+network:IP-Network:50.42.36.208/28
+network:Org-Name;I:North Beach Plantation
+network:Street-Address:719 North Beach Blvd
+network:City:N Myrtle Bch
+network:State:SC
+network:Postal-Code:29582
+network:Country-Code:US
+network:Tech-Contact;I:DM89-FRTR
+network:Updated:20120210 15:45:45
+network:Updated-By:ipeng@frontiernet.net
+network:Class-Name:network
+
+network:Auth-Area:50.42.32.0/19
+network:ID:NET-50-42-36-0-24
+network:Network-Name:50-42-36-0-24
+network:IP-Network:50.42.36.0/24
+network:Org-Name;I:FIOS-S Frontier Communications Myrtle Beach SC
+network:Street-Address:914 CHESTER ST
+network:City:Myrtle Beach
+network:State:SC
+network:Postal-Code:29577
+network:Country-Code:US
+network:Tech-Contact;I:AM89-FRTR
+network:Admin-Contact;I:IPADMIN-FRTR
+network:Abuse-Contact;I:ABUSE-FRTR
+network:Updated:20110204
+network:Updated-By:ipeng@frontiernet.net
+network:Class-Name:network
+
+network:Auth-Area:50.42.32.0/19
+network:ID:NET-50-42-32-0-19
+network:Network-Name:50-42-32-0-19
+network:IP-Network:50.42.32.0/19
+network:Org-Name;I:Frontier Communications Solutions
+network:Street-Address:180 South Clinton Ave
+network:City:Rochester
+network:State:NY
+network:Postal-Code:14646
+network:Country-Code:US
+network:Tech-Contact;I:ABUSE-FRTR
+network:Admin-Contact;I:IPADMIN-FRTR
+network:Updated:20110112
+network:Updated-By:ipeng@frontiernet.net
+network:Class-Name:network
+
+%ok

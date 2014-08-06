@@ -1,0 +1,89 @@
+Host 113.72.196.62.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '62.196.72.64 - 62.196.72.127'
+
+% Abuse contact for '62.196.72.64 - 62.196.72.127' is 'registry@infracom.it'
+
+inetnum:        62.196.72.64 - 62.196.72.127
+netname:        EMAXY-SRL-NET-1
+descr:          Emaxy
+descr:          VIA G. MARCONI 5
+descr:          20077 - MELEGNANO
+country:        IT
+admin-c:        EAs73-RIPE
+admin-c:        ILC3-RIPE
+tech-c:         ETs31-RIPE
+tech-c:         IOC3-RIPE
+status:         ASSIGNED PA
+mnt-by:         INFRACOM-MNT
+source:         RIPE # Filtered
+
+role:           Infracom LIR Contacts
+address:        Infracom Italia S.p.A.
+address:        via Meucci, 14
+address:        37138 - Verona (VR)
+address:        IT
+phone:          +39 045 8271518
+fax-no:         +39 045 9690375
+org:            ORG-SIS3-RIPE
+admin-c:        RO2480-RIPE
+tech-c:         RO2480-RIPE
+nic-hdl:        ILC3-RIPE
+abuse-mailbox:  ops@infracom.it
+mnt-by:         INFRACOM-MNT
+source:         RIPE # Filtered
+
+role:           Infracom Operational Contacts
+address:        Infracom Italia S.p.A.
+address:        via Meucci, 14
+address:        37138 - Verona (VR)
+address:        IT
+phone:          +39 045 8271520
+fax-no:         +39 045 9690375
+org:            ORG-SIS3-RIPE
+admin-c:        RO2480-RIPE
+tech-c:         NP1122-RIPE
+tech-c:         PP4723-RIPE
+tech-c:         PP8733-RIPE
+nic-hdl:        IOC3-RIPE
+abuse-mailbox:  ops@infracom.it
+mnt-by:         INFRACOM-MNT
+source:         RIPE # Filtered
+
+person:         Emaxy Admin. support
+address:        Via P.Marcolini, 17/9
+address:        20070 Cerro al Lambro (MI)
+phone:          +390237924190
+fax-no:         +390237924191
+nic-hdl:        EAs73-RIPE
+mnt-by:         MNT-ANT
+source:         RIPE # Filtered
+
+person:         Emaxy Tech. support
+address:        Via P.Marcolini, 17/9
+address:        20070 Cerro al Lambro (MI)
+phone:          +390237924190
+fax-no:         +390237924191
+nic-hdl:        ETs31-RIPE
+mnt-by:         MNT-ANT
+source:         RIPE # Filtered
+
+% Information related to '62.196.0.0/16AS3302'
+
+route:          62.196.0.0/16
+descr:          Infracom Network Application
+origin:         AS3302
+mnt-by:         INFRACOM-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-1)
+
+

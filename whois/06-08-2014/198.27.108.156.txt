@@ -1,0 +1,107 @@
+Host 156.108.27.198.in-addr.arpa. not found: 3(NXDOMAIN)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=198.27.108.156?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       198.27.108.128 - 198.27.108.191
+CIDR:           198.27.108.128/26
+OriginAS:       AS16276
+NetName:        OVH-CUST-729565
+NetHandle:      NET-198-27-108-128-1
+Parent:         NET-198-27-64-0-1
+NetType:        Reassigned
+Comment:        OVH Static IP-CUST-729565
+RegDate:        2014-07-27
+Updated:        2014-07-27
+Ref:            http://whois.arin.net/rest/net/NET-198-27-108-128-1
+
+
+OrgName:        OVH Hosting, Inc.
+OrgId:          HO-2
+Address:        800-625, avenue du President Kennedy
+City:           Montreal
+StateProv:      QC
+PostalCode:     H3A 1K2
+Country:        CA
+RegDate:        2011-06-22
+Updated:        2014-07-08
+Ref:            http://whois.arin.net/rest/org/HO-2
+
+OrgTechHandle: NOC11876-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-855-684-5463 
+OrgTechEmail:  noc@ovh.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11876-ARIN
+
+OrgAbuseHandle: ABUSE3956-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-855-684-5463 
+OrgAbuseEmail:  abuse@ovh.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3956-ARIN
+
+# end
+
+
+# start
+
+NetRange:       198.27.64.0 - 198.27.127.255
+CIDR:           198.27.64.0/18
+OriginAS:       AS16276
+NetName:        OVH-ARIN-4
+NetHandle:      NET-198-27-64-0-1
+Parent:         NET-198-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2012-08-28
+Updated:        2013-10-21
+Ref:            http://whois.arin.net/rest/net/NET-198-27-64-0-1
+
+
+OrgName:        OVH Hosting, Inc.
+OrgId:          HO-2
+Address:        800-625, avenue du President Kennedy
+City:           Montreal
+StateProv:      QC
+PostalCode:     H3A 1K2
+Country:        CA
+RegDate:        2011-06-22
+Updated:        2014-07-08
+Ref:            http://whois.arin.net/rest/org/HO-2
+
+OrgTechHandle: NOC11876-ARIN
+OrgTechName:   NOC
+OrgTechPhone:  +1-855-684-5463 
+OrgTechEmail:  noc@ovh.net
+OrgTechRef:    http://whois.arin.net/rest/poc/NOC11876-ARIN
+
+OrgAbuseHandle: ABUSE3956-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-855-684-5463 
+OrgAbuseEmail:  abuse@ovh.ca
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3956-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
