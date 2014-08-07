@@ -1,0 +1,117 @@
+33.168.79.76.in-addr.arpa domain name pointer rrcs-76-79-168-33.west.biz.rr.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=76.79.168.33?showDetails=true&showARIN=false&ext=netref2
+#
+
+NetRange:       76.79.0.0 - 76.79.255.255
+CIDR:           76.79.0.0/16
+OriginAS:       
+NetName:        RCWE
+NetHandle:      NET-76-79-0-0-1
+Parent:         NET-76-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2007-04-05
+Updated:        2007-06-19
+Ref:            http://whois.arin.net/rest/net/NET-76-79-0-0-1
+
+OrgName:        Time Warner Cable Internet LLC
+OrgId:          RCWE
+Address:        13820 Sunrise Valley Drive
+City:           Herndon
+StateProv:      VA
+PostalCode:     20171
+Country:        US
+RegDate:        2001-09-26
+Updated:        2013-04-25
+Comment:        Allocations for this OrgID serve Road Runner commercial customers out of the Honolulu, HI, Kansas City, KS, Orange, CA and San Diego, CA RDCs.
+Ref:            http://whois.arin.net/rest/org/RCWE
+
+ReferralServer: rwhois://ipmt.rr.com:4321
+
+OrgAbuseHandle: ABUSE10-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-703-345-3416 
+OrgAbuseEmail:  abuse@rr.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE10-ARIN
+
+OrgTechHandle: IPTEC-ARIN
+OrgTechName:   IP Tech
+OrgTechPhone:  +1-703-345-3416 
+OrgTechEmail:  abuse@rr.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPTEC-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+
+Found a referral to ipmt.rr.com:4321.
+
+%rwhois V-1.5:0020b0:00 ipmt.rr.com (by Time Warner Cable, Inc. V-1.0)
+network:Class-Name:network
+network:ID:NETBLK-ISRC-76.79.128.0-17
+network:Auth-Area:76.79.128.0/17
+network:Org-Name:Road Runner Commercial
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-08-06 10:42:42
+network:IP-Network:76.79.128.0/17
+network:Admin-Contact:IPADD-ARIN
+network:IP-Network-Range:76.79.128.0 - 76.79.255.255
+
+network:Class-Name:network
+network:ID:NETBLK-ISRC-76.79.128.0-17
+network:Auth-Area:76.79.168.0/26
+network:Org-Name:KJLA
+network:Tech-Contact:ipaddreg@rr.com
+network:Updated:2014-08-06 10:42:43
+network:IP-Network:76.79.168.0/26
+network:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRC-76.79.128.0-17
+organization:Auth-Area:76.79.128.0/17
+organization:Org-Name:Road Runner Commercial
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:13820 Sunrise Valley Drive
+organization:City:Herndon
+organization:State:VA
+organization:Postal-Code:20171
+organization:Country-Code:US
+organization:Phone:703-345-3151
+organization:Updated:2014-08-06 10:42:42
+organization:Created:2014-08-06 10:42:42
+organization:Admin-Contact:IPADD-ARIN
+
+organization:Class-Name:organization
+organization:ID:NETBLK-ISRC-76.79.128.0-17
+organization:Auth-Area:76.79.168.0/26
+organization:Org-Name:KJLA
+organization:Tech-Contact:ipaddreg@rr.com
+organization:Street-Address:2323 Coriwth Ave
+organization:City:LOS ANGELES
+organization:State:CA
+organization:Postal-Code:90064
+organization:Country-Code:US
+organization:Phone:818-402-8930
+organization:Updated:2014-08-06 10:42:43
+organization:Created:2014-08-06 10:42:43
+organization:Admin-Contact:IPADD-ARIN
+
+%ok

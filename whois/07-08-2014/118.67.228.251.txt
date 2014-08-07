@@ -1,0 +1,64 @@
+Host 251.228.67.118.in-addr.arpa. not found: 3(NXDOMAIN)
+% [whois.apnic.net]
+% Whois data copyright terms    http://www.apnic.net/db/dbcopyright.html
+
+% Information related to '118.67.228.0 - 118.67.229.255'
+
+inetnum:        118.67.228.0 - 118.67.229.255
+netname:        NET4
+descr:          NET4-INFRA/LL-BB/Delhi
+descr:          Net4India Ltd.
+descr:          Internet Service Provider
+descr:          D-25, Sector 3, Noida,
+descr:          UP - 201301, INDIA
+country:        IN
+admin-c:        NET4-AP
+tech-c:         NET4-AP
+mnt-by:         MAINT-STERCAP-IN
+mnt-irt:        IRT-NET4-IN
+status:         ASSIGNED NON-PORTABLE
+changed:        networkadmin@net4.in 20090219
+source:         APNIC
+
+irt:            IRT-NET4-IN
+address:        Net4India Ltd.
+address:        D-25, Sector 3, Noida,
+address:        UP - 201301,
+address:        INDIA
+e-mail:         abuse@net4india.net
+abuse-mailbox:  abuse@net4india.net
+admin-c:        NET4-AP
+tech-c:         NET4-AP
+auth:           # Filtered
+mnt-by:         MAINT-STERCAP-IN
+changed:        networkadmin@net4.in 20101108
+source:         APNIC
+
+role:           Net4 NOC
+nic-hdl:        NET4-AP
+address:        Net4India Ltd.
+address:        D-25, Sector 3, Noida,
+address:        UP - 201301, INDIA
+phone:          +91-120-4323500
+fax-no:         +91-120-4323520
+country:        IN
+e-mail:         ipadmin@net4india.net
+admin-c:        NLIA4-AP
+tech-c:         NLNA4-AP
+mnt-by:         MAINT-STERCAP-IN
+changed:        networkadmin@net4.in 20080912
+source:         APNIC
+
+% Information related to '118.67.228.0/24AS17447'
+
+route:          118.67.228.0/24
+descr:          NET4 route object
+country:        IN
+origin:         AS17447
+mnt-by:         MAINT-STERCAP-IN
+changed:        networkadmin@net4.in 20080915
+source:         APNIC
+
+% This query was served by the APNIC Whois Service version 1.69.1-APNICv1r0 (WHOIS1)
+
+

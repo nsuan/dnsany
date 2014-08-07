@@ -1,0 +1,41 @@
+Host 67.23.242.197.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the AfriNIC Whois server.
+
+% Note: this output has been filtered.
+
+% Information related to '197.242.16.0 - 197.242.23.255'
+
+inetnum:        197.242.16.0 - 197.242.23.255
+netname:        iPi9-HOME-USERS-GROUP2
+descr:          For iPi9 customers (home users) part 2
+country:        GA
+admin-c:        JT3-AFRINIC
+admin-c:        RB4-AFRINIC
+tech-c:         RB4-AFRINIC
+status:         ASSIGNED PA
+mnt-by:         IPI9-MNT
+source:         AFRINIC # Filtered
+parent:         197.242.0.0 - 197.242.31.255
+
+person:         Jean-Baptiste TOMI
+address:        Quartier Haut de GuéGué
+                        B.P. 12 155, Libreville
+                        GABON
+phone:          +24103082330
+fax-no:         +241443742
+e-mail:         tomibati@ipi9.com
+nic-hdl:        JT3-AFRINIC
+source:         AFRINIC # Filtered
+
+person:         Raz BIRAMAH
+nic-hdl:        RB4-AFRINIC
+address:        Ruelle des Comelines
+address:        Quartier Haut de GueGue
+address:        Libreville 12155
+address:        Gabon
+e-mail:         rbiramah@ipi9.com
+phone:          +24102291717
+fax-no:         +24101446911
+source:         AFRINIC # Filtered
+
+

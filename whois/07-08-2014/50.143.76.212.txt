@@ -1,0 +1,127 @@
+212.76.143.50.in-addr.arpa domain name pointer c-50-143-76-212.hsd1.fl.comcast.net.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=50.143.76.212?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       50.143.0.0 - 50.143.127.255
+CIDR:           50.143.0.0/17
+OriginAS:       
+NetName:        MIAMI-30
+NetHandle:      NET-50-143-0-0-1
+Parent:         NET-50-128-0-0-1
+NetType:        Reassigned
+RegDate:        2012-04-30
+Updated:        2012-04-30
+Ref:            http://whois.arin.net/rest/net/NET-50-143-0-0-1
+
+CustName:       Comcast Cable Communications Holdings, Inc
+Address:        1800 Bishops Gate Blvd
+City:           Mt Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2012-04-30
+Updated:        2012-04-30
+Ref:            http://whois.arin.net/rest/customer/C02968617
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+RTechHandle: IC161-ARIN
+RTechName:   Comcast Cable Communications Inc
+RTechPhone:  +1-856-317-7200 
+RTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+RTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+RAbuseHandle: NAPO-ARIN
+RAbuseName:   Network Abuse and Policy Observance
+RAbusePhone:  +1-888-565-4329 
+RAbuseEmail:  abuse@comcast.net
+RAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+# end
+
+
+# start
+
+NetRange:       50.128.0.0 - 50.255.255.255
+CIDR:           50.128.0.0/9
+OriginAS:       AS7922
+NetName:        CCCH3-4
+NetHandle:      NET-50-128-0-0-1
+Parent:         NET-50-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2010-10-21
+Updated:        2010-10-21
+Ref:            http://whois.arin.net/rest/net/NET-50-128-0-0-1
+
+OrgName:        Comcast Cable Communications Holdings, Inc
+OrgId:          CCCH-3
+Address:        1800 Bishops Gate Blvd
+City:           Mt Laurel
+StateProv:      NJ
+PostalCode:     08054
+Country:        US
+RegDate:        2003-07-28
+Updated:        2008-10-04
+Ref:            http://whois.arin.net/rest/org/CCCH-3
+
+OrgAbuseHandle: NAPO-ARIN
+OrgAbuseName:   Network Abuse and Policy Observance
+OrgAbusePhone:  +1-888-565-4329 
+OrgAbuseEmail:  abuse@comcast.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+OrgTechHandle: IC161-ARIN
+OrgTechName:   Comcast Cable Communications Inc
+OrgTechPhone:  +1-856-317-7200 
+OrgTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+RTechHandle: IC161-ARIN
+RTechName:   Comcast Cable Communications Inc
+RTechPhone:  +1-856-317-7200 
+RTechEmail:  CNIPEO-Ip-registration@cable.comcast.com
+RTechRef:    http://whois.arin.net/rest/poc/IC161-ARIN
+
+RAbuseHandle: NAPO-ARIN
+RAbuseName:   Network Abuse and Policy Observance
+RAbusePhone:  +1-888-565-4329 
+RAbuseEmail:  abuse@comcast.net
+RAbuseRef:    http://whois.arin.net/rest/poc/NAPO-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

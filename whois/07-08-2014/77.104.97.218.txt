@@ -1,0 +1,45 @@
+Host 218.97.104.77.in-addr.arpa. not found: 3(NXDOMAIN)
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '77.104.97.0 - 77.104.98.255'
+
+% Abuse contact for '77.104.97.0 - 77.104.98.255' is 'abuse@respina.net'
+
+inetnum:        77.104.97.0 - 77.104.98.255
+netname:        ARMANNET
+descr:          Internet Service Provider
+country:        IR
+admin-c:        SM8224-RIPE
+tech-c:         SM8224-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-RSPN
+source:         RIPE # Filtered
+
+person:         Sam Mirzaghar
+address:        Between eighth and ninth Alley, Serahi Area, valiasr Blvd., Gachsaran, Kohkilooye, Iran  Zip code: 75717
+phone:          +98 (742) 422 2716
+phone:          +98 (742) 422 2680
+phone:          +98 (742) 422 2681
+fax-no:         +98 (742) 422 2682
+nic-hdl:        SM8224-RIPE
+mnt-by:         MNT-RSPN
+source:         RIPE # Filtered
+
+% Information related to '77.104.97.0/24AS42337'
+
+route:          77.104.97.0/24
+descr:          Respina-32
+origin:         AS42337
+mnt-by:         MNT-RSPN
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-3)
+
+

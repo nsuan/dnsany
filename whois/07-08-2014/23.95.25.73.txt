@@ -1,0 +1,111 @@
+73.25.95.23.in-addr.arpa domain name pointer host.colocrossing.com.
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=23.95.25.73?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       23.94.0.0 - 23.95.255.255
+CIDR:           23.94.0.0/15
+OriginAS:       AS36352
+NetName:        CC-16
+NetHandle:      NET-23-94-0-0-1
+Parent:         NET-23-0-0-0-0
+NetType:        Direct Allocation
+RegDate:        2013-08-16
+Updated:        2013-08-16
+Ref:            http://whois.arin.net/rest/net/NET-23-94-0-0-1
+
+OrgName:        ColoCrossing
+OrgId:          VGS-9
+Address:        8469 Sheridan Drive
+Address:        ATTN: ARIN
+City:           Williamsville
+StateProv:      NY
+PostalCode:     14221
+Country:        US
+RegDate:        2005-06-20
+Updated:        2012-01-10
+Ref:            http://whois.arin.net/rest/org/VGS-9
+
+OrgNOCHandle: VIALA-ARIN
+OrgNOCName:   Vial, Alex 
+OrgNOCPhone:  +1-716-335-9628 
+OrgNOCEmail:  avial@colocrossing.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/VIALA-ARIN
+
+OrgTechHandle: NETWO882-ARIN
+OrgTechName:   Network Operations
+OrgTechPhone:  +1-800-518-9716 
+OrgTechEmail:  support@colocrossing.com
+OrgTechRef:    http://whois.arin.net/rest/poc/NETWO882-ARIN
+
+OrgAbuseHandle: ABUSE3246-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-800-518-9716 
+OrgAbuseEmail:  abuse@colocrossing.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE3246-ARIN
+
+# end
+
+
+# start
+
+NetRange:       23.95.25.64 - 23.95.25.95
+CIDR:           23.95.25.64/27
+OriginAS:       AS36352
+NetName:        CC-23-95-25-64-27
+NetHandle:      NET-23-95-25-64-1
+Parent:         NET-23-94-0-0-1
+NetType:        Reallocated
+RegDate:        2014-07-15
+Updated:        2014-07-15
+Ref:            http://whois.arin.net/rest/net/NET-23-95-25-64-1
+
+OrgName:        Hudson Valley Host
+OrgId:          HVH-9
+Address:        610 Route 28
+City:           Kingston
+StateProv:      NY
+PostalCode:     12401
+Country:        US
+RegDate:        2012-11-07
+Updated:        2012-11-28
+Ref:            http://whois.arin.net/rest/org/HVH-9
+
+OrgAbuseHandle: HVHAT-ARIN
+OrgAbuseName:   Hudson Valley Host Abuse Team
+OrgAbusePhone:  +1-800-497-5377 
+OrgAbuseEmail:  abuse@hudsonvalleyhost.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/HVHAT-ARIN
+
+OrgTechHandle: HVHA-ARIN
+OrgTechName:   Hudson Valley Host Admin
+OrgTechPhone:  +1-800-497-5377 
+OrgTechEmail:  admin@HudsonValleyHost.com
+OrgTechRef:    http://whois.arin.net/rest/poc/HVHA-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+

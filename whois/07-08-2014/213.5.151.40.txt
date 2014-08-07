@@ -1,0 +1,63 @@
+40.151.5.213.in-addr.arpa domain name pointer 213-5-151-40.lw.lannet.pl.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '213.5.144.0 - 213.5.151.255'
+
+% Abuse contact for '213.5.144.0 - 213.5.151.255' is 'abuse@lannet.pl'
+
+inetnum:        213.5.144.0 - 213.5.151.255
+netname:        LANNET
+descr:          Lannet S.C. Marek Komala Jerzy Lomperta
+country:        PL
+geoloc:         54.128293 20.57338
+org:            ORG-LSMK1-RIPE
+admin-c:        MK13706-RIPE
+tech-c:         MK13706-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-lower:      RIPE-NCC-END-MNT
+mnt-by:         MK28220-MNT
+mnt-by:         DCENTER-MNT
+mnt-routes:     MK28220-MNT
+mnt-domains:    MK28220-MNT
+source:         RIPE # Filtered
+sponsoring-org: ORG-dszo13-RIPE
+
+organisation:   ORG-LSMK1-RIPE
+org-name:       Lannet S.C. Marek Komala Jerzy Lomperta
+org-type:       OTHER
+address:        Leyka 43/28
+address:        12-100 Szczytno
+address:        Poland
+abuse-c:        AR21803-RIPE
+mnt-ref:        MK28220-MNT
+mnt-by:         MK28220-MNT
+source:         RIPE # Filtered
+
+person:         Marek Komala
+address:        Pilsudskiego 3
+address:        11-100 Lidzbark Warminski
+phone:          +48501295600
+nic-hdl:        MK13706-RIPE
+mnt-by:         MK28220-MNT
+source:         RIPE # Filtered
+
+% Information related to '213.5.144.0/21AS199503'
+
+route:          213.5.144.0/21
+descr:          Lannet S.C. Marek Komala Jerzy Lomperta
+origin:         AS199503
+mnt-by:         MK28220-MNT
+mnt-by:         NETIA-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-3)
+
+
