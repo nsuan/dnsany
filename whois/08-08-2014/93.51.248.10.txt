@@ -1,0 +1,61 @@
+10.248.51.93.in-addr.arpa domain name pointer 93-51-248-10.ip269.fastwebnet.it.
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '93.51.248.0 - 93.51.248.63'
+
+% Abuse contact for '93.51.248.0 - 93.51.248.63' is 'abuse@fastweb.it'
+
+inetnum:        93.51.248.0 - 93.51.248.63
+netname:        FASTWEB-FILGEST
+descr:          FILGEST public subnet
+country:        IT
+admin-c:        RM15659-RIPE
+tech-c:         IRSN1-RIPE
+status:         ASSIGNED PA
+mnt-by:         FASTWEB-MNT
+remarks:        In case of improper use originating from our network,
+remarks:        please mail customer or abuse@fastweb.it
+source:         RIPE # Filtered
+
+person:         IP Registration Service NIS
+address:        Via Caracciolo, 51
+address:        20155 Milano MI
+address:        Italy
+phone:          +39 02 45451
+fax-no:         +39 02 45451
+nic-hdl:        IRSN1-RIPE
+mnt-by:         FASTWEB-MNT
+remarks:
+remarks:        In case of improper use originating
+remarks:        from our network,
+remarks:        please mail customer or abuse@fastweb.it
+remarks:
+source:         RIPE # Filtered
+
+person:         RAIMONDO MINARDO
+address:        STRADA STATALE 527
+address:        VAREDO MI
+address:        IT
+phone:          +39 0932769311
+nic-hdl:        RM15659-RIPE
+mnt-by:         FASTWEB-MNT
+source:         RIPE # Filtered
+
+% Information related to '93.48.0.0/13AS12874'
+
+route:          93.48.0.0/13
+descr:          Fastweb Networks block
+origin:         AS12874
+mnt-by:         FASTWEB-MNT
+source:         RIPE # Filtered
+
+% This query was served by the RIPE Database Query Service version 1.74.1 (DB-2)
+
+

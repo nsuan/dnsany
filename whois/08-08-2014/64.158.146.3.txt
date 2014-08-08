@@ -1,0 +1,170 @@
+Host 3.146.158.64.in-addr.arpa not found: 2(SERVFAIL)
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
+
+#
+# The following results may also be obtained via:
+# http://whois.arin.net/rest/nets;q=64.158.146.3?showDetails=true&showARIN=false&ext=netref2
+#
+
+
+# start
+
+NetRange:       64.158.146.0 - 64.158.146.255
+CIDR:           64.158.146.0/24
+OriginAS:       AS26481
+NetName:        REBEL-64-158-146-0-24
+NetHandle:      NET-64-158-146-0-2
+Parent:         NET-64-158-146-0-1
+NetType:        Reassigned
+RegDate:        2013-07-02
+Updated:        2013-07-02
+Ref:            http://whois.arin.net/rest/net/NET-64-158-146-0-2
+
+OrgName:        Rebel Hosting
+OrgId:          MOHAM-2
+Address:        P.O Box 504
+City:           Folsom
+StateProv:      CA
+PostalCode:     95763
+Country:        US
+RegDate:        2010-03-11
+Updated:        2011-09-26
+Ref:            http://whois.arin.net/rest/org/MOHAM-2
+
+OrgNOCHandle: NOC11360-ARIN
+OrgNOCName:   noc
+OrgNOCPhone:  +1-916-313-3800 
+OrgNOCEmail:  noc@rebelhosting.net
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOC11360-ARIN
+
+OrgTechHandle: TECH412-ARIN
+OrgTechName:   Tech
+OrgTechPhone:  +1-916-313-3899 
+OrgTechEmail:  support@rebelhosting.net
+OrgTechRef:    http://whois.arin.net/rest/poc/TECH412-ARIN
+
+OrgAbuseHandle: ABUSE2574-ARIN
+OrgAbuseName:   AbuseAdmin
+OrgAbusePhone:  +1-916-313-3800 
+OrgAbuseEmail:  abuse@rebelhosting.net
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE2574-ARIN
+
+# end
+
+
+# start
+
+NetRange:       64.158.146.0 - 64.158.147.255
+CIDR:           64.158.146.0/23
+OriginAS:       
+NetName:        LVLT-GIGLI-10-64-158-146
+NetHandle:      NET-64-158-146-0-1
+Parent:         NET-64-152-0-0-1
+NetType:        Reallocated
+RegDate:        2013-05-01
+Updated:        2013-05-01
+Ref:            http://whois.arin.net/rest/net/NET-64-158-146-0-1
+
+OrgName:        GIGLINX, Inc
+OrgId:          GIGLI-10
+Address:        6895 E Camelback Rd #115
+City:           Scottsdale
+StateProv:      AZ
+PostalCode:     85251
+Country:        US
+RegDate:        2011-04-11
+Updated:        2014-02-20
+Ref:            http://whois.arin.net/rest/org/GIGLI-10
+
+OrgTechHandle: TALBO2-ARIN
+OrgTechName:   Talbot, Laurel 
+OrgTechPhone:  +1-254-642-0001 
+OrgTechEmail:  laurel@giglinx.com
+OrgTechRef:    http://whois.arin.net/rest/poc/TALBO2-ARIN
+
+OrgAbuseHandle: ABUSE4627-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-480-447-4597 
+OrgAbuseEmail:  abuse@giglinx.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/ABUSE4627-ARIN
+
+OrgTechHandle: MAMOL1-ARIN
+OrgTechName:   Mamolen, Marcus 
+OrgTechPhone:  +1-310-374-1350 
+OrgTechEmail:  marcus@giglinx.com
+OrgTechRef:    http://whois.arin.net/rest/poc/MAMOL1-ARIN
+
+# end
+
+
+# start
+
+NetRange:       64.152.0.0 - 64.159.255.255
+CIDR:           64.152.0.0/13
+OriginAS:       
+NetName:        LC-ORG-ARIN
+NetHandle:      NET-64-152-0-0-1
+Parent:         NET-64-0-0-0-0
+NetType:        Direct Allocation
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+RegDate:        2000-06-08
+Updated:        2012-02-24
+Ref:            http://whois.arin.net/rest/net/NET-64-152-0-0-1
+
+
+OrgName:        Level 3 Communications, Inc.
+OrgId:          LVLT
+Address:        1025 Eldorado Blvd.
+City:           Broomfield
+StateProv:      CO
+PostalCode:     80021
+Country:        US
+RegDate:        1998-05-22
+Updated:        2012-01-30
+Comment:        ADDRESSES WITHIN THIS BLOCK ARE NON-PORTABLE
+Ref:            http://whois.arin.net/rest/org/LVLT
+
+OrgNOCHandle: NOCSU27-ARIN
+OrgNOCName:   NOC Support
+OrgNOCPhone:  +1-877-453-8353 
+OrgNOCEmail:  noc.coreip@level3.com
+OrgNOCRef:    http://whois.arin.net/rest/poc/NOCSU27-ARIN
+
+OrgAbuseHandle: APL8-ARIN
+OrgAbuseName:   Abuse POC LVLT
+OrgAbusePhone:  +1-877-453-8353 
+OrgAbuseEmail:  abuse@level3.com
+OrgAbuseRef:    http://whois.arin.net/rest/poc/APL8-ARIN
+
+OrgTechHandle: IPADD5-ARIN
+OrgTechName:   ipaddressing
+OrgTechPhone:  +1-877-453-8353 
+OrgTechEmail:  ipaddressing@level3.com
+OrgTechRef:    http://whois.arin.net/rest/poc/IPADD5-ARIN
+
+RTechHandle: LC-ORG-ARIN
+RTechName:   IP Administrations
+RTechPhone:  +1-877-453-8353 
+RTechEmail:  ipaddressing@level3.com
+RTechRef:    http://whois.arin.net/rest/poc/LC-ORG-ARIN
+
+# end
+
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/whois_tou.html
+#
+# If you see inaccuracies in the results, please report at
+# http://www.arin.net/public/whoisinaccuracy/index.xhtml
+#
+
